@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2023-05-24T07:15:27.004Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" version="21.3.3" etag="yheOwQCyUeBD5KZp-P2K" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-24T07:29:41.381Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="DfSxBZ2B7woquJmoDUr7" version="21.3.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1223" dy="898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="621" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-2" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="WIyWlLk6GJQsqaUBKTNV-6" edge="1">
+        <mxCell id="u9uHfp1kI_pTbxwr263I-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="u9uHfp1kI_pTbxwr263I-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Lamp doesn&#39;t work" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="160" y="80" width="120" height="40" as="geometry" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="130" y="10" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-4" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-10" edge="1">
           <mxGeometry y="20" relative="1" as="geometry">
@@ -21,10 +21,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="Lamp&lt;br&gt;plugged in?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="170" y="170" width="100" height="80" as="geometry" />
+          <mxGeometry x="410" y="410" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-7" value="Plug in lamp" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="320" y="190" width="120" height="40" as="geometry" />
+          <mxGeometry x="560" y="430" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-8" value="No" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" target="WIyWlLk6GJQsqaUBKTNV-11" edge="1">
           <mxGeometry x="0.3333" y="20" relative="1" as="geometry">
@@ -37,13 +37,31 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-10" value="Bulb&lt;br&gt;burned out?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="170" y="290" width="100" height="80" as="geometry" />
+          <mxGeometry x="410" y="530" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" value="Repair Lamp" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="160" y="430" width="120" height="40" as="geometry" />
+          <mxGeometry x="400" y="670" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="Replace Bulb" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="320" y="310" width="120" height="40" as="geometry" />
+          <mxGeometry x="560" y="550" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="u9uHfp1kI_pTbxwr263I-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="u9uHfp1kI_pTbxwr263I-1" target="u9uHfp1kI_pTbxwr263I-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u9uHfp1kI_pTbxwr263I-1" value="动作顺序号n=1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="130" y="70" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="u9uHfp1kI_pTbxwr263I-6" value="等待流程指令？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="150" y="170" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="u9uHfp1kI_pTbxwr263I-10" value="" style="swimlane;startSize=0;dashed=1;dashPattern=8 8;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="90" y="135" width="200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="u9uHfp1kI_pTbxwr263I-11" value="PLC通信" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="u9uHfp1kI_pTbxwr263I-10">
+          <mxGeometry x="20" y="10" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u9uHfp1kI_pTbxwr263I-12" value="&lt;h1&gt;自动控制流程&lt;/h1&gt;&lt;div&gt;共有6钟工序号，取值0-5&lt;/div&gt;&lt;div&gt;&lt;p style=&quot;margin-left:18.0000pt;text-indent:-18.0000pt;mso-char-indent-count:0.0000;&lt;br/&gt;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;&lt;br/&gt;mso-list:l0 level1 lfo1;&quot; align=&quot;justify&quot; class=&quot;15&quot;&gt;0-&amp;nbsp;视觉检测工位移载到出料小车命令&lt;span style=&quot;font-size: 11pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-left:18.0000pt;text-indent:-18.0000pt;mso-char-indent-count:0.0000;&lt;br/&gt;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;&lt;br/&gt;mso-list:l0 level1 lfo1;&quot; align=&quot;justify&quot; class=&quot;15&quot;&gt;&lt;span style=&quot;font-size: 11pt;&quot;&gt;1-&amp;nbsp;&lt;/span&gt;焊接工位2移载到视觉检测工位命令&lt;span style=&quot;font-size: 11pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-left:18.0000pt;text-indent:-18.0000pt;mso-char-indent-count:0.0000;&lt;br/&gt;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;&lt;br/&gt;mso-list:l0 level1 lfo1;&quot; align=&quot;justify&quot; class=&quot;15&quot;&gt;&lt;span style=&quot;font-size: 11pt;&quot;&gt;2-&amp;nbsp;&lt;/span&gt;中间工位移载到焊接工位2命令&lt;span style=&quot;font-size: 11pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-left:18.0000pt;text-indent:-18.0000pt;mso-char-indent-count:0.0000;&lt;br/&gt;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;&lt;br/&gt;mso-list:l0 level1 lfo1;&quot; align=&quot;justify&quot; class=&quot;15&quot;&gt;&lt;span style=&quot;font-size: 11pt;&quot;&gt;3-&amp;nbsp;&lt;/span&gt;焊接工位1移载到中间工位命令&lt;span style=&quot;font-size: 11pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-left:18.0000pt;text-indent:-18.0000pt;mso-char-indent-count:0.0000;&lt;br/&gt;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;&lt;br/&gt;mso-list:l0 level1 lfo1;&quot; align=&quot;justify&quot; class=&quot;15&quot;&gt;&lt;span style=&quot;font-size: 11pt;&quot;&gt;4-&amp;nbsp;&lt;/span&gt;上料到焊接工位1工序命令&lt;span style=&quot;font-size: 11pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-left:18.0000pt;text-indent:-18.0000pt;mso-char-indent-count:0.0000;&lt;br/&gt;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;&lt;br/&gt;mso-list:l0 level1 lfo1;&quot; align=&quot;justify&quot; class=&quot;15&quot;&gt;&lt;span style=&quot;font-size: 11pt;&quot;&gt;5-&amp;nbsp;&lt;/span&gt;视觉检测工位移载到NG出料处.&lt;span style=&quot;font-size: 11pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;&quot;&gt;其他值&lt;/font&gt;&lt;font style=&quot;&quot;&gt;-&lt;/font&gt;&lt;font style=&quot;&quot;&gt;无定义&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="500" y="30" width="190" height="330" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
