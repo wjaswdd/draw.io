@@ -1,17 +1,35 @@
-<mxfile host="app.diagrams.net" modified="2023-05-25T13:54:27.072Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="2vpkXHAn0xTLsaIaTfs1" version="21.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-25T14:01:11.944Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="zZiWcz5VPLtu84FKaMaL" version="21.3.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="738" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="ru7NdLou58xo1xpjUCot-0" value="&lt;h1&gt;状态模式+组合模式&lt;/h1&gt;&lt;div&gt;&lt;b&gt;目的&lt;/b&gt;：实现自动线程的和程序定义传感器组。&lt;/div&gt;&lt;div&gt;&lt;b&gt;成员对象：&lt;/b&gt;&lt;/div&gt;&lt;div&gt;环境类 DHProcedural:保存和切换状态&lt;/div&gt;&lt;div&gt;状态类State: 工序的状态&lt;/div&gt;&lt;div&gt;具体状态类 Concrete State:实例化状态&lt;/div&gt;&lt;div&gt;抽象类 Component:抽象类，定义统一的处理操作&lt;/div&gt;&lt;div&gt;叶子对象Leaf:单个对象&lt;/div&gt;&lt;div&gt;组合对象:里面持有一个List&amp;lt;Component&amp;gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="41" y="40" width="329" height="290" as="geometry" />
+          <mxGeometry x="41" y="40" width="329" height="170" as="geometry" />
         </mxCell>
         <mxCell id="ru7NdLou58xo1xpjUCot-1" value="&lt;h1&gt;各个工序部分独立&lt;br&gt;&lt;/h1&gt;&lt;p&gt;工序独立是可以任意拓展多个工序或者之前的工序任意组合。&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="390" y="100" width="190" height="120" as="geometry" />
+          <mxGeometry x="41" y="220" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ru7NdLou58xo1xpjUCot-2" value="&lt;h1&gt;传感器组&lt;br&gt;&lt;/h1&gt;传感器组是将单个或者多个传感器程序中列为一组，可以设定或者读取传感器组中各个传感器的逻辑组合电平和实际电平，传感器组对外的接口是统一的，设定传感器组的参数是字符串，1代表高电平，0代表低电平，可以一次性设定传感器组所有的传感器的电平状态，例如“1 0 1”就是将一个有三个传感器的组依次设定传感器的电平是1、0、1。&lt;p&gt;.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="390" y="230" width="190" height="220" as="geometry" />
+          <mxGeometry x="41" y="365" width="289" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="ru7NdLou58xo1xpjUCot-7" value="环境类&lt;br&gt;&lt;b&gt;DHProcedural&lt;/b&gt;" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=55;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="480" y="160" width="270" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="ru7NdLou58xo1xpjUCot-9" value="- State:state&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;//状态" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" vertex="1" parent="ru7NdLou58xo1xpjUCot-7">
+          <mxGeometry y="55" width="270" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ru7NdLou58xo1xpjUCot-10" value="&lt;font color=&quot;#000000&quot;&gt;- Component:component&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;//标志&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#808080;whiteSpace=wrap;" vertex="1" parent="ru7NdLou58xo1xpjUCot-7">
+          <mxGeometry y="75" width="270" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ru7NdLou58xo1xpjUCot-12" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="ru7NdLou58xo1xpjUCot-7">
+          <mxGeometry y="95" width="270" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="ru7NdLou58xo1xpjUCot-14" value="+ upgradeState() : void&lt;br&gt;//1.委托不同的对象去操作&lt;br&gt;//2.进行逻辑判断，更新状态" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" vertex="1" parent="ru7NdLou58xo1xpjUCot-7">
+          <mxGeometry y="103" width="270" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="ru7NdLou58xo1xpjUCot-15" value="+Play(): void&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;//kaishiyundong&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" vertex="1" parent="ru7NdLou58xo1xpjUCot-7">
+          <mxGeometry y="160" width="270" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
