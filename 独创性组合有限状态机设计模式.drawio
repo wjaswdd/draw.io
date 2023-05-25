@@ -1,11 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2023-05-25T13:53:21.591Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="A1kTsAn_-FAXKpYUaV-F" version="21.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-25T13:54:27.072Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="2vpkXHAn0xTLsaIaTfs1" version="21.3.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="738" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="ru7NdLou58xo1xpjUCot-0" value="&lt;h1&gt;状态模式+组合模式&lt;/h1&gt;&lt;div&gt;&lt;b&gt;目的&lt;/b&gt;：实现自动线程的各个工序部分独立和程序定义传感器组，工序独立是可以任意拓展多个工序或者之前的工序任意组合，传感器组是将单个或者多个传感器程序中列为一组，可以设定或者读取传感器组中各个传感器的逻辑组合电平和实际电平，传感器组对外的接口是统一的，设定传感器组的参数是字符串，1代表高电平，0代表低电平，可以一次性设定传感器组所有的传感器的电平状态，例如“1 0 1”就是将一个有三个传感器的组依次设定传感器的电平是1、0、1。&lt;/div&gt;&lt;div&gt;&lt;b&gt;成员对象：&lt;/b&gt;&lt;/div&gt;&lt;div&gt;环境类 DHProcedural:保存和切换状态&lt;/div&gt;&lt;div&gt;状态类State: 工序的状态&lt;/div&gt;&lt;div&gt;具体状态类 Concrete State:实例化状态&lt;/div&gt;&lt;div&gt;抽象类 Component:抽象类，定义统一的处理操作&lt;/div&gt;&lt;div&gt;叶子对象Leaf:单个对象&lt;/div&gt;&lt;div&gt;组合对象:里面持有一个List&amp;lt;Component&amp;gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="41" y="40" width="299" height="230" as="geometry" />
+        <mxCell id="ru7NdLou58xo1xpjUCot-0" value="&lt;h1&gt;状态模式+组合模式&lt;/h1&gt;&lt;div&gt;&lt;b&gt;目的&lt;/b&gt;：实现自动线程的和程序定义传感器组。&lt;/div&gt;&lt;div&gt;&lt;b&gt;成员对象：&lt;/b&gt;&lt;/div&gt;&lt;div&gt;环境类 DHProcedural:保存和切换状态&lt;/div&gt;&lt;div&gt;状态类State: 工序的状态&lt;/div&gt;&lt;div&gt;具体状态类 Concrete State:实例化状态&lt;/div&gt;&lt;div&gt;抽象类 Component:抽象类，定义统一的处理操作&lt;/div&gt;&lt;div&gt;叶子对象Leaf:单个对象&lt;/div&gt;&lt;div&gt;组合对象:里面持有一个List&amp;lt;Component&amp;gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="41" y="40" width="329" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="ru7NdLou58xo1xpjUCot-1" value="&lt;h1&gt;各个工序部分独立&lt;br&gt;&lt;/h1&gt;&lt;p&gt;工序独立是可以任意拓展多个工序或者之前的工序任意组合。&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="390" y="100" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ru7NdLou58xo1xpjUCot-2" value="&lt;h1&gt;传感器组&lt;br&gt;&lt;/h1&gt;传感器组是将单个或者多个传感器程序中列为一组，可以设定或者读取传感器组中各个传感器的逻辑组合电平和实际电平，传感器组对外的接口是统一的，设定传感器组的参数是字符串，1代表高电平，0代表低电平，可以一次性设定传感器组所有的传感器的电平状态，例如“1 0 1”就是将一个有三个传感器的组依次设定传感器的电平是1、0、1。&lt;p&gt;.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="390" y="230" width="190" height="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
