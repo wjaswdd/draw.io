@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-25T08:01:09.908Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="nCr6iWqYbu0gfdu5eJxK" version="21.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-25T08:13:09.784Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="mkitzdTX68KBO5zK9NS3" version="21.3.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="988" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -46,10 +46,10 @@
           <mxGeometry x="300" y="780" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-CUF5e7ndzkKFXifJuJV-0" value="&lt;h1&gt;通信界面&lt;/h1&gt;&lt;div&gt;通信内容逻辑判断&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="630" y="20" width="190" height="120" as="geometry" />
+          <mxGeometry x="600" y="490" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="-CUF5e7ndzkKFXifJuJV-1" value="静态类CommonModbus" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="370" y="268" width="330" height="130" as="geometry" />
+          <mxGeometry x="390" y="264" width="330" height="130" as="geometry" />
         </mxCell>
         <mxCell id="-CUF5e7ndzkKFXifJuJV-2" value="+ Com_PLC_Start:&amp;nbsp;ComMessSstruct" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="-CUF5e7ndzkKFXifJuJV-1">
           <mxGeometry y="26" width="330" height="26" as="geometry" />
@@ -64,7 +64,7 @@
           <mxGeometry y="104" width="330" height="26" as="geometry" />
         </mxCell>
         <mxCell id="-CUF5e7ndzkKFXifJuJV-5" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;读写KepServer类OpcTool&lt;/span&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="40" y="290" width="250" height="86" as="geometry" />
+          <mxGeometry x="50" y="260" width="250" height="138" as="geometry" />
         </mxCell>
         <mxCell id="-CUF5e7ndzkKFXifJuJV-6" value="+ handler_DataChanged: void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="-CUF5e7ndzkKFXifJuJV-5">
           <mxGeometry y="26" width="250" height="26" as="geometry" />
@@ -74,6 +74,30 @@
         </mxCell>
         <mxCell id="-CUF5e7ndzkKFXifJuJV-8" value="+ handler_BoolDataChanged: void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="-CUF5e7ndzkKFXifJuJV-5">
           <mxGeometry y="60" width="250" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="-CUF5e7ndzkKFXifJuJV-14" value="+ SendBoolSignal: void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="-CUF5e7ndzkKFXifJuJV-5">
+          <mxGeometry y="86" width="250" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="-CUF5e7ndzkKFXifJuJV-15" value="+ SendShortSignal: void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="-CUF5e7ndzkKFXifJuJV-5">
+          <mxGeometry y="112" width="250" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="-CUF5e7ndzkKFXifJuJV-16" value="开源OPC客户端专用通信协议接口open62541" style="html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="110" y="130" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-CUF5e7ndzkKFXifJuJV-17" value="1" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=bottom;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.48;entryY=0.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-CUF5e7ndzkKFXifJuJV-16" target="-CUF5e7ndzkKFXifJuJV-5">
+          <mxGeometry x="-1" y="3" relative="1" as="geometry">
+            <mxPoint x="320" y="130" as="sourcePoint" />
+            <mxPoint x="480" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-CUF5e7ndzkKFXifJuJV-18" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-CUF5e7ndzkKFXifJuJV-5" target="-CUF5e7ndzkKFXifJuJV-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="190" y="470" as="sourcePoint" />
+            <mxPoint x="350" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-CUF5e7ndzkKFXifJuJV-19" value="&lt;h1&gt;通信线程类图&lt;/h1&gt;&lt;p&gt;opctool封装了开源opc通信协议并且使用回调函数同步地将变化的通信内容存放在静态类中，通信线程就是读写静态类的值，如果出现数据变化就会开始进行通信内容逻辑判断&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="580" y="110" width="200" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
