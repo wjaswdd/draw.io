@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-25T08:26:39.723Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="0QZ_b6AuLqT_U2Cx22xX" version="21.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-25T08:30:33.146Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="EQoo6XR6ZoFAcyOQpngx" version="21.3.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="988" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,10 +7,10 @@
         <mxCell id="-CUF5e7ndzkKFXifJuJV-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="-CUF5e7ndzkKFXifJuJV-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="布尔型变量bool内容判断" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="布尔型变量Com_PLC_Start内容判断" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="115" y="670" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-CUF5e7ndzkKFXifJuJV-0" value="&lt;h1&gt;通信线程plcthread&lt;/h1&gt;&lt;div&gt;布尔型/数值型的通信内容逻辑判断&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="-CUF5e7ndzkKFXifJuJV-0" value="&lt;h1&gt;通信线程plcthread&lt;/h1&gt;&lt;div&gt;布尔型/数值型的通信内容逻辑判断，信号的值是高电平或者低电平，但是这些信号例如启动，暂停，复位等只需要触发一次&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="335" y="680" width="220" height="120" as="geometry" />
         </mxCell>
         <mxCell id="-CUF5e7ndzkKFXifJuJV-1" value="静态类CommonModbus" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -100,8 +100,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-CUF5e7ndzkKFXifJuJV-33" value="布尔型触发标志位flag=false" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="-CUF5e7ndzkKFXifJuJV-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-CUF5e7ndzkKFXifJuJV-33" target="-CUF5e7ndzkKFXifJuJV-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-CUF5e7ndzkKFXifJuJV-33" value="布尔型触发标志位置低flag=false，false代表没有触发过，true代表正在触发" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="115" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-CUF5e7ndzkKFXifJuJV-35" value="如果Start当前值是1并且标志位flag没有触发" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="135" y="880" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
