@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-25T08:33:47.651Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="-i3ArYA7Z2h3PimCWk7F" version="21.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-25T08:34:24.223Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="Lje9IK15p9ZsJJe6A5Di" version="21.3.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="988" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -113,7 +113,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-CUF5e7ndzkKFXifJuJV-35" value="如果Start当前值是高电平并且标志位flag没有触发？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="135" y="850" width="80" height="80" as="geometry" />
+          <mxGeometry x="117.5" y="850" width="115" height="110" as="geometry" />
         </mxCell>
         <mxCell id="-CUF5e7ndzkKFXifJuJV-37" value="布尔型触发标志位置低flag=true;发送启动信号" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="115" y="1020" width="120" height="60" as="geometry" />
@@ -122,7 +122,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-CUF5e7ndzkKFXifJuJV-41" value="如果Start当前值是低电平并且标志位flag正在触发？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="295" y="850" width="80" height="80" as="geometry" />
+          <mxGeometry x="278.75" y="847.5" width="112.5" height="115" as="geometry" />
         </mxCell>
         <mxCell id="-CUF5e7ndzkKFXifJuJV-43" value="布尔型触发标志位置低flag=false;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="275" y="1020" width="120" height="60" as="geometry" />
