@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-27T08:40:00.321Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="0h_Fcltxk8y9tj_0QLok" version="21.3.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-27T08:40:14.551Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="UJXyZsPliQ58hn3vchIl" version="21.3.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1430" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,10 +8,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tb2BSFKgp5volHdFknrF-1" value="文件" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="220" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="385" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tb2BSFKgp5volHdFknrF-2" value="【特性】&lt;br&gt;文件地址QFile&lt;br&gt;文件指针QString" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="210" y="10" width="130" height="45" as="geometry" />
+          <mxGeometry x="375" y="270" width="130" height="45" as="geometry" />
         </mxCell>
         <mxCell id="tb2BSFKgp5volHdFknrF-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tb2BSFKgp5volHdFknrF-3" target="tb2BSFKgp5volHdFknrF-1">
           <mxGeometry relative="1" as="geometry" />
@@ -20,16 +20,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tb2BSFKgp5volHdFknrF-3" value="json读/写接口" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="220" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="385" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tb2BSFKgp5volHdFknrF-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tb2BSFKgp5volHdFknrF-6" target="tb2BSFKgp5volHdFknrF-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tb2BSFKgp5volHdFknrF-6" value="写/读数据" style="whiteSpace=wrap;html=1;rounded=0;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="220" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="385" y="580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tb2BSFKgp5volHdFknrF-8" value="写接口用到的是数据转换成字符插入；&lt;br&gt;读接口用到的是条目判断及依次读取条目内容；" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="15" y="325" width="170" height="55" as="geometry" />
+          <mxGeometry x="180" y="585" width="170" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
