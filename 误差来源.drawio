@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-24T11:41:27.491Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Q5f3fFd2RoR7HQSlb22J" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-24T11:46:32.880Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="i4I8ocF5esbPAiHcl41H" version="21.5.0" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1185" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -72,6 +72,9 @@
         </mxCell>
         <mxCell id="ux9FGk7YxiCrDKr7o1Dm-42" value="&lt;h1&gt;动态误差&lt;/h1&gt;&lt;div&gt;弹性变形误差：变形误差是运动平台在负载下，由于外力或过大的惯性&lt;span style=&quot;font-family: 宋体; font-size: 10.45pt; background-color: initial;&quot;&gt;力是产生的变形&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: 宋体; font-size: 10.45pt; background-color: initial;&quot;&gt;振动误差：&lt;/span&gt;振动误差由运动平台的频率决定，&lt;span style=&quot;font-family: 宋体; font-size: 10.45pt; background-color: initial;&quot;&gt;需要建立动态刚度模型并补偿到控制器中&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;伺服驱动误差：指伺服驱动器驱动能力不足导致电机失步引起的位移误差&lt;/div&gt;&lt;/div&gt;&lt;div&gt;主轴回转误差（×）：主轴旋转加工时主轴旋转中心线相对于理论的距离&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="470" y="760" width="290" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-44" value="&lt;h1&gt;误差定义&lt;br&gt;&lt;/h1&gt;&lt;div&gt;误差就是系统希望控制轴所达到的位置，但是由于各种原因现在反馈位置与期望位置有差值，这个差值就是距离&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="610" width="190" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
