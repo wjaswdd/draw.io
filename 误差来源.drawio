@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-24T12:58:40.441Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="XogtiWNOADeUYyG3Qg60" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-24T12:59:36.428Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="xbEaFk_XeRVDpiJQ8oDe" version="21.5.0" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1728" dy="890" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1430" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -48,8 +48,27 @@
         <mxCell id="ux9FGk7YxiCrDKr7o1Dm-9" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;静态误差&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry x="346" y="160" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="ux9FGk7YxiCrDKr7o1Dm-10" target="ux9FGk7YxiCrDKr7o1Dm-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1066" y="250" />
+              <mxPoint x="896" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="ux9FGk7YxiCrDKr7o1Dm-10" target="ux9FGk7YxiCrDKr7o1Dm-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="ux9FGk7YxiCrDKr7o1Dm-10" target="ux9FGk7YxiCrDKr7o1Dm-40">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1066" y="250" />
+              <mxPoint x="1234" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ux9FGk7YxiCrDKr7o1Dm-10" value="动态误差" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="1246" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="1006" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ux9FGk7YxiCrDKr7o1Dm-11" value="热误差" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry x="1836" y="160" width="120" height="60" as="geometry" />
@@ -85,13 +104,13 @@
           <mxGeometry x="656" y="320" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ux9FGk7YxiCrDKr7o1Dm-38" value="振动误差" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="986" y="320" width="120" height="80" as="geometry" />
+          <mxGeometry x="836" y="320" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ux9FGk7YxiCrDKr7o1Dm-39" value="弹性变形误差" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="1158" y="320" width="120" height="80" as="geometry" />
+          <mxGeometry x="1006" y="320" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ux9FGk7YxiCrDKr7o1Dm-40" value="伺服驱动误差" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="1326" y="320" width="120" height="80" as="geometry" />
+          <mxGeometry x="1174" y="320" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ux9FGk7YxiCrDKr7o1Dm-1" value="&lt;h1&gt;误差来源-实际上是重复定位误差补偿&lt;/h1&gt;&lt;div&gt;1、静态误差&lt;/div&gt;&lt;div&gt;2、动态误差&lt;/div&gt;&lt;div&gt;3、热误差&lt;/div&gt;&lt;div&gt;4、其他误差&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="560" y="600" width="270" height="230" as="geometry" />
