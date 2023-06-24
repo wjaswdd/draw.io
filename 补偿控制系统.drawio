@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-24T11:59:43.912Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="NyHVSvImQvXX4qzbS1Mu" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-24T12:07:57.516Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="qgp5cr2y6HFUVVGy3cXD" version="21.5.0" type="github">
   <diagram name="第 1 页" id="JhHIipqr7uCRNzOelNXE">
     <mxGraphModel dx="2257" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -304,7 +304,7 @@
         <mxCell id="nJraD3ANBiAQbve93qyU-140" value="优化" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nJraD3ANBiAQbve93qyU-132" target="nJraD3ANBiAQbve93qyU-139">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nJraD3ANBiAQbve93qyU-142" value="&lt;br&gt;改进" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nJraD3ANBiAQbve93qyU-132" target="nJraD3ANBiAQbve93qyU-141">
+        <mxCell id="nJraD3ANBiAQbve93qyU-142" value="大跃进" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nJraD3ANBiAQbve93qyU-132" target="nJraD3ANBiAQbve93qyU-141">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="414" y="1650" />
@@ -318,7 +318,7 @@
         <mxCell id="nJraD3ANBiAQbve93qyU-134" value="&lt;h1&gt;在机测量误差&lt;br&gt;&lt;/h1&gt;&lt;div&gt;（西工大）3、&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;在机测量误差&lt;/b&gt;：通过&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;使用激光干涉仪&lt;/b&gt;，通过分光镜、反射镜、干涉仪的位置识别X,Y,Z三个线性轴的离散位置定位误差，&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;通过加装回转轴校准装置&lt;/b&gt;识别B,C两个旋转轴角度定位误差，使用样条曲线拟合X,Y,Z,B,C轴误差，样条曲线拟合C轴定位误差，X,Y,Z线性轴的行程范围是约束条件，旋转轴的转角范围也是约束条件。&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="690" y="1660" width="320" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="nJraD3ANBiAQbve93qyU-138" value="&lt;br&gt;优化" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nJraD3ANBiAQbve93qyU-136" target="nJraD3ANBiAQbve93qyU-134">
+        <mxCell id="nJraD3ANBiAQbve93qyU-138" value="大跃进" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nJraD3ANBiAQbve93qyU-136" target="nJraD3ANBiAQbve93qyU-134">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nJraD3ANBiAQbve93qyU-136" value="&lt;h1&gt;传统测量方法&lt;br&gt;&lt;/h1&gt;&lt;div&gt;（日本大隈株式会所）4、：测定&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;角度偏差&lt;/b&gt;的情况下，记载有使用&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;激光水平仪、光学式角度偏差测定器&lt;/b&gt;的方法。测量&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;直角度&lt;/b&gt;的情况下，记载了使用&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;直尺、直角尺和测微仪&lt;/b&gt;的方法。使用激光同事测定定位误差、直线度、角度偏差&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
