@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-24T09:42:07.860Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="6R2yh9aK6djoZROqieGl" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-24T09:56:07.918Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="smnpOELTemG9B4FmYqKn" version="21.5.0" type="github">
   <diagram name="第 1 页" id="JhHIipqr7uCRNzOelNXE">
-    <mxGraphModel dx="3790" dy="1606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2555" dy="937" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -110,7 +110,7 @@
         <mxCell id="nJraD3ANBiAQbve93qyU-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="nJraD3ANBiAQbve93qyU-27" source="nJraD3ANBiAQbve93qyU-51" target="nJraD3ANBiAQbve93qyU-80">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nJraD3ANBiAQbve93qyU-51" value="误差补偿" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="nJraD3ANBiAQbve93qyU-27">
+        <mxCell id="nJraD3ANBiAQbve93qyU-51" value="误差补偿算法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="nJraD3ANBiAQbve93qyU-27">
           <mxGeometry x="570" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nJraD3ANBiAQbve93qyU-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="nJraD3ANBiAQbve93qyU-27" source="nJraD3ANBiAQbve93qyU-66" target="nJraD3ANBiAQbve93qyU-51">
@@ -229,8 +229,11 @@
         <mxCell id="nJraD3ANBiAQbve93qyU-95" value="获得原始指令点位脉冲cmd_org" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1470" y="1350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nJraD3ANBiAQbve93qyU-96" value="&lt;h1&gt;误差加权迭代的补偿方法&lt;/h1&gt;&lt;div&gt;每个误差e都有加权值w,总误差etotal=多个w×e相加，0.1&amp;lt;=w&amp;lt;=1,w可以动态调整误差&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1920" y="1370" width="300" height="140" as="geometry" />
+        <mxCell id="nJraD3ANBiAQbve93qyU-129" value="&lt;br&gt;改进" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nJraD3ANBiAQbve93qyU-96" target="nJraD3ANBiAQbve93qyU-128">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nJraD3ANBiAQbve93qyU-96" value="&lt;h1&gt;误差加权迭代的补偿算法（上海铼纳克）&lt;/h1&gt;&lt;div&gt;每个误差e都有加权值w,总误差etotal=多个w×e相加，0.1&amp;lt;=w&amp;lt;=1,w可以动态调整误差&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1670" y="1250" width="300" height="140" as="geometry" />
         </mxCell>
         <mxCell id="nJraD3ANBiAQbve93qyU-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nJraD3ANBiAQbve93qyU-97" target="nJraD3ANBiAQbve93qyU-95">
           <mxGeometry relative="1" as="geometry" />
@@ -282,6 +285,9 @@
         </mxCell>
         <mxCell id="nJraD3ANBiAQbve93qyU-123" value="补偿后的位置指令脉冲" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1970" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nJraD3ANBiAQbve93qyU-128" value="&lt;h1&gt;多次误差加权迭代的补偿算法（大连光洋）&lt;/h1&gt;&lt;div&gt;每个误差e都有加权值w,总误差etotal=多个w×e相加，0.1&amp;lt;=w&amp;lt;=1,w可以动态调整误差&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2050" y="1260" width="320" height="300" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
