@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-24T02:51:30.829Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="WUYdNc3NQY58YWXDnAKI" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-24T02:57:38.838Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="J0pdN4WadHLMogL6IF26" version="21.5.0" type="github">
   <diagram name="第 1 页" id="JhHIipqr7uCRNzOelNXE">
     <mxGraphModel dx="1185" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,22 +8,37 @@
           <mxGeometry x="620" y="880" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="nJraD3ANBiAQbve93qyU-2" value="补偿控制系统" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="244" y="260" width="316" height="260" as="geometry" />
+          <mxGeometry x="244" y="110" width="316" height="260" as="geometry" />
         </mxCell>
         <mxCell id="nJraD3ANBiAQbve93qyU-3" value="数据预处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="nJraD3ANBiAQbve93qyU-2">
           <mxGeometry x="35" y="105" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nJraD3ANBiAQbve93qyU-4" value="&lt;h1&gt;数据预处理&lt;/h1&gt;&lt;div&gt;对数据进行预处理，筛选掉异常数据，例如：耗材使用错误，喷头堵塞，之后对比错误解决方法库，获得对应的处理方案&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="307" y="900" width="190" height="120" as="geometry" />
+          <mxGeometry x="300" y="1000" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="nJraD3ANBiAQbve93qyU-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nJraD3ANBiAQbve93qyU-3" target="nJraD3ANBiAQbve93qyU-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nJraD3ANBiAQbve93qyU-9" value="错误解决方法库" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="244" y="600" width="190" height="150" as="geometry" />
+          <mxGeometry x="244" y="435" width="190" height="150" as="geometry" />
         </mxCell>
         <mxCell id="nJraD3ANBiAQbve93qyU-6" value="错误处理方案" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="nJraD3ANBiAQbve93qyU-9">
           <mxGeometry x="35" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nJraD3ANBiAQbve93qyU-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nJraD3ANBiAQbve93qyU-12" target="nJraD3ANBiAQbve93qyU-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nJraD3ANBiAQbve93qyU-12" value="误差标定" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nJraD3ANBiAQbve93qyU-13" value="预先补偿" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nJraD3ANBiAQbve93qyU-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nJraD3ANBiAQbve93qyU-14" target="nJraD3ANBiAQbve93qyU-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nJraD3ANBiAQbve93qyU-14" value="调用补偿算法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="830" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
