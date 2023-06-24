@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-24T13:06:11.218Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="dGR5Kp3NiFEIEaTFAgBa" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-24T13:30:30.792Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="EmOcjfMeHZO43igC4yNQ" version="21.5.0" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="2440" dy="1256" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2074" dy="1068" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -120,7 +120,7 @@
         <mxCell id="ux9FGk7YxiCrDKr7o1Dm-12" value="其他误差" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry x="1726" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-13" value="通信时延误差" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-13" value="通信时延误差" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry x="36" y="320" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ux9FGk7YxiCrDKr7o1Dm-14" value="机械加工精度" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
@@ -132,16 +132,16 @@
         <mxCell id="ux9FGk7YxiCrDKr7o1Dm-16" value="设备易发热件" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry x="1496" y="320" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-18" value="传动间隙误差" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-18" value="传动间隙误差" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry x="346" y="320" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-19" value="几何误差" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-19" value="几何误差" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry x="506" y="320" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ux9FGk7YxiCrDKr7o1Dm-21" value="外界干扰" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry x="1666" y="320" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-35" value="隐藏误差" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-35" value="隐藏误差" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry x="1816" y="320" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ux9FGk7YxiCrDKr7o1Dm-37" value="质量误差" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
