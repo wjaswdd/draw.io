@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-24T07:07:56.670Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="nuyuYJISxA7GW12CTLeM" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-24T07:46:45.452Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="CqAEQGQhSFJrpxjTED5n" version="21.5.0" type="github">
   <diagram name="第 1 页" id="JhHIipqr7uCRNzOelNXE">
     <mxGraphModel dx="1185" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -49,8 +49,14 @@
         <mxCell id="nJraD3ANBiAQbve93qyU-18" value="多个位置测量共同构成（重复）运动位置补偿模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="1370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nJraD3ANBiAQbve93qyU-21" value="&lt;h1&gt;误差标定&lt;/h1&gt;&lt;div&gt;1、目前使用的做法是基于二维图像配准（福大），引入图形以及直接解析函数方法获得工件偏移和初始角度误差&lt;/div&gt;&lt;div&gt;（福大）2、现有技术大多是基于球杆仪和激光干涉仪等仪器，测量出与位置相关的几何误差并后续通过算法对其进行补偿。但这些误差检测方法均是针对检测相对固定的运动机构几何误差或测量系统安装误差，无法对工件的安装定位误差进行在线测量和辨识&lt;/div&gt;&lt;div&gt;（西工大）3、通过使用激光干涉仪，通过分光镜、反射镜、干涉仪的位置识别X,Y,Z三个线性轴的离散位置定位误差，通过加装回转轴校准装置识别B,C两个旋转轴角度定位误差，使用样条曲线拟合X,Y,Z,B,C轴误差，样条曲线拟合C轴定位误差&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="340" y="1360" width="380" height="250" as="geometry" />
+        <mxCell id="nJraD3ANBiAQbve93qyU-21" value="&lt;h1&gt;误差标定&lt;/h1&gt;&lt;div&gt;1、目前使用的做法是类似二维图像配准（福大），引入图形以及直接解析函数方法获得工件偏移和初始角度误差&lt;/div&gt;&lt;div&gt;（福大）2、二维图像配准：现有技术大多是基于球杆仪和激光干涉仪等仪器，测量出与位置相关的几何误差并后续通过算法对其进行补偿。&lt;b&gt;但这些误差检测方法均是针对检测相对固定的运动机构几何误差或测量系统安装误差，无法对工件的安装定位误差进行在线测量和辨识&lt;/b&gt;&lt;/div&gt;&lt;div&gt;（西工大）3、&lt;b&gt;在机测量误差&lt;/b&gt;：通过&lt;b&gt;使用激光干涉仪&lt;/b&gt;，通过分光镜、反射镜、干涉仪的位置识别X,Y,Z三个线性轴的离散位置定位误差，&lt;b&gt;通过加装回转轴校准装置&lt;/b&gt;识别B,C两个旋转轴角度定位误差，使用样条曲线拟合X,Y,Z,B,C轴误差，样条曲线拟合C轴定位误差，X,Y,Z线性轴的行程范围是约束条件，旋转轴的转角范围也是约束条件。&lt;/div&gt;&lt;div&gt;（日本大隈株式会所）：测定&lt;b&gt;角度偏差&lt;/b&gt;的情况下，记载有使用&lt;b&gt;激光水平仪、光学式角度偏差测定器&lt;/b&gt;的方法。测量&lt;b&gt;直角度&lt;/b&gt;的情况下，记载了使用&lt;b&gt;直尺、直角尺和测微仪&lt;/b&gt;的方法。使用激光同事测定定位误差、直线度、角度偏差&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1260" width="440" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="nJraD3ANBiAQbve93qyU-23" value="&lt;h1&gt;在机（在线）测量&lt;/h1&gt;&lt;div&gt;在机测量是通过在运动平台运动轴加装测头，将承担加工工序的运动平台转化为在机测量的载体。在机测量保证测量过程与加工过程的连续性，是实现自适应加工的关键技术。然而，运动平台作为机内测量的载体，测量过程中运动平台因各机构运动会引入诸多的误差，这些直接影响运动平台的精度，进而导致在机测量精度的可信度一直受到质疑。&lt;/div&gt;&lt;div&gt;ISO标准中给出了定位精度的辨识方法和相关设备，很多学制也对定位误差的辨识和补偿进行了研究。&lt;/div&gt;&lt;div&gt;少有学者深入研究在机测量过程中运动平台的定位误差的积累方式，缺乏依据定位误差分布来进行在机测量误差与优化测量工艺的预测&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1620" width="380" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="nJraD3ANBiAQbve93qyU-24" value="&lt;h1&gt;虚拟主轴控制&lt;/h1&gt;&lt;p&gt;在运动控制系统中，有实轴和虚轴之分。实轴是指关联有实际的物理轴，而虚轴是没有实际的物理轴与之关联，虚轴的理论运动代表了电机轴无误差时的运动&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1880" width="390" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
