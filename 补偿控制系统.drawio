@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-06-24T02:40:01.711Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.5.0" etag="-B7cQ9Mj6xrkPM_kolLM" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-24T02:41:17.518Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="EN7oS6Cq1W3l0bFjInTH" version="21.5.0" type="github">
   <diagram name="第 1 页" id="JhHIipqr7uCRNzOelNXE">
-    <mxGraphModel>
+    <mxGraphModel dx="1185" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="nJraD3ANBiAQbve93qyU-1" value="&lt;h1&gt;补偿控制系统&lt;/h1&gt;&lt;div&gt;使用的是采集误差，预测补偿，所以需要考虑误差的影响因素，准确预测很重要。察觉到误差再补偿就不能准确预测了&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="560" width="190" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
