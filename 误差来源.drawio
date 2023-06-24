@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-06-24T13:01:27.061Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="TWqHVk6wSa-zQHzLeCVM" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-24T13:02:52.035Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="2rYs9r7PzKu0MR60Bs9o" version="21.5.0" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1728" dy="890" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="dNxyNK7c78bLwvsdeMH5-11" value="误差来源" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" parent="1" vertex="1">
-          <mxGeometry x="34" y="50" width="2026" height="470" as="geometry" />
+          <mxGeometry x="34" y="50" width="2026" height="490" as="geometry" />
         </mxCell>
         <mxCell id="ux9FGk7YxiCrDKr7o1Dm-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="ux9FGk7YxiCrDKr7o1Dm-8" target="ux9FGk7YxiCrDKr7o1Dm-9">
           <mxGeometry relative="1" as="geometry">
@@ -27,7 +27,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1226" y="130" />
-              <mxPoint x="1516" y="130" />
+              <mxPoint x="1476" y="130" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -35,7 +35,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1226" y="130" />
-              <mxPoint x="1826" y="130" />
+              <mxPoint x="1786" y="130" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -109,7 +109,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ux9FGk7YxiCrDKr7o1Dm-11" value="热误差" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="1456" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="1416" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ux9FGk7YxiCrDKr7o1Dm-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="ux9FGk7YxiCrDKr7o1Dm-12" target="ux9FGk7YxiCrDKr7o1Dm-21">
           <mxGeometry relative="1" as="geometry" />
@@ -118,7 +118,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ux9FGk7YxiCrDKr7o1Dm-12" value="其他误差" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="1766" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="1726" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ux9FGk7YxiCrDKr7o1Dm-13" value="通信时延误差" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry x="36" y="320" width="120" height="80" as="geometry" />
@@ -127,10 +127,10 @@
           <mxGeometry x="196" y="320" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ux9FGk7YxiCrDKr7o1Dm-15" value="外界环境" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="1376" y="320" width="120" height="80" as="geometry" />
+          <mxGeometry x="1336" y="320" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ux9FGk7YxiCrDKr7o1Dm-16" value="设备易发热件" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="1536" y="320" width="120" height="80" as="geometry" />
+          <mxGeometry x="1496" y="320" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ux9FGk7YxiCrDKr7o1Dm-18" value="传动间隙误差" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry x="346" y="320" width="120" height="80" as="geometry" />
@@ -139,10 +139,10 @@
           <mxGeometry x="506" y="320" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ux9FGk7YxiCrDKr7o1Dm-21" value="外界干扰" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="1706" y="320" width="120" height="80" as="geometry" />
+          <mxGeometry x="1666" y="320" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ux9FGk7YxiCrDKr7o1Dm-35" value="隐藏误差" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="1856" y="320" width="120" height="80" as="geometry" />
+          <mxGeometry x="1816" y="320" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ux9FGk7YxiCrDKr7o1Dm-37" value="质量误差" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry x="656" y="320" width="120" height="80" as="geometry" />
