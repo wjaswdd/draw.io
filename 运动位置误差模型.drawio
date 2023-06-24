@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-24T12:15:18.000Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="mkUo9aEaYsLPJKOPxyqC" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-24T12:17:08.533Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="h7Bml1-x0hgt1c_GxDK_" version="21.5.0" type="github">
   <diagram name="第 1 页" id="POoLvG0KGlz7YIlAlJ7y">
     <mxGraphModel dx="1430" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -78,8 +78,8 @@
         <mxCell id="0pfpKlWeKUPqLyrlaD7A-31" value="&lt;h1&gt;其他误差&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="827" y="30" width="190" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="0pfpKlWeKUPqLyrlaD7A-32" value="&lt;h1&gt;传动机构误差&lt;/h1&gt;（重庆理工大学）多&lt;b&gt;误差特征补偿&lt;/b&gt;：&lt;br&gt;垂直误差：R&#39;=R+dR=R+(a/2)Rsin2sita&lt;br&gt;反向间隙：R&#39;=R+dR=R+" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="330" width="200" height="190" as="geometry" />
+        <mxCell id="0pfpKlWeKUPqLyrlaD7A-32" value="&lt;h1&gt;传动机构误差&lt;/h1&gt;（重庆理工大学）多&lt;b&gt;误差特征补偿&lt;/b&gt;：&lt;br&gt;垂直误差：R&#39;=R+dR=R+(a/2)Rsin2sita&lt;br&gt;反向间隙：R&#39;=R+dR=R+daota/2cossita&lt;br&gt;热变形或者装配引起的直线度误差：...&lt;br&gt;滚珠丝杆引起的周期性误差:..." style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="330" width="240" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
