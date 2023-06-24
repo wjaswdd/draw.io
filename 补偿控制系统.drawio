@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-24T03:27:46.174Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="UQf16Fokq933mHv-hN8R" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-24T03:42:11.195Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="6xubLQ66h_vN9lB12e1t" version="21.5.0" type="github">
   <diagram name="第 1 页" id="JhHIipqr7uCRNzOelNXE">
     <mxGraphModel dx="1185" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -49,7 +49,7 @@
         <mxCell id="nJraD3ANBiAQbve93qyU-18" value="多个位置测量共同构成（重复）运动位置补偿模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="1370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nJraD3ANBiAQbve93qyU-21" value="&lt;h1&gt;误差标定&lt;/h1&gt;&lt;div&gt;1、目前使用的做法是基于二维图像配准&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="nJraD3ANBiAQbve93qyU-21" value="&lt;h1&gt;误差标定&lt;/h1&gt;&lt;div&gt;1、目前使用的做法是基于二维图像配准（福大），引入图形以及直接解析函数方法获得工件偏移和初始角度误差&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="1360" width="190" height="120" as="geometry" />
         </mxCell>
       </root>
