@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-24T12:07:57.516Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="qgp5cr2y6HFUVVGy3cXD" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-24T12:30:51.156Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="XjuAAJSej9J6lMdQwwjV" version="21.5.0" type="github">
   <diagram name="第 1 页" id="JhHIipqr7uCRNzOelNXE">
     <mxGraphModel dx="2257" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -233,7 +233,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nJraD3ANBiAQbve93qyU-95" value="获得原始指令点位脉冲cmd_org" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1470" y="1350" width="120" height="60" as="geometry" />
+          <mxGeometry x="1750" y="1490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nJraD3ANBiAQbve93qyU-129" value="&lt;br&gt;改进" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nJraD3ANBiAQbve93qyU-96" target="nJraD3ANBiAQbve93qyU-128">
           <mxGeometry relative="1" as="geometry" />
@@ -245,34 +245,34 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nJraD3ANBiAQbve93qyU-97" value="加工程序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1470" y="1240" width="120" height="60" as="geometry" />
+          <mxGeometry x="1750" y="1380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nJraD3ANBiAQbve93qyU-102" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nJraD3ANBiAQbve93qyU-99" target="nJraD3ANBiAQbve93qyU-101">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nJraD3ANBiAQbve93qyU-99" value="设置补偿值adj" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1470" y="1460" width="120" height="60" as="geometry" />
+          <mxGeometry x="1750" y="1600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nJraD3ANBiAQbve93qyU-104" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nJraD3ANBiAQbve93qyU-101" target="nJraD3ANBiAQbve93qyU-103">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nJraD3ANBiAQbve93qyU-101" value="计算当前指令脉冲cmd=cmd_org*adj" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1470" y="1600" width="120" height="60" as="geometry" />
+          <mxGeometry x="1750" y="1740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nJraD3ANBiAQbve93qyU-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nJraD3ANBiAQbve93qyU-103" target="nJraD3ANBiAQbve93qyU-105">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nJraD3ANBiAQbve93qyU-103" value="执行当前指令，获得实际响应r" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1470" y="1740" width="120" height="60" as="geometry" />
+          <mxGeometry x="1750" y="1880" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nJraD3ANBiAQbve93qyU-108" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nJraD3ANBiAQbve93qyU-105" target="nJraD3ANBiAQbve93qyU-107">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nJraD3ANBiAQbve93qyU-105" value="计算误差err" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1470" y="1880" width="120" height="60" as="geometry" />
+          <mxGeometry x="1750" y="2020" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nJraD3ANBiAQbve93qyU-107" value="调整指令点：adj=adj*w+(1-k)*err,0&amp;lt;k&amp;lt;1" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1470" y="2020" width="120" height="60" as="geometry" />
+          <mxGeometry x="1750" y="2160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nJraD3ANBiAQbve93qyU-122" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nJraD3ANBiAQbve93qyU-113" target="nJraD3ANBiAQbve93qyU-121">
           <mxGeometry relative="1" as="geometry" />
@@ -293,7 +293,7 @@
           <mxGeometry x="1970" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nJraD3ANBiAQbve93qyU-128" value="&lt;h1&gt;多次误差加权迭代的补偿算法（大连光洋）&lt;/h1&gt;&lt;div&gt;X实际位置=X理论位置+K1×F(X,Y,Z)&lt;/div&gt;&lt;div&gt;K1是权重，F(X,Y,Z)是误差函数&lt;/div&gt;&lt;div&gt;第一次补偿就是&lt;/div&gt;&lt;div&gt;EX1=K1×F(X,Y,Z)&lt;/div&gt;&lt;div&gt;第二次补偿就是&lt;/div&gt;&lt;div&gt;EX2=K1×F(X,Y,Z)+K2×F(X,Y,Z)&lt;/div&gt;&lt;div&gt;以此类推，EX=...直至精度提升到满足要求的情况&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;补偿项目不固定，可通过添加的方式加入每个补偿特征的项目，支持多个&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2100" y="1180" width="320" height="300" as="geometry" />
+          <mxGeometry x="2120" y="1169" width="320" height="300" as="geometry" />
         </mxCell>
         <mxCell id="nJraD3ANBiAQbve93qyU-131" value="&lt;h1&gt;确定误差模型系数&lt;/h1&gt;&lt;div&gt;（川大）最小二乘估计、自回归计算残差法&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="550" y="1000" width="190" height="120" as="geometry" />
@@ -304,7 +304,7 @@
         <mxCell id="nJraD3ANBiAQbve93qyU-140" value="优化" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nJraD3ANBiAQbve93qyU-132" target="nJraD3ANBiAQbve93qyU-139">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nJraD3ANBiAQbve93qyU-142" value="大跃进" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nJraD3ANBiAQbve93qyU-132" target="nJraD3ANBiAQbve93qyU-141">
+        <mxCell id="nJraD3ANBiAQbve93qyU-142" value="大提升" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nJraD3ANBiAQbve93qyU-132" target="nJraD3ANBiAQbve93qyU-141">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="414" y="1650" />
@@ -318,7 +318,7 @@
         <mxCell id="nJraD3ANBiAQbve93qyU-134" value="&lt;h1&gt;在机测量误差&lt;br&gt;&lt;/h1&gt;&lt;div&gt;（西工大）3、&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;在机测量误差&lt;/b&gt;：通过&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;使用激光干涉仪&lt;/b&gt;，通过分光镜、反射镜、干涉仪的位置识别X,Y,Z三个线性轴的离散位置定位误差，&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;通过加装回转轴校准装置&lt;/b&gt;识别B,C两个旋转轴角度定位误差，使用样条曲线拟合X,Y,Z,B,C轴误差，样条曲线拟合C轴定位误差，X,Y,Z线性轴的行程范围是约束条件，旋转轴的转角范围也是约束条件。&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="690" y="1660" width="320" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="nJraD3ANBiAQbve93qyU-138" value="大跃进" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nJraD3ANBiAQbve93qyU-136" target="nJraD3ANBiAQbve93qyU-134">
+        <mxCell id="nJraD3ANBiAQbve93qyU-138" value="大提升" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nJraD3ANBiAQbve93qyU-136" target="nJraD3ANBiAQbve93qyU-134">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nJraD3ANBiAQbve93qyU-136" value="&lt;h1&gt;传统测量方法&lt;br&gt;&lt;/h1&gt;&lt;div&gt;（日本大隈株式会所）4、：测定&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;角度偏差&lt;/b&gt;的情况下，记载有使用&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;激光水平仪、光学式角度偏差测定器&lt;/b&gt;的方法。测量&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;直角度&lt;/b&gt;的情况下，记载了使用&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;直尺、直角尺和测微仪&lt;/b&gt;的方法。使用激光同事测定定位误差、直线度、角度偏差&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
@@ -329,6 +329,9 @@
         </mxCell>
         <mxCell id="nJraD3ANBiAQbve93qyU-141" value="&lt;h1&gt;双目相机标定误差&lt;br&gt;&lt;/h1&gt;&lt;div&gt;（大连理工）6、&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;双目相机标定误差&lt;/b&gt;：用&lt;b&gt;定位基准上的5个编码点来表征运动平台运动误差&lt;/b&gt;，将编码点理论位置与测量的实际位置对比，得到含有误差元素的矩阵。有效&lt;b&gt;解决了因测量设备能力的限制造成的模型及辨识算法复杂化、测量流程繁琐问题&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry y="1770" width="320" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="nJraD3ANBiAQbve93qyU-143" value="&lt;h1&gt;误差补偿实时控制系统（清华）&lt;/h1&gt;&lt;div&gt;螺距误差引起的机床定位误差和轨迹跟踪误差&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;脉冲编码器和旋转变压器常用作半闭环控制，光栅和磁栅用作全闭环控制的反馈元件，感应同步器用作数显控制&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;PC机+运动平台+反馈元件&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;搭建的控制系统，没有算法的，就是构建实时控制系统&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="1670" width="340" height="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
