@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-24T07:26:12.713Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="1oZANstdMw0jti9l--jQ" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-24T09:25:41.898Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="o9o1Q5I9grRHJCJCA1L3" version="21.5.0" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1185" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -43,7 +43,7 @@
         <mxCell id="ux9FGk7YxiCrDKr7o1Dm-21" value="外界干扰" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry x="2146" y="320" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-35" value="随机误差" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-35" value="隐藏误差" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry x="2296" y="320" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ux9FGk7YxiCrDKr7o1Dm-37" value="质量误差" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
@@ -61,16 +61,16 @@
         <mxCell id="ux9FGk7YxiCrDKr7o1Dm-1" value="&lt;h1&gt;误差来源-实际上是重复定位误差补偿&lt;/h1&gt;&lt;div&gt;1、静态误差&lt;/div&gt;&lt;div&gt;2、动态误差&lt;/div&gt;&lt;div&gt;3、热误差&lt;/div&gt;&lt;div&gt;4、其他误差&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="560" y="600" width="270" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-17" value="&lt;h1&gt;热误差&lt;/h1&gt;&lt;div&gt;热误差的影响因素有外因和内因&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;外界环境温度（数值）&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;运动轴的转速、加速度、材料及属性&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="920" y="760" width="190" height="150" as="geometry" />
+        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-17" value="&lt;h1&gt;热误差&lt;/h1&gt;&lt;div&gt;热误差的影响因素有所处环境和所受本体&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;外部温度场：外界环境温度（数值）、车间建筑结构、照明灯、太阳光&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;内部温度场：润滑系统、冷却系统、传动系统、运动轴的转速、加速度、材料及属性等本体影响温度因素的集合&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="920" y="760" width="310" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-20" value="&lt;h1&gt;静态误差&lt;/h1&gt;&lt;div&gt;几何误差：由机台结构、零部件制造安装引起的&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-20" value="&lt;h1&gt;静态误差&lt;/h1&gt;&lt;div&gt;几何误差：由机台结构、零部件制造安装引起的，装配误差引起的直线度误差、角度偏差（俯仰、偏航、摇晃）、直角度&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="90" y="760" width="190" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-36" value="&lt;h1&gt;其他误差&lt;/h1&gt;&lt;div&gt;外界干扰&lt;/div&gt;&lt;div&gt;随机误差：预紧力、装配精度、&lt;/div&gt;零件磨损&lt;span style=&quot;background-color: initial;&quot;&gt;（对重复定位精度影响大）&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="760" width="190" height="150" as="geometry" />
+        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-36" value="&lt;h1&gt;其他误差&lt;/h1&gt;&lt;div&gt;外界干扰&lt;/div&gt;&lt;div&gt;隐藏误差：&lt;/div&gt;（南京航空航天大学）&lt;span style=&quot;background-color: initial;&quot;&gt;预紧力；装配精度；零&lt;/span&gt;件磨损（对重复定位精度影响大）&lt;br&gt;（天津大学）工作台支撑距离；滚珠丝杆作为支撑轴承其刚度；光栅尺安装位置；外部负载；丝杆挠度变化；工作台应变；滑块应变/应力；关键点温度；导轨基面直线度/垂直度；&lt;br&gt;(上海铼纳克) 机械刚性；运动部件惯量；温度；摩擦系统；润滑条件等物理因素影响同时也受到控制系统运动控制律；伺服系统响应速度等算法因素的影响；惯性因素在相同的加工条件下具有极大的相似性" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="760" width="440" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-42" value="&lt;h1&gt;动态误差&lt;/h1&gt;&lt;div&gt;弹性变形误差：变形误差是运动平台在负载下，由于外力或过大的惯性&lt;span style=&quot;font-family: 宋体; font-size: 10.45pt; background-color: initial;&quot;&gt;力是产生的变形&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: 宋体; font-size: 10.45pt; background-color: initial;&quot;&gt;振动误差：&lt;/span&gt;振动误差由运动平台的频率决定，&lt;span style=&quot;font-family: 宋体; font-size: 10.45pt; background-color: initial;&quot;&gt;需要建立动态刚度模型并补偿到控制器中&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;伺服驱动误差：指伺服驱动器驱动能力不足导致电机失步引起的位移误差&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-42" value="&lt;h1&gt;动态误差&lt;/h1&gt;&lt;div&gt;弹性变形误差：变形误差是运动平台在负载下，由于外力或过大的惯性&lt;span style=&quot;font-family: 宋体; font-size: 10.45pt; background-color: initial;&quot;&gt;力是产生的变形&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: 宋体; font-size: 10.45pt; background-color: initial;&quot;&gt;振动误差：&lt;/span&gt;振动误差由运动平台的频率决定，&lt;span style=&quot;font-family: 宋体; font-size: 10.45pt; background-color: initial;&quot;&gt;需要建立动态刚度模型并补偿到控制器中&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;伺服驱动误差：指伺服驱动器驱动能力不足导致电机失步引起的位移误差&lt;/div&gt;&lt;/div&gt;&lt;div&gt;主轴回转误差（×）：主轴旋转加工时主轴旋转中心线相对于理论的距离&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="470" y="760" width="290" height="190" as="geometry" />
         </mxCell>
       </root>
