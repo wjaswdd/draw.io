@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-24T08:48:55.317Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="8tL_midUei4H3GmJxjoB" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-24T09:22:39.217Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="5cY54v6KTW8W38TFXnCK" version="21.5.0" type="github">
   <diagram name="第 1 页" id="JhHIipqr7uCRNzOelNXE">
-    <mxGraphModel dx="2901" dy="1124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2012" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -220,6 +220,48 @@
         </mxCell>
         <mxCell id="nJraD3ANBiAQbve93qyU-91" value="运动位置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1750" y="469.97" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nJraD3ANBiAQbve93qyU-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nJraD3ANBiAQbve93qyU-95" target="nJraD3ANBiAQbve93qyU-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nJraD3ANBiAQbve93qyU-95" value="获得原始指令点位脉冲cmd_org" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="1350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nJraD3ANBiAQbve93qyU-96" value="&lt;h1&gt;误差加权迭代的补偿方法&lt;/h1&gt;&lt;div&gt;每个误差e都有加权值w,总误差etotal=多个w×e相加，0.1&amp;lt;=w&amp;lt;=1,w可以动态调整误差&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1920" y="1370" width="300" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="nJraD3ANBiAQbve93qyU-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nJraD3ANBiAQbve93qyU-97" target="nJraD3ANBiAQbve93qyU-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nJraD3ANBiAQbve93qyU-97" value="加工程序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="1240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nJraD3ANBiAQbve93qyU-102" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nJraD3ANBiAQbve93qyU-99" target="nJraD3ANBiAQbve93qyU-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nJraD3ANBiAQbve93qyU-99" value="设置补偿值adj" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="1460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nJraD3ANBiAQbve93qyU-104" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nJraD3ANBiAQbve93qyU-101" target="nJraD3ANBiAQbve93qyU-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nJraD3ANBiAQbve93qyU-101" value="计算当前指令脉冲cmd=cmd_org*adj" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="1600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nJraD3ANBiAQbve93qyU-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nJraD3ANBiAQbve93qyU-103" target="nJraD3ANBiAQbve93qyU-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nJraD3ANBiAQbve93qyU-103" value="执行当前指令，获得实际响应r" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="1740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nJraD3ANBiAQbve93qyU-108" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nJraD3ANBiAQbve93qyU-105" target="nJraD3ANBiAQbve93qyU-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nJraD3ANBiAQbve93qyU-105" value="计算误差err" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="1880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nJraD3ANBiAQbve93qyU-107" value="调整指令点：adj=adj*w+(1-k)*err" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="2020" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
