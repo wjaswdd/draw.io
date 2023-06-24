@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-24T09:56:07.918Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="smnpOELTemG9B4FmYqKn" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-24T09:59:26.624Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="_0yAbzXE0-vZztShwoz_" version="21.5.0" type="github">
   <diagram name="第 1 页" id="JhHIipqr7uCRNzOelNXE">
     <mxGraphModel dx="2555" dy="937" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -286,7 +286,7 @@
         <mxCell id="nJraD3ANBiAQbve93qyU-123" value="补偿后的位置指令脉冲" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1970" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nJraD3ANBiAQbve93qyU-128" value="&lt;h1&gt;多次误差加权迭代的补偿算法（大连光洋）&lt;/h1&gt;&lt;div&gt;每个误差e都有加权值w,总误差etotal=多个w×e相加，0.1&amp;lt;=w&amp;lt;=1,w可以动态调整误差&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="nJraD3ANBiAQbve93qyU-128" value="&lt;h1&gt;多次误差加权迭代的补偿算法（大连光洋）&lt;/h1&gt;&lt;div&gt;X实际位置=X理论位置+K1×F(X,Y,Z)&lt;/div&gt;&lt;div&gt;K1是权重，F(X,Y,Z)是误差函数&lt;/div&gt;&lt;div&gt;第一次补偿就是&lt;/div&gt;&lt;div&gt;EX1=K1×F(X,Y,Z)&lt;/div&gt;&lt;div&gt;第二次补偿就是&lt;/div&gt;&lt;div&gt;EX2=K1×F(X,Y,Z)+K2×F(X,Y,Z)&lt;/div&gt;&lt;div&gt;以此类推，EX=...直至精度提升到满足要求的情况&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2050" y="1260" width="320" height="300" as="geometry" />
         </mxCell>
       </root>
