@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-24T11:46:32.880Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="i4I8ocF5esbPAiHcl41H" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-24T12:51:16.623Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ejZrRLlPhPdcB0xGEx64" version="21.5.0" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1185" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="988" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,10 +8,26 @@
           <mxGeometry x="34" y="50" width="2436" height="470" as="geometry" />
         </mxCell>
         <mxCell id="ux9FGk7YxiCrDKr7o1Dm-8" value="标定平台误差来源" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="606" y="50" width="120" height="60" as="geometry" />
+          <mxGeometry x="1158" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="ux9FGk7YxiCrDKr7o1Dm-9" target="ux9FGk7YxiCrDKr7o1Dm-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="406" y="250" />
+              <mxPoint x="96" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="ux9FGk7YxiCrDKr7o1Dm-9" target="ux9FGk7YxiCrDKr7o1Dm-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="406" y="250" />
+              <mxPoint x="256" y="250" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="ux9FGk7YxiCrDKr7o1Dm-9" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;静态误差&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="226" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="346" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ux9FGk7YxiCrDKr7o1Dm-10" value="动态误差" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry x="1246" y="160" width="120" height="60" as="geometry" />
@@ -64,7 +80,7 @@
         <mxCell id="ux9FGk7YxiCrDKr7o1Dm-17" value="&lt;h1&gt;热误差&lt;/h1&gt;&lt;div&gt;热误差的影响因素有所处环境和所受本体&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;外部温度场：外界环境温度（数值）、车间建筑结构、照明灯、太阳光&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;内部温度场：润滑系统、冷却系统、传动系统、运动轴的转速、加速度、材料及属性等本体影响温度因素的集合&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="920" y="760" width="310" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-20" value="&lt;h1&gt;静态误差&lt;/h1&gt;&lt;div&gt;几何误差：由机台结构；零部件制造安装引起的；装配误差引起的直线度误差；角度偏差（俯仰、偏航、摇晃）；直角度；&lt;/div&gt;&lt;div&gt;通信时延误差：（永得利）标刻设备到控制器的时延；控制器之间的时延、控制轨迹故障比例；拥有从控制器数；&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-20" value="&lt;h1&gt;静态误差&lt;/h1&gt;&lt;div&gt;几何误差：由机台结构；零部件制造安装引起的；装配误差引起的直线度误差；角度偏差（俯仰、偏航、摇晃）；直角度；&lt;/div&gt;&lt;div&gt;通信时延误差：（永得利）控制器到标刻设备的时延；控制器之间的时延；&lt;/div&gt;&lt;div&gt;&lt;div&gt;机械精度误差：丝杆，减速器，&lt;span style=&quot;font-family: 宋体; font-size: 10.45pt; background-color: initial;&quot;&gt;电机等器件都存在机械加工精度误差&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;传动间隙误差：丝杆传动机构中丝&lt;span style=&quot;font-family: 宋体; font-size: 10.45pt; background-color: initial;&quot;&gt;杠和丝杆螺母之间肯定存在一定的间隙，&lt;/span&gt;螺母还要等间隙消除以后才能带动工作台运动&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="90" y="760" width="290" height="200" as="geometry" />
         </mxCell>
         <mxCell id="ux9FGk7YxiCrDKr7o1Dm-36" value="&lt;h1&gt;其他误差&lt;/h1&gt;&lt;div&gt;外界干扰&lt;/div&gt;&lt;div&gt;隐藏误差：&lt;/div&gt;（南京航空航天大学）&lt;span style=&quot;background-color: initial;&quot;&gt;预紧力；装配精度；零&lt;/span&gt;件磨损（对重复定位精度影响大）&lt;br&gt;（天津大学）工作台支撑距离；滚珠丝杆作为支撑轴承其刚度；光栅尺安装位置；外部负载；丝杆挠度变化；工作台应变；滑块应变/应力；关键点温度；导轨基面直线度/垂直度；&lt;br&gt;(上海铼纳克) 机械刚性；运动部件惯量；温度；摩擦系统；润滑条件等物理因素影响同时也受到控制系统运动控制律；伺服系统响应速度等算法因素的影响；惯性因素在相同的加工条件下具有极大的相似性&lt;br&gt;（南京高传）丝杆在中断移动时，因丝杆挠度和热变形导致轴向振幅增大，尾部支撑零件刚度下降以及精度偏移，严重降低运动平台的传动精度和响应性" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
