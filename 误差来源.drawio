@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-24T13:03:47.821Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="AG0sRzSx7q0vfde5IfIj" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-24T13:06:11.218Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="dGR5Kp3NiFEIEaTFAgBa" version="21.5.0" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="2074" dy="1068" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2440" dy="1256" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -173,6 +173,15 @@
         </mxCell>
         <mxCell id="ux9FGk7YxiCrDKr7o1Dm-44" value="&lt;h1&gt;误差定义&lt;br&gt;&lt;/h1&gt;&lt;div&gt;误差就是系统希望控制轴所达到的位置，但是由于各种原因现在反馈位置与期望位置有差值，这个差值就是距离&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="610" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-63" value="&lt;h1&gt;补偿切入点&lt;/h1&gt;&lt;div&gt;几何误差&lt;/div&gt;&lt;div&gt;传动反向间隙误差&lt;/div&gt;&lt;div&gt;&amp;nbsp;通信时延误差&lt;/div&gt;&lt;div&gt;隐藏误差&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="595" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-65" value="&lt;br&gt;推出" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ux9FGk7YxiCrDKr7o1Dm-64" target="ux9FGk7YxiCrDKr7o1Dm-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-64" value="&lt;h1&gt;在运动过程中对运动位置精度影响最大的因素&lt;/h1&gt;&lt;p&gt;1、机械系统的几何误差；2、标刻设备的通信时延误差；&lt;/p&gt;&lt;p&gt;3、传动机构的累计误差；4、控制系统的运动控制律；&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="950" y="580" width="320" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
