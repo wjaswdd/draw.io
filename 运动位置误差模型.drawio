@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-24T12:17:41.603Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="OJ7XAOnDoSCQV9x4urJp" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-24T12:30:31.057Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="lBYsJpXO0xSd7cJoxtrJ" version="21.5.0" type="github">
   <diagram name="第 1 页" id="POoLvG0KGlz7YIlAlJ7y">
     <mxGraphModel dx="1430" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -22,11 +22,18 @@
         <mxCell id="0pfpKlWeKUPqLyrlaD7A-26" value="&lt;br&gt;实现" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0pfpKlWeKUPqLyrlaD7A-5" target="0pfpKlWeKUPqLyrlaD7A-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0pfpKlWeKUPqLyrlaD7A-28" value="&lt;br&gt;大跃进" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0pfpKlWeKUPqLyrlaD7A-5" target="0pfpKlWeKUPqLyrlaD7A-27">
+        <mxCell id="0pfpKlWeKUPqLyrlaD7A-28" value="&lt;br&gt;大提升" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0pfpKlWeKUPqLyrlaD7A-5" target="0pfpKlWeKUPqLyrlaD7A-27">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="370" y="560" />
               <mxPoint x="845" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0pfpKlWeKUPqLyrlaD7A-35" value="&lt;br&gt;实现" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0pfpKlWeKUPqLyrlaD7A-5" target="0pfpKlWeKUPqLyrlaD7A-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="60" y="435" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -39,11 +46,14 @@
         <mxCell id="0pfpKlWeKUPqLyrlaD7A-33" value="&lt;br&gt;实现" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0pfpKlWeKUPqLyrlaD7A-6" target="0pfpKlWeKUPqLyrlaD7A-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0pfpKlWeKUPqLyrlaD7A-6" value="&lt;h1&gt;其他误差传递模型研究&lt;/h1&gt;&lt;div&gt;（北理工）零件的精度达标，但是各零部件的装配对整机精度的影响是不相同的&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1、多工位制造过程的误差传递问题，建立了状态空间的AR(I)模型&lt;/div&gt;&lt;div&gt;2、“基准流”概念，确定和定义装配过程的运动约束和配合&lt;/div&gt;&lt;div&gt;3、状态空间误差传递模型，但模型的应用对象仅限于二维装配&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="40" width="465" height="240" as="geometry" />
+        <mxCell id="0pfpKlWeKUPqLyrlaD7A-37" value="大提升" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0pfpKlWeKUPqLyrlaD7A-6" target="0pfpKlWeKUPqLyrlaD7A-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0pfpKlWeKUPqLyrlaD7A-6" value="&lt;h1&gt;其他误差传递模型研究&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="40" width="370" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0pfpKlWeKUPqLyrlaD7A-8" value="&lt;h1&gt;热误差模型&lt;/h1&gt;（川大）热误差数学模型（AR、MA、ARMA）&lt;div&gt;（川大）Ex=3.922*10e-6*&lt;i&gt;x&lt;/i&gt;^4+&lt;/div&gt;1.051*10e-5*&lt;i style=&quot;border-color: var(--border-color);&quot;&gt;x&lt;/i&gt;^3+11.836*10e-4*&lt;i style=&quot;border-color: var(--border-color);&quot;&gt;x&lt;/i&gt;^2-1.243*10e-6*&lt;i style=&quot;border-color: var(--border-color);&quot;&gt;x&lt;/i&gt;+0.6185(-3.241*10e-2-2.439*10e-3*T)x&lt;br&gt;Ex是X方向热误差，T为温度修正系数" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="890" y="360" width="200" height="190" as="geometry" />
+          <mxGeometry x="1115" y="320" width="200" height="190" as="geometry" />
         </mxCell>
         <mxCell id="0pfpKlWeKUPqLyrlaD7A-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0pfpKlWeKUPqLyrlaD7A-11" target="0pfpKlWeKUPqLyrlaD7A-14">
           <mxGeometry relative="1" as="geometry" />
@@ -78,11 +88,14 @@
         <mxCell id="0pfpKlWeKUPqLyrlaD7A-30" value="&lt;h1&gt;几何误差模型&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="30" y="30" width="190" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="0pfpKlWeKUPqLyrlaD7A-31" value="&lt;h1&gt;其他误差&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="827" y="30" width="190" height="120" as="geometry" />
-        </mxCell>
         <mxCell id="0pfpKlWeKUPqLyrlaD7A-32" value="&lt;h1&gt;传动机构误差&lt;/h1&gt;（重庆理工大学）多&lt;b&gt;误差特征补偿&lt;/b&gt;：&lt;br&gt;垂直误差：R&#39;=R+dR=R+(a/2)Rsin2sita&lt;br&gt;反向间隙：R&#39;=R+dR=R+daota/2cossita&lt;br&gt;热变形或者装配引起的直线度误差：...&lt;br&gt;滚珠丝杆引起的周期性误差:..." style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1142.5" y="380" width="240" height="190" as="geometry" />
+          <mxGeometry x="1400" y="250" width="240" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="0pfpKlWeKUPqLyrlaD7A-34" value="&lt;h1&gt;1997年全球数控头部企业意大利菲迪亚&lt;/h1&gt;&lt;div&gt;误差来源：机器错误的几何形状；装配误差；或者像在运行期间的基座下沉、损坏、碰撞等其他原因&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;建模方式类似多体系统的建模，补偿静态误差&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="929" width="230" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="0pfpKlWeKUPqLyrlaD7A-36" value="&lt;h1&gt;先进理论&lt;/h1&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;（北理工）零件的精度达标，但是各零部件的装配对整机精度的影响是不相同的&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;1、多工位制造过程的误差传递问题，建立了状态空间的AR(I)模型&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;2、“基准流”概念，确定和定义装配过程的运动约束和配合&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;3、状态空间误差传递模型，但模型的应用对象仅限于二维装配&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="827" y="250" width="260" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
