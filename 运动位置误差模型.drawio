@@ -1,17 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2023-06-24T11:37:36.236Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="exe7ZtbZkLkvWbYqmLgR" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-24T12:01:40.542Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="JCVEzsCC_YzaA5kzEj7S" version="21.5.0" type="github">
   <diagram name="第 1 页" id="POoLvG0KGlz7YIlAlJ7y">
     <mxGraphModel dx="1430" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="0pfpKlWeKUPqLyrlaD7A-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0pfpKlWeKUPqLyrlaD7A-1" target="0pfpKlWeKUPqLyrlaD7A-2">
+        <mxCell id="0pfpKlWeKUPqLyrlaD7A-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0pfpKlWeKUPqLyrlaD7A-1" target="0pfpKlWeKUPqLyrlaD7A-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0pfpKlWeKUPqLyrlaD7A-1" value="多体系统理论" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="90" width="120" height="60" as="geometry" />
+          <mxGeometry x="300" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0pfpKlWeKUPqLyrlaD7A-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0pfpKlWeKUPqLyrlaD7A-2" target="0pfpKlWeKUPqLyrlaD7A-20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0pfpKlWeKUPqLyrlaD7A-2" value="误差运动学分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0pfpKlWeKUPqLyrlaD7A-4" value="&lt;h1&gt;误差运动学分析&lt;/h1&gt;&lt;div&gt;（福大）基于机构各运动轴之间的运动链&lt;/div&gt;&lt;div&gt;关系，运动齐次坐标变换的原理进行误差运动学分析，确定理想状态下和存在误差状态下机构运动的齐次坐标变换矩阵，建立机构误差综合模型，通过反算变换矩阵对误差进行补偿，夹具X向偏移误差、Y向偏移误差及Z轴转动的转角误差；X轴与位置无关的几何误差包括X轴的Y向偏移误差和绕Z轴转动的转角误差&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="510" y="310" width="230" height="240" as="geometry" />
@@ -19,17 +22,44 @@
         <mxCell id="0pfpKlWeKUPqLyrlaD7A-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0pfpKlWeKUPqLyrlaD7A-5" target="0pfpKlWeKUPqLyrlaD7A-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0pfpKlWeKUPqLyrlaD7A-5" value="&lt;h1&gt;多体系统理论&lt;/h1&gt;&lt;div&gt;和其他数学模型的区别是，有些人工智能数学模型例如神经网络则需要大量的数据支持和长时间的训练，其他传统的数学模型，烤炉误差影响因素单一，不能够准确反映误差来源和准确预测，预测的鲁棒性差。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;多体系统理论的建模流程（浙工大）&lt;/div&gt;&lt;div&gt;1、简化构件，运用低序列阵列法描述机构运动构件&lt;/div&gt;&lt;div&gt;2、按照机构拓扑结构图，建立运动链，对各单元体局部坐标系进行设定，确立笛卡尔坐标系&lt;/div&gt;&lt;div&gt;3、误差运动学分析和标定几何误差&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="310" width="260" height="240" as="geometry" />
+        <mxCell id="0pfpKlWeKUPqLyrlaD7A-5" value="&lt;h1&gt;多体系统理论&lt;/h1&gt;&lt;div&gt;和其他数学模型的区别是，有些人工智能数学模型例如神经网络则需要大量的数据支持和长时间的训练，其他传统的数学模型，烤炉误差影响因素单一，不能够准确反映误差来源和准确预测，预测的鲁棒性差。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="340" width="260" height="240" as="geometry" />
         </mxCell>
         <mxCell id="0pfpKlWeKUPqLyrlaD7A-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0pfpKlWeKUPqLyrlaD7A-6" target="0pfpKlWeKUPqLyrlaD7A-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0pfpKlWeKUPqLyrlaD7A-6" value="&lt;h1&gt;误差传递模型研究&lt;/h1&gt;&lt;div&gt;（北理工）零件的精度达标，但是各零部件的装配对整机精度的影响是不相同的&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1、多工位制造过程的误差传递问题，建立了状态空间的AR(I)模型&lt;/div&gt;&lt;div&gt;2、“基准流”概念，确定和定义装配过程的运动约束和配合&lt;/div&gt;&lt;div&gt;3、状态空间误差传递模型，但模型的应用对象仅限于二维装配&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;（川大）热误差数学模型（AR、MA、ARMA）&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="660" width="465" height="240" as="geometry" />
+          <mxGeometry x="80" y="929" width="465" height="240" as="geometry" />
         </mxCell>
         <mxCell id="0pfpKlWeKUPqLyrlaD7A-8" value="&lt;h1&gt;热误差模型&lt;/h1&gt;&lt;div&gt;（川大）Ex=3.922*10e-6*&lt;i&gt;x&lt;/i&gt;^4+&lt;/div&gt;1.051*10e-5*&lt;i style=&quot;border-color: var(--border-color);&quot;&gt;x&lt;/i&gt;^3+11.836*10e-4*&lt;i style=&quot;border-color: var(--border-color);&quot;&gt;x&lt;/i&gt;^2-1.243*10e-6*&lt;i style=&quot;border-color: var(--border-color);&quot;&gt;x&lt;/i&gt;+0.6185(-3.241*10e-2-2.439*10e-3*T)x&lt;br&gt;Ex是X方向热误差，T为温度修正系数" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="630" y="700" width="180" height="160" as="geometry" />
+          <mxGeometry x="610" y="969" width="180" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="0pfpKlWeKUPqLyrlaD7A-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0pfpKlWeKUPqLyrlaD7A-11" target="0pfpKlWeKUPqLyrlaD7A-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0pfpKlWeKUPqLyrlaD7A-11" value="加工机械抽象为多体系统" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0pfpKlWeKUPqLyrlaD7A-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0pfpKlWeKUPqLyrlaD7A-14" target="0pfpKlWeKUPqLyrlaD7A-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0pfpKlWeKUPqLyrlaD7A-14" value="构建拓扑图和低序列阵列" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0pfpKlWeKUPqLyrlaD7A-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0pfpKlWeKUPqLyrlaD7A-18" target="0pfpKlWeKUPqLyrlaD7A-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0pfpKlWeKUPqLyrlaD7A-18" value="描述位姿" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0pfpKlWeKUPqLyrlaD7A-20" value="标定误差" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0pfpKlWeKUPqLyrlaD7A-23" value="&lt;h1&gt;误差运动学分析&lt;/h1&gt;&lt;div&gt;（福大）基于机构各运动轴之间的运动链&lt;/div&gt;&lt;div&gt;关系，运动齐次坐标变换的原理进行误差运动学分析，确定理想状态下和存在误差状态下机构运动的齐次坐标变换矩阵，建立机构误差综合模型，通过反算变换矩阵对误差进行补偿，夹具X向偏移误差、Y向偏移误差及Z轴转动的转角误差；X轴与位置无关的几何误差包括X轴的Y向偏移误差和绕Z轴转动的转角误差&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="555" y="530" width="230" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="0pfpKlWeKUPqLyrlaD7A-24" value="&lt;h1&gt;多体系统理论的建模流程&lt;/h1&gt;&lt;div&gt;（浙工大）1、简化构件，运用低序列阵列法描述机构运动构件&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;2、按照机构拓扑结构图，建立运动链，对各单元体局部坐标系进行设定，确立笛卡尔坐标系&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;3、误差运动学分析和标定几何误差&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="530" width="230" height="240" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
