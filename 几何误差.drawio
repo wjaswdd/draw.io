@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-25T03:42:50.786Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ED77Kug5TD8qbPcVqLUu" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-25T03:43:08.003Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="tG-4gUpdf8_LfdGsnqCu" version="21.5.0" type="github">
   <diagram name="第 1 页" id="vRazFeUI0vGP-cUvgFiF">
     <mxGraphModel dx="830" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -138,9 +138,6 @@
         </mxCell>
         <mxCell id="mwVR1XsmTusYmW67lwF4-68" value="" style="group;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="246" y="603" width="140.38420202613676" height="252.49420202613675" as="geometry" />
-        </mxCell>
-        <mxCell id="mwVR1XsmTusYmW67lwF4-46" value="工件几何误差" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="mwVR1XsmTusYmW67lwF4-68">
-          <mxGeometry x="-26" y="173" width="115" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mwVR1XsmTusYmW67lwF4-71" value="" style="group" vertex="1" connectable="0" parent="mwVR1XsmTusYmW67lwF4-68">
           <mxGeometry x="-0.6042020261367327" y="-0.004202026136738368" width="140.9884040522735" height="140.9884040522735" as="geometry" />
