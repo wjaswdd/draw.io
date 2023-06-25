@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-25T07:31:35.172Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="dEE0NnHPzVNDoaRRsOLD" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-25T07:31:50.616Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="KtUfhf6-QqP_Uoz9L3cl" version="21.5.0" type="github">
   <diagram name="第 1 页" id="YSEcBhMwiY3fUkA75Q5k">
     <mxGraphModel dx="1185" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -71,6 +71,9 @@
         </mxCell>
         <mxCell id="CyWju0glcFpblsCp5NvN-21" value="其他设备" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="384" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CyWju0glcFpblsCp5NvN-22" value="时延" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="200" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
