@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-25T03:15:49.894Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="4NUWsTOiL9ES2-beKzC6" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-25T03:16:01.717Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="eCtQ4tIFREgPS8XOhkTb" version="21.5.0" type="github">
   <diagram name="第 1 页" id="vRazFeUI0vGP-cUvgFiF">
     <mxGraphModel dx="988" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -39,6 +39,9 @@
         </mxCell>
         <mxCell id="mwVR1XsmTusYmW67lwF4-12" value="待加工点" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="370" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mwVR1XsmTusYmW67lwF4-13" value="&lt;h1&gt;工件几何误差&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="150" width="190" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
