@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-04T08:58:32.346Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="GtXuW7STd-QPQwVwsvDk" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-04T08:58:53.269Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="nfeEQfjN5D8tEJfay8lS" version="21.5.2" type="github">
   <diagram name="第 1 页" id="BK7UexbAD5S3coaDiWZC">
     <mxGraphModel dx="1313" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -194,6 +194,12 @@
         </mxCell>
         <mxCell id="pPquGkvTpnL6xaR8iwFb-80" value="&lt;h1&gt;3、自动流程内容众多，非常繁琐，需要注意封装&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="10" y="1169" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="pPquGkvTpnL6xaR8iwFb-82" value="开始" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pPquGkvTpnL6xaR8iwFb-83" value="修改前" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="1300" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
