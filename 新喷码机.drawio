@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-04T08:24:53.014Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="-Ds0toXcW0bfzuHCIXMU" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-04T08:25:08.466Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="sLKHj3c96BoTvYlNCraF" version="21.5.2" type="github">
   <diagram name="第 1 页" id="BK7UexbAD5S3coaDiWZC">
     <mxGraphModel dx="724" dy="379" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="pPquGkvTpnL6xaR8iwFb-4" value="&lt;h1&gt;1、修改界面类型的选择&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="60" y="190" width="190" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="pPquGkvTpnL6xaR8iwFb-5" value="优化前" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="pPquGkvTpnL6xaR8iwFb-5" value="修改前" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="60" y="300" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pPquGkvTpnL6xaR8iwFb-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pPquGkvTpnL6xaR8iwFb-6" target="pPquGkvTpnL6xaR8iwFb-7">
