@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-07T12:53:19.435Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="mdxGLddu3MuMENKnJXfX" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-07T12:54:05.187Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="z1MolNCGGi-Oqii5dA2O" version="21.5.2" type="github">
   <diagram name="第 1 页" id="8xISH4OoHk16N2n0mDrF">
     <mxGraphModel dx="1123" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -243,6 +243,18 @@
         </mxCell>
         <mxCell id="INE_rvdtiY3wUW3SEB3x-55" value="驱动器：DM556&lt;br&gt;电机：MODEL 57HS22-A&lt;br&gt;1.8°/4.0A，转动惯量520" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="YGEKBtAMTnWdd1QfSGZH-14">
           <mxGeometry x="226" y="700" width="184" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="INE_rvdtiY3wUW3SEB3x-56" value="15" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YGEKBtAMTnWdd1QfSGZH-14">
+          <mxGeometry x="186" y="755" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="INE_rvdtiY3wUW3SEB3x-57" value="驱动器：DM556&lt;br&gt;电机：MODEL 57HS22-A&lt;br&gt;1.8°/4.0A，转动惯量520" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="YGEKBtAMTnWdd1QfSGZH-14">
+          <mxGeometry x="226" y="750" width="184" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="INE_rvdtiY3wUW3SEB3x-58" value="16" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YGEKBtAMTnWdd1QfSGZH-14">
+          <mxGeometry x="184" y="805" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="INE_rvdtiY3wUW3SEB3x-59" value="驱动器：&amp;nbsp;&lt;br&gt;电机：Y07-59D1-17155&lt;br&gt;2-PHASE/1.8°" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="YGEKBtAMTnWdd1QfSGZH-14">
+          <mxGeometry x="224" y="800" width="184" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YGEKBtAMTnWdd1QfSGZH-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
