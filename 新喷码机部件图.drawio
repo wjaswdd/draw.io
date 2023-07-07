@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-07-07T12:54:26.468Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="vDYXPfFSN7YAiYiNG9RA" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-07T12:54:32.050Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ob1yRMWriD7yBH6cYbGZ" version="21.5.2" type="github">
   <diagram name="第 1 页" id="8xISH4OoHk16N2n0mDrF">
     <mxGraphModel dx="1123" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="YGEKBtAMTnWdd1QfSGZH-1" value="&lt;h1&gt;11根限位/回零&lt;/h1&gt;&lt;div&gt;x:xlimit+,xlimit-,xHome&lt;/div&gt;&lt;div&gt;y:ylimit+,ylimit-,yHome&lt;br&gt;&lt;/div&gt;&lt;div&gt;w:wlimit+,wlimit-,wHome&lt;br&gt;&lt;/div&gt;&lt;div&gt;r:rlimit,rHome&lt;br&gt;&lt;/div&gt;&lt;div&gt;IN/OUT默认电平都是24V(实际23.3v)&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="40" y="60" width="190" height="120" as="geometry" />
+          <mxGeometry x="40" y="60" width="210" height="160" as="geometry" />
         </mxCell>
         <mxCell id="YGEKBtAMTnWdd1QfSGZH-14" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;限位&lt;/span&gt;&#xa;&#xa;" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="84" y="230" width="736" height="930" as="geometry" />
