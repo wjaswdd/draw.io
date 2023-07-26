@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-26T08:04:41.764Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="nvDrB9ClarGRTZ4K12pE" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-26T08:06:51.821Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="lbp87wZkts7ac1tnIX6G" version="21.6.2" type="github">
   <diagram name="第 1 页" id="8xISH4OoHk16N2n0mDrF">
     <mxGraphModel dx="2358" dy="1268" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -296,6 +296,9 @@
         </mxCell>
         <mxCell id="T4N1aFiwCezX0FToYQrh-10" value="eaxis0:r轴&lt;br&gt;eaxis1:导轨皮带&lt;br&gt;eaxis2:导轨宽窄" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="T4N1aFiwCezX0FToYQrh-1">
           <mxGeometry x="430" y="520" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="T4N1aFiwCezX0FToYQrh-11" value="导程：2CM(20MM)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="T4N1aFiwCezX0FToYQrh-1">
+          <mxGeometry x="130" y="580" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
