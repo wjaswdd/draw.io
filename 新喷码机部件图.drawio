@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-26T08:16:24.947Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="8kqS8KT2TsA4Odz-6dVg" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-26T08:17:41.525Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="hiAZmENi_XExX_ZPz_sB" version="21.6.2" type="github">
   <diagram name="第 1 页" id="8xISH4OoHk16N2n0mDrF">
     <mxGraphModel dx="1626" dy="874" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -318,26 +318,8 @@
             <mxPoint x="600" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="T4N1aFiwCezX0FToYQrh-19" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="T4N1aFiwCezX0FToYQrh-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="194" y="175" as="sourcePoint" />
-            <mxPoint x="194" y="125" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="T4N1aFiwCezX0FToYQrh-20" value="X正方向" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="T4N1aFiwCezX0FToYQrh-1">
-          <mxGeometry x="200" y="177.28999999999996" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="T4N1aFiwCezX0FToYQrh-21" value="Y正方向" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="T4N1aFiwCezX0FToYQrh-1">
-          <mxGeometry x="140" y="120" width="40" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="T4N1aFiwCezX0FToYQrh-22" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="T4N1aFiwCezX0FToYQrh-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="194" y="177.28999999999996" as="sourcePoint" />
-            <mxPoint x="244" y="177.28999999999996" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="T4N1aFiwCezX0FToYQrh-23" value="改成了-&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="T4N1aFiwCezX0FToYQrh-1">
-          <mxGeometry x="270" y="130" width="60" height="30" as="geometry" />
+        <mxCell id="T4N1aFiwCezX0FToYQrh-23" value="改成了" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="T4N1aFiwCezX0FToYQrh-1">
+          <mxGeometry x="261" y="100" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="T4N1aFiwCezX0FToYQrh-24" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="T4N1aFiwCezX0FToYQrh-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -390,6 +372,33 @@
         </mxCell>
         <mxCell id="T4N1aFiwCezX0FToYQrh-32" value="导轨宽窄正方向" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="T4N1aFiwCezX0FToYQrh-1">
           <mxGeometry x="540.5" y="380" width="89.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T4N1aFiwCezX0FToYQrh-33" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="T4N1aFiwCezX0FToYQrh-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="130" as="sourcePoint" />
+            <mxPoint x="340" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T4N1aFiwCezX0FToYQrh-34" value="原来结构" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="T4N1aFiwCezX0FToYQrh-1">
+          <mxGeometry x="100" y="50" width="140" height="158" as="geometry" />
+        </mxCell>
+        <mxCell id="T4N1aFiwCezX0FToYQrh-19" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="T4N1aFiwCezX0FToYQrh-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="74" y="90.35000000000002" as="sourcePoint" />
+            <mxPoint x="74" y="40.349999999999994" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T4N1aFiwCezX0FToYQrh-20" value="X正方向" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="T4N1aFiwCezX0FToYQrh-34">
+          <mxGeometry x="80" y="92.63999999999999" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T4N1aFiwCezX0FToYQrh-21" value="Y正方向" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="T4N1aFiwCezX0FToYQrh-34">
+          <mxGeometry x="20" y="35.349999999999994" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="T4N1aFiwCezX0FToYQrh-22" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="T4N1aFiwCezX0FToYQrh-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="74" y="92.63999999999999" as="sourcePoint" />
+            <mxPoint x="124" y="92.63999999999999" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
