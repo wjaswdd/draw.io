@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-01T11:45:28.114Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="bI1pFHrwfCjxPfLZ7LFS" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-01T11:48:02.547Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="4xaAqpo0eFKUoDB5HaLH" version="21.6.5" type="github">
   <diagram name="第 1 页" id="BK7UexbAD5S3coaDiWZC">
     <mxGraphModel dx="1221" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -298,6 +298,55 @@
         </mxCell>
         <mxCell id="MYqTN4B3eqH99weHO--5-2" value="当前相机显示界面Bool CurCamWidget，取值0或1，0代表主界面，1代表位置记录" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="610" y="2080" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MYqTN4B3eqH99weHO--5-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MYqTN4B3eqH99weHO--5-3" target="MYqTN4B3eqH99weHO--5-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="715" y="2350" />
+              <mxPoint x="525" y="2350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MYqTN4B3eqH99weHO--5-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MYqTN4B3eqH99weHO--5-3" target="MYqTN4B3eqH99weHO--5-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="715" y="2350" />
+              <mxPoint x="935" y="2350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MYqTN4B3eqH99weHO--5-3" value="相机调试界面" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="640" y="2150" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="MYqTN4B3eqH99weHO--5-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MYqTN4B3eqH99weHO--5-4" target="MYqTN4B3eqH99weHO--5-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MYqTN4B3eqH99weHO--5-4" value="相机主界面显示" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="450" y="2440" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="MYqTN4B3eqH99weHO--5-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MYqTN4B3eqH99weHO--5-5" target="MYqTN4B3eqH99weHO--5-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MYqTN4B3eqH99weHO--5-5" value="相机位置记录界面显示" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="860" y="2440" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="MYqTN4B3eqH99weHO--5-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MYqTN4B3eqH99weHO--5-9" target="MYqTN4B3eqH99weHO--5-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MYqTN4B3eqH99weHO--5-9" value="如果CurCamWidget=0？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="447.5" y="2670" width="155" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="MYqTN4B3eqH99weHO--5-11" value="显示" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="465" y="2890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MYqTN4B3eqH99weHO--5-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MYqTN4B3eqH99weHO--5-13" target="MYqTN4B3eqH99weHO--5-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MYqTN4B3eqH99weHO--5-13" value="如果CurCamWidget=1？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="857.5" y="2670" width="155" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="MYqTN4B3eqH99weHO--5-14" value="显示" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="875" y="2890" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
