@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-08T13:13:56.193Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="jf9P3p41fLYQL4e4fcEK" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-08T13:16:41.024Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="CNlk8xiv5PeDoR_LsrXQ" version="21.6.6" type="github">
   <diagram name="第 1 页" id="BK7UexbAD5S3coaDiWZC">
     <mxGraphModel dx="1221" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -494,6 +494,9 @@
         <mxCell id="ElWKR-axD4p0UAUmLsEJ-24" value="判断状态" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="4062" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ElWKR-axD4p0UAUmLsEJ-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ElWKR-axD4p0UAUmLsEJ-28" target="ElWKR-axD4p0UAUmLsEJ-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ElWKR-axD4p0UAUmLsEJ-28" value="默认" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1011" y="3980" width="120" height="60" as="geometry" />
         </mxCell>
@@ -525,6 +528,15 @@
         </mxCell>
         <mxCell id="ElWKR-axD4p0UAUmLsEJ-47" value="自动结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="4460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ElWKR-axD4p0UAUmLsEJ-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ElWKR-axD4p0UAUmLsEJ-63" target="ElWKR-axD4p0UAUmLsEJ-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ElWKR-axD4p0UAUmLsEJ-63" value="如果自动暂停标志&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Motion::flag_pause=true?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1231" y="3970" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ElWKR-axD4p0UAUmLsEJ-65" value="清除扫码点列表；清除喷码点列表；设置比较器" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1371" y="3980" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
