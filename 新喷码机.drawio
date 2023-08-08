@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-08T12:42:38.692Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="S8BjEIPJxUKHz5znEUXY" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-08T12:45:11.755Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="_gt4f3jh-JHS9fb1e_ch" version="21.6.6" type="github">
   <diagram name="第 1 页" id="BK7UexbAD5S3coaDiWZC">
     <mxGraphModel dx="1221" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -375,7 +375,7 @@
           <mxGeometry x="25" y="3000" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ElWKR-axD4p0UAUmLsEJ-2" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;br&gt;自动运行标志Motion::flag_AutoRun&lt;br&gt;自动运行曾经停止标志位Motion::flag_EverStop&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="75" y="3090" width="510" height="180" as="geometry" />
+          <mxGeometry x="10" y="3040" width="510" height="180" as="geometry" />
         </mxCell>
         <mxCell id="ElWKR-axD4p0UAUmLsEJ-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ElWKR-axD4p0UAUmLsEJ-3" target="ElWKR-axD4p0UAUmLsEJ-4">
           <mxGeometry relative="1" as="geometry" />
@@ -385,6 +385,11 @@
         </mxCell>
         <mxCell id="ElWKR-axD4p0UAUmLsEJ-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ElWKR-axD4p0UAUmLsEJ-4" target="ElWKR-axD4p0UAUmLsEJ-6">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ElWKR-axD4p0UAUmLsEJ-27" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ElWKR-axD4p0UAUmLsEJ-7">
+          <mxGeometry x="-0.3877" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ElWKR-axD4p0UAUmLsEJ-4" value="如果自动运行标志&lt;br&gt;Motion::flag_AutoRun=true?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="3350" width="80" height="80" as="geometry" />
@@ -405,6 +410,11 @@
         </mxCell>
         <mxCell id="ElWKR-axD4p0UAUmLsEJ-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ElWKR-axD4p0UAUmLsEJ-8" target="ElWKR-axD4p0UAUmLsEJ-17">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ElWKR-axD4p0UAUmLsEJ-23" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ElWKR-axD4p0UAUmLsEJ-18">
+          <mxGeometry x="-0.4032" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ElWKR-axD4p0UAUmLsEJ-8" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;如果曾经停止标志位&lt;br&gt;Motion::flag_EverStop=true?&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="3650" width="80" height="80" as="geometry" />
@@ -430,8 +440,37 @@
         <mxCell id="ElWKR-axD4p0UAUmLsEJ-17" value="相机光源关闭" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="3800" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ElWKR-axD4p0UAUmLsEJ-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ElWKR-axD4p0UAUmLsEJ-19" target="ElWKR-axD4p0UAUmLsEJ-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ElWKR-axD4p0UAUmLsEJ-19" value="发送要料信号" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="3940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ElWKR-axD4p0UAUmLsEJ-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ElWKR-axD4p0UAUmLsEJ-21" target="ElWKR-axD4p0UAUmLsEJ-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ElWKR-axD4p0UAUmLsEJ-26" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ElWKR-axD4p0UAUmLsEJ-25">
+          <mxGeometry x="-0.2044" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ElWKR-axD4p0UAUmLsEJ-21" value="如果自动运行标志&lt;br&gt;Motion::flag_AutoRun=true?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="4052" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ElWKR-axD4p0UAUmLsEJ-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ElWKR-axD4p0UAUmLsEJ-24" target="ElWKR-axD4p0UAUmLsEJ-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ElWKR-axD4p0UAUmLsEJ-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ElWKR-axD4p0UAUmLsEJ-24" target="ElWKR-axD4p0UAUmLsEJ-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ElWKR-axD4p0UAUmLsEJ-24" value="判断状态" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="4062" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ElWKR-axD4p0UAUmLsEJ-28" value="默认" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="4190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ElWKR-axD4p0UAUmLsEJ-30" value="默认" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="892.5" y="4190" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
