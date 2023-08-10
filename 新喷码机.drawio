@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-10T11:26:31.536Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="MOLxn2JTPm6IqxV9Lp_6" version="21.6.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-10T11:27:01.131Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="P_oOD7V2S4sYLzY4FFph" version="21.6.7" type="github">
   <diagram name="第 1 页" id="BK7UexbAD5S3coaDiWZC">
     <mxGraphModel dx="2048" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1622,7 +1622,9 @@
           <mxGeometry x="1603" y="8277" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qNkZRY5E_a7kPITM1NF7-304" value="&lt;br&gt;是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qNkZRY5E_a7kPITM1NF7-306" target="qNkZRY5E_a7kPITM1NF7-307">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="0.0698" y="-14" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="qNkZRY5E_a7kPITM1NF7-305" value="&lt;br&gt;否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qNkZRY5E_a7kPITM1NF7-306" target="qNkZRY5E_a7kPITM1NF7-309">
           <mxGeometry relative="1" as="geometry" />
@@ -1887,16 +1889,17 @@
         <mxCell id="qNkZRY5E_a7kPITM1NF7-387" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qNkZRY5E_a7kPITM1NF7-384" target="qNkZRY5E_a7kPITM1NF7-303">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qNkZRY5E_a7kPITM1NF7-391" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qNkZRY5E_a7kPITM1NF7-384" target="qNkZRY5E_a7kPITM1NF7-390">
+        <mxCell id="qNkZRY5E_a7kPITM1NF7-391" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="qNkZRY5E_a7kPITM1NF7-384" target="qNkZRY5E_a7kPITM1NF7-390">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1553" y="8260" />
+              <mxPoint x="1540" y="8267" />
+              <mxPoint x="1540" y="8260" />
               <mxPoint x="1616" y="8260" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="qNkZRY5E_a7kPITM1NF7-384" value="是否过板？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1513" y="8267" width="80" height="80" as="geometry" />
+          <mxGeometry x="1502" y="8267" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qNkZRY5E_a7kPITM1NF7-390" value="切换出料功能" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1566" y="8185" width="120" height="60" as="geometry" />
