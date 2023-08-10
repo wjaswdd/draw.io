@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-10T10:59:53.444Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="p7pCGxz9MvIrvfGS0pgZ" version="21.6.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-10T11:01:05.505Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="QMtSzT2tyFLYspYllL4U" version="21.6.7" type="github">
   <diagram name="第 1 页" id="BK7UexbAD5S3coaDiWZC">
     <mxGraphModel dx="2263" dy="732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1111,7 +1111,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qNkZRY5E_a7kPITM1NF7-170" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qNkZRY5E_a7kPITM1NF7-163" target="qNkZRY5E_a7kPITM1NF7-169">
+        <mxCell id="qNkZRY5E_a7kPITM1NF7-170" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qNkZRY5E_a7kPITM1NF7-163" target="qNkZRY5E_a7kPITM1NF7-172">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2450" y="6450" />
@@ -1128,7 +1128,13 @@
           <mxGeometry x="2340" y="6410" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qNkZRY5E_a7kPITM1NF7-169" value="运动到行终点" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1995" y="6610" width="120" height="60" as="geometry" />
+          <mxGeometry x="2015" y="6610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qNkZRY5E_a7kPITM1NF7-173" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qNkZRY5E_a7kPITM1NF7-172" target="qNkZRY5E_a7kPITM1NF7-169">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qNkZRY5E_a7kPITM1NF7-172" value="是否按下暂停？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="2180" y="6600" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
