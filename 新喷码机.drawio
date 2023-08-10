@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-10T11:16:39.972Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="mOTnFJeLhUH9wWu5kvTR" version="21.6.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-10T11:18:45.438Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="AivHfI2DeQiQvDTKEaqS" version="21.6.7" type="github">
   <diagram name="第 1 页" id="BK7UexbAD5S3coaDiWZC">
     <mxGraphModel dx="2048" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1592,7 +1592,7 @@
         <mxCell id="qNkZRY5E_a7kPITM1NF7-298" value="当前模板次序m_TempNum&amp;lt;总模板数" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1344" y="8267" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="qNkZRY5E_a7kPITM1NF7-299" value="&lt;font style=&quot;&quot;&gt;自动运行标志Motion::flag_AutoRun&lt;br&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;自动运行曾经停止标志位Motion::flag_EverStop&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;自动运行暂停标志位Motion::flag_pause&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;过板方向Motion::flag_PassBoard，Motion::flag_PassBoard=1从左到右，&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;Motion::flag_PassBoard=2从右到左&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;当前模板次序m_TempNum&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;开始喷码标志Motion::flag_Marking&lt;br&gt;&lt;/span&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;开始扫码标志Motion::flag_Scan&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;喷码结束标志位Motion::flag_printover&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="qNkZRY5E_a7kPITM1NF7-299" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;自动运行标志Motion::flag_AutoRun&lt;br&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;自动运行曾经停止标志位Motion::flag_EverStop&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;自动运行暂停标志位Motion::flag_pause&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;过板方向Motion::flag_PassBoard，Motion::flag_PassBoard=1从左到右，&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;Motion::flag_PassBoard=2从右到左&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;当前模板次序m_TempNum&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;开始喷码标志Motion::flag_Marking&lt;br&gt;&lt;/span&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;开始扫码标志Motion::flag_Scan&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;喷码结束标志位Motion::flag_printover&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="15" y="7030" width="420" height="370" as="geometry" />
         </mxCell>
         <mxCell id="qNkZRY5E_a7kPITM1NF7-300" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qNkZRY5E_a7kPITM1NF7-301" target="qNkZRY5E_a7kPITM1NF7-303">
@@ -1863,6 +1863,9 @@
         </mxCell>
         <mxCell id="qNkZRY5E_a7kPITM1NF7-376" value="切换到默认状态" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1396" y="8770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qNkZRY5E_a7kPITM1NF7-379" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;运行自动程序之前-请检查&lt;br&gt;1、回原点&lt;br&gt;2、设置待机点、定位点1、定位点2&lt;br&gt;3、加载模板&lt;br&gt;4、相机和喷头的距离标定&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="6770" width="420" height="370" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
