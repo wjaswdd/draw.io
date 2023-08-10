@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-10T11:15:17.761Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="PLjcZI8jxw5pMRFCDqZo" version="21.6.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-10T11:15:26.209Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="SwRs94t_nUGcarm2s1yP" version="21.6.7" type="github">
   <diagram name="第 1 页" id="BK7UexbAD5S3coaDiWZC">
     <mxGraphModel dx="2263" dy="732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1224,7 +1224,7 @@
           <mxGeometry x="1380" y="6600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qNkZRY5E_a7kPITM1NF7-200" value="&lt;h1&gt;5.2、2023版自动功能流程-仅实现运动控制，注释掉视觉和喷码器通信；黄色代表注释掉功能&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="136" y="6930" width="190" height="120" as="geometry" />
+          <mxGeometry x="140" y="6830" width="190" height="200" as="geometry" />
         </mxCell>
         <mxCell id="qNkZRY5E_a7kPITM1NF7-201" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qNkZRY5E_a7kPITM1NF7-202" target="qNkZRY5E_a7kPITM1NF7-206">
           <mxGeometry relative="1" as="geometry" />
