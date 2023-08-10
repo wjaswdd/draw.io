@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-10T11:28:26.790Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="ZAP-eJAE2sewEm4iZNlK" version="21.6.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-10T11:34:30.093Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="YcuE36A_c1_7r-cGsYrL" version="21.6.7" type="github">
   <diagram name="第 1 页" id="BK7UexbAD5S3coaDiWZC">
-    <mxGraphModel dx="2048" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1889" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1639,7 +1639,7 @@
         <mxCell id="qNkZRY5E_a7kPITM1NF7-308" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qNkZRY5E_a7kPITM1NF7-309" target="qNkZRY5E_a7kPITM1NF7-311">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qNkZRY5E_a7kPITM1NF7-309" value="喷码器通信，告诉视觉喷印内容和喷印类型；" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="qNkZRY5E_a7kPITM1NF7-309" value="喷码器通信，告诉视觉喷印内容和喷印类型；" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1866" y="8277" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qNkZRY5E_a7kPITM1NF7-310" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qNkZRY5E_a7kPITM1NF7-311" target="qNkZRY5E_a7kPITM1NF7-313">
@@ -1663,7 +1663,7 @@
         <mxCell id="qNkZRY5E_a7kPITM1NF7-316" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qNkZRY5E_a7kPITM1NF7-317" target="qNkZRY5E_a7kPITM1NF7-319">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qNkZRY5E_a7kPITM1NF7-317" value="工件定位；到第一定位点，触发硬件触发，计算定位孔偏差，等待定位算法完成；到第二定位点，触发硬件触发，计算定位孔偏差，等待定位算法完成" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="qNkZRY5E_a7kPITM1NF7-317" value="工件定位；到第一定位点，触发硬件触发，计算定位孔偏差，等待定位算法完成；到第二定位点，触发硬件触发，计算定位孔偏差，等待定位算法完成" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="2336" y="8380" width="120" height="130" as="geometry" />
         </mxCell>
         <mxCell id="qNkZRY5E_a7kPITM1NF7-318" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qNkZRY5E_a7kPITM1NF7-319" target="qNkZRY5E_a7kPITM1NF7-322">
@@ -1678,7 +1678,7 @@
         <mxCell id="qNkZRY5E_a7kPITM1NF7-321" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qNkZRY5E_a7kPITM1NF7-322" target="qNkZRY5E_a7kPITM1NF7-328">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qNkZRY5E_a7kPITM1NF7-322" value="清除比较列表，设置比较器" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="qNkZRY5E_a7kPITM1NF7-322" value="回待机点，清除比较列表，设置比较器" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="2024" y="8415" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qNkZRY5E_a7kPITM1NF7-323" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qNkZRY5E_a7kPITM1NF7-325" target="qNkZRY5E_a7kPITM1NF7-329">
