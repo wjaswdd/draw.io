@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-10T08:58:12.622Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="nzmR8c43VF08_PvJpCaS" version="21.6.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-10T09:01:06.499Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="95LnV5H9Hx5CfR2ZKdNO" version="21.6.7" type="github">
   <diagram name="第 1 页" id="BK7UexbAD5S3coaDiWZC">
-    <mxGraphModel dx="1163" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1018" dy="518" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -978,8 +978,14 @@
         <mxCell id="qNkZRY5E_a7kPITM1NF7-109" value="切换出料工序" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1710" y="6000" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="qNkZRY5E_a7kPITM1NF7-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qNkZRY5E_a7kPITM1NF7-113" target="qNkZRY5E_a7kPITM1NF7-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qNkZRY5E_a7kPITM1NF7-113" value="喷码器通信，上传喷印内容" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1850" y="6107" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qNkZRY5E_a7kPITM1NF7-115" value="获取喷印内容，二维码格式" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="2007.5" y="6107" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
