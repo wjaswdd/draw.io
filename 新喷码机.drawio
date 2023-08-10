@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-10T11:05:34.201Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="8iHICeR45AV7rJfxKI1F" version="21.6.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-10T11:06:03.908Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="0cGV9AC-GO4a5DZqcWdi" version="21.6.7" type="github">
   <diagram name="第 1 页" id="BK7UexbAD5S3coaDiWZC">
     <mxGraphModel dx="2263" dy="732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1171,7 +1171,7 @@
         <mxCell id="qNkZRY5E_a7kPITM1NF7-179" value="喷码标志位Motion::flag_Marking=false，结束喷码，打印扫码个数" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1590" y="6610" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qNkZRY5E_a7kPITM1NF7-182" value="相机光源关闭，回待机点" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="qNkZRY5E_a7kPITM1NF7-182" value="相机光源关闭，回待机点，切换到出料状态" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1590" y="6750" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
