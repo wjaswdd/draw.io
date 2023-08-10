@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-10T11:13:56.465Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="W-bAmZhnd9JmxU2yRIlb" version="21.6.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-10T11:14:03.779Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="RJOYtIKp1dQrIO5rrmEA" version="21.6.7" type="github">
   <diagram name="第 1 页" id="BK7UexbAD5S3coaDiWZC">
-    <mxGraphModel dx="2263" dy="732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3269" dy="1244" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1172,7 +1172,7 @@
           <mxGeometry x="1590" y="6610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qNkZRY5E_a7kPITM1NF7-182" value="相机光源关闭，回待机点，切换到出料状态" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1590" y="6750" width="120" height="60" as="geometry" />
+          <mxGeometry x="1590" y="6710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qNkZRY5E_a7kPITM1NF7-187" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qNkZRY5E_a7kPITM1NF7-184" target="qNkZRY5E_a7kPITM1NF7-185">
           <mxGeometry x="-0.2778" y="10" relative="1" as="geometry">
