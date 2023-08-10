@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-10T11:01:05.505Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="QMtSzT2tyFLYspYllL4U" version="21.6.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-10T11:03:36.889Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="TqekCS117Zx0sohL5QC9" version="21.6.7" type="github">
   <diagram name="第 1 页" id="BK7UexbAD5S3coaDiWZC">
-    <mxGraphModel dx="2263" dy="732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2455" dy="829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1127,6 +1127,9 @@
         <mxCell id="qNkZRY5E_a7kPITM1NF7-163" value="是否到第一行起点？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="2340" y="6410" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="qNkZRY5E_a7kPITM1NF7-175" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qNkZRY5E_a7kPITM1NF7-169" target="qNkZRY5E_a7kPITM1NF7-174">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qNkZRY5E_a7kPITM1NF7-169" value="运动到行终点" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="2015" y="6610" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1135,6 +1138,35 @@
         </mxCell>
         <mxCell id="qNkZRY5E_a7kPITM1NF7-172" value="是否按下暂停？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="2180" y="6600" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qNkZRY5E_a7kPITM1NF7-177" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qNkZRY5E_a7kPITM1NF7-174" target="qNkZRY5E_a7kPITM1NF7-176">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qNkZRY5E_a7kPITM1NF7-178" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qNkZRY5E_a7kPITM1NF7-177">
+          <mxGeometry x="0.1695" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qNkZRY5E_a7kPITM1NF7-174" value="是否按下暂停？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1887" y="6600" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qNkZRY5E_a7kPITM1NF7-180" value="&lt;br&gt;是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qNkZRY5E_a7kPITM1NF7-176" target="qNkZRY5E_a7kPITM1NF7-179">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qNkZRY5E_a7kPITM1NF7-181" value="&lt;br&gt;否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qNkZRY5E_a7kPITM1NF7-176" target="qNkZRY5E_a7kPITM1NF7-156">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1810" y="6520" />
+              <mxPoint x="1990" y="6520" />
+              <mxPoint x="1990" y="6450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qNkZRY5E_a7kPITM1NF7-176" value="是否喷完所有行？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1770" y="6600" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qNkZRY5E_a7kPITM1NF7-179" value="喷码标志位Motion::flag_Marking=false，结束喷码，打印扫码个数" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1590" y="6610" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
