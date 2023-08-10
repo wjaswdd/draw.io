@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-10T06:49:19.059Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="7bMs_d_UU0ZZHsdIe-OO" version="21.6.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-10T06:52:04.438Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="yCjbNnJwstpcY_DsfQBc" version="21.6.7" type="github">
   <diagram name="第 1 页" id="BK7UexbAD5S3coaDiWZC">
-    <mxGraphModel dx="1221" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1436" dy="732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -727,6 +727,9 @@
         <mxCell id="qNkZRY5E_a7kPITM1NF7-39" value="进料" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1107" y="5832" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="qNkZRY5E_a7kPITM1NF7-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qNkZRY5E_a7kPITM1NF7-40" target="qNkZRY5E_a7kPITM1NF7-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qNkZRY5E_a7kPITM1NF7-40" value="进板" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1107" y="5923" width="120" height="60" as="geometry" />
         </mxCell>
@@ -893,6 +896,28 @@
         </mxCell>
         <mxCell id="qNkZRY5E_a7kPITM1NF7-82" value="完全进板，切换进板模式" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="2330" y="5832" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qNkZRY5E_a7kPITM1NF7-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="qNkZRY5E_a7kPITM1NF7-84" target="qNkZRY5E_a7kPITM1NF7-40">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1377" y="6000" />
+              <mxPoint x="1167" y="6000" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qNkZRY5E_a7kPITM1NF7-88" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qNkZRY5E_a7kPITM1NF7-87">
+          <mxGeometry x="-0.2013" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qNkZRY5E_a7kPITM1NF7-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qNkZRY5E_a7kPITM1NF7-84" target="qNkZRY5E_a7kPITM1NF7-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qNkZRY5E_a7kPITM1NF7-84" value="是否按下暂停？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1337" y="5913" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qNkZRY5E_a7kPITM1NF7-85" value="开左气缸，开右气缸" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1477" y="5923" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
