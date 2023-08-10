@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-10T09:18:57.370Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="KuCw7VxQNmydlUkXEI2U" version="21.6.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-10T09:21:31.194Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="YU1JxpLzQ67iQ2cQ35GZ" version="21.6.7" type="github">
   <diagram name="第 1 页" id="BK7UexbAD5S3coaDiWZC">
     <mxGraphModel dx="1018" dy="518" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1020,8 +1020,14 @@
         <mxCell id="qNkZRY5E_a7kPITM1NF7-125" value="清除比较列表，设置比较器" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="2008" y="6245" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qNkZRY5E_a7kPITM1NF7-127" value="边喷边扫" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="qNkZRY5E_a7kPITM1NF7-130" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qNkZRY5E_a7kPITM1NF7-127" target="qNkZRY5E_a7kPITM1NF7-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qNkZRY5E_a7kPITM1NF7-127" value="边喷边扫还是喷完再扫？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1887" y="6235" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qNkZRY5E_a7kPITM1NF7-129" value="横着喷还是竖着喷？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1780" y="6235" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
