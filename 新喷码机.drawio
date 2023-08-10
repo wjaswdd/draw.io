@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-10T11:27:01.131Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="P_oOD7V2S4sYLzY4FFph" version="21.6.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-10T11:27:41.036Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="w9wpX7thFSNNfxYmWWio" version="21.6.7" type="github">
   <diagram name="第 1 页" id="BK7UexbAD5S3coaDiWZC">
     <mxGraphModel dx="2048" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1599,21 +1599,22 @@
           <mxGeometry x="15" y="7030" width="420" height="370" as="geometry" />
         </mxCell>
         <mxCell id="qNkZRY5E_a7kPITM1NF7-382" value="&lt;br&gt;是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="qNkZRY5E_a7kPITM1NF7-301" target="qNkZRY5E_a7kPITM1NF7-298">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.0359" y="-9" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1430" y="8347" />
-              <mxPoint x="1430" y="8360" />
+              <mxPoint x="1520" y="8360" />
               <mxPoint x="1331" y="8360" />
             </Array>
+            <mxPoint x="3" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qNkZRY5E_a7kPITM1NF7-385" value="&lt;br&gt;否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qNkZRY5E_a7kPITM1NF7-301" target="qNkZRY5E_a7kPITM1NF7-384">
+        <mxCell id="qNkZRY5E_a7kPITM1NF7-385" value="&lt;br&gt;否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qNkZRY5E_a7kPITM1NF7-301" target="qNkZRY5E_a7kPITM1NF7-303">
           <mxGeometry x="0.6333" y="17" relative="1" as="geometry">
+            <mxPoint x="1502" y="8307" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qNkZRY5E_a7kPITM1NF7-301" value="是否按下暂停？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1391" y="8267" width="80" height="80" as="geometry" />
+          <mxGeometry x="1480" y="8267" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qNkZRY5E_a7kPITM1NF7-302" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qNkZRY5E_a7kPITM1NF7-303" target="qNkZRY5E_a7kPITM1NF7-306">
           <mxGeometry relative="1" as="geometry" />
@@ -1885,24 +1886,6 @@
         </mxCell>
         <mxCell id="qNkZRY5E_a7kPITM1NF7-380" value="切换工作功能" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1416" y="8185" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="qNkZRY5E_a7kPITM1NF7-387" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qNkZRY5E_a7kPITM1NF7-384" target="qNkZRY5E_a7kPITM1NF7-303">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="qNkZRY5E_a7kPITM1NF7-391" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="qNkZRY5E_a7kPITM1NF7-384" target="qNkZRY5E_a7kPITM1NF7-390">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1540" y="8267" />
-              <mxPoint x="1540" y="8260" />
-              <mxPoint x="1616" y="8260" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qNkZRY5E_a7kPITM1NF7-384" value="是否过板？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1502" y="8267" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="qNkZRY5E_a7kPITM1NF7-390" value="切换出料功能" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1566" y="8185" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
