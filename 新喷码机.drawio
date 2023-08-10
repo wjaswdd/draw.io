@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-10T11:11:56.951Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="hrqHV1jqjs1VlBVxMROt" version="21.6.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-10T11:13:27.437Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="WJR73hV-W7sWo6cVI0mP" version="21.6.7" type="github">
   <diagram name="第 1 页" id="BK7UexbAD5S3coaDiWZC">
     <mxGraphModel dx="2263" dy="732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1194,7 +1194,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qNkZRY5E_a7kPITM1NF7-185" value="开左气缸，关右气缸" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1371" y="6198" width="120" height="60" as="geometry" />
+          <mxGeometry x="1380" y="6200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qNkZRY5E_a7kPITM1NF7-190" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qNkZRY5E_a7kPITM1NF7-188" target="qNkZRY5E_a7kPITM1NF7-73">
           <mxGeometry relative="1" as="geometry" />
@@ -1206,10 +1206,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qNkZRY5E_a7kPITM1NF7-191" value="判断自动过板方向Motion::flag_PassBoard?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1391" y="6300" width="80" height="80" as="geometry" />
+          <mxGeometry x="1400" y="6300" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qNkZRY5E_a7kPITM1NF7-197" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qNkZRY5E_a7kPITM1NF7-192" target="qNkZRY5E_a7kPITM1NF7-196">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qNkZRY5E_a7kPITM1NF7-192" value="皮带正/反向连续运动" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1371" y="6410" width="120" height="60" as="geometry" />
+          <mxGeometry x="1380" y="6420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qNkZRY5E_a7kPITM1NF7-196" value="等待出板，等待完全出板" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="6510" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
