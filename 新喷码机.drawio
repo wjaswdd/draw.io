@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-10T11:15:26.209Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="SwRs94t_nUGcarm2s1yP" version="21.6.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-10T11:16:39.972Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="mOTnFJeLhUH9wWu5kvTR" version="21.6.7" type="github">
   <diagram name="第 1 页" id="BK7UexbAD5S3coaDiWZC">
-    <mxGraphModel dx="2263" dy="732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2048" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1393,8 +1393,21 @@
         <mxCell id="qNkZRY5E_a7kPITM1NF7-250" value="自动结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="381" y="8390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qNkZRY5E_a7kPITM1NF7-251" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qNkZRY5E_a7kPITM1NF7-252" target="qNkZRY5E_a7kPITM1NF7-254">
+        <mxCell id="qNkZRY5E_a7kPITM1NF7-251" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qNkZRY5E_a7kPITM1NF7-252" target="qNkZRY5E_a7kPITM1NF7-254">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qNkZRY5E_a7kPITM1NF7-377" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="qNkZRY5E_a7kPITM1NF7-252" target="qNkZRY5E_a7kPITM1NF7-237">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1382" y="7990" />
+              <mxPoint x="1182" y="7990" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qNkZRY5E_a7kPITM1NF7-378" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qNkZRY5E_a7kPITM1NF7-377">
+          <mxGeometry x="-0.1787" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="qNkZRY5E_a7kPITM1NF7-252" value="如果自动暂停标志&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Motion::flag_pause=true?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1342" y="7900" width="80" height="80" as="geometry" />
