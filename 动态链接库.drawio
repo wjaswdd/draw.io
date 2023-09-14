@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-14T07:44:42.679Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="d5R70EAJmJlIQeNm_ag6" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-14T07:53:12.330Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="SoOoEWQXL-YBN9hZWG_J" version="21.6.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1640" dy="712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1808" dy="859" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -56,7 +56,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xGRrHU0zuUm_UajYIUWW-3" value="&lt;h1&gt;header.h&lt;br&gt;&lt;/h1&gt;&lt;p&gt;封装功能所需引用的头文件&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="xGRrHU0zuUm_UajYIUWW-1">
-          <mxGeometry x="580" y="60" width="190" height="120" as="geometry" />
+          <mxGeometry x="594" y="60" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="xGRrHU0zuUm_UajYIUWW-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="xGRrHU0zuUm_UajYIUWW-1" source="xGRrHU0zuUm_UajYIUWW-5" target="zkfFHV4jXpPFQw0GAbJ--2">
           <mxGeometry relative="1" as="geometry">
@@ -155,8 +155,11 @@
         <mxCell id="xGRrHU0zuUm_UajYIUWW-33" value="Get Seminars Taken" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="xGRrHU0zuUm_UajYIUWW-28">
           <mxGeometry y="112" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="xGRrHU0zuUm_UajYIUWW-34" value="&lt;h1&gt;DLL1.cpp&lt;/h1&gt;&lt;div&gt;封装功能具体实现&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="xGRrHU0zuUm_UajYIUWW-1">
+        <mxCell id="xGRrHU0zuUm_UajYIUWW-34" value="&lt;h1&gt;DLL1.cpp&lt;/h1&gt;&lt;div&gt;封装功能具体实现&lt;/div&gt;&lt;div&gt;void Test(float *p, int len) {//功能代码}&lt;/div&gt;&lt;div&gt;int Add(int a, int b) {//功能代码}&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="xGRrHU0zuUm_UajYIUWW-1">
           <mxGeometry x="590" y="351" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="xGRrHU0zuUm_UajYIUWW-35" value="&lt;h1&gt;DLL1.CPP封装&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="xGRrHU0zuUm_UajYIUWW-1">
+          <mxGeometry x="590" y="510" width="190" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
