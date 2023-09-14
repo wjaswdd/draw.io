@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-14T08:19:20.455Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="IjB6NDilUQaWDgKx0ceb" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-14T08:23:47.384Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="P48IdbGh22Wlg_D8neYU" version="21.6.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2670" dy="890" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -231,8 +231,11 @@
         <mxCell id="xGRrHU0zuUm_UajYIUWW-62" value="&lt;h1&gt;header.h&lt;br&gt;&lt;/h1&gt;&lt;p&gt;封装功能所需引用的头文件&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="xGRrHU0zuUm_UajYIUWW-52">
           <mxGeometry x="560" y="145" width="190" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="xGRrHU0zuUm_UajYIUWW-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="xGRrHU0zuUm_UajYIUWW-52" source="xGRrHU0zuUm_UajYIUWW-64" target="xGRrHU0zuUm_UajYIUWW-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xGRrHU0zuUm_UajYIUWW-64" value="&lt;h1&gt;Task.cpp&lt;br&gt;&lt;/h1&gt;&lt;div&gt;封装功能具体实现&lt;/div&gt;&lt;div&gt;void Test(float *p, int len) {//功能代码}&lt;/div&gt;&lt;div&gt;int Add(int a, int b) {//功能代码}&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="xGRrHU0zuUm_UajYIUWW-52">
-          <mxGeometry x="540" y="480" width="190" height="120" as="geometry" />
+          <mxGeometry x="540" y="504" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="xGRrHU0zuUm_UajYIUWW-65" value="header.h引用内容" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="xGRrHU0zuUm_UajYIUWW-52">
           <mxGeometry x="20" y="40" width="200" height="330" as="geometry" />
@@ -259,13 +262,19 @@
           <mxGeometry y="270" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xGRrHU0zuUm_UajYIUWW-71" value="Task.cpp内容" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="xGRrHU0zuUm_UajYIUWW-52">
-          <mxGeometry x="20" y="530" width="200" height="90" as="geometry" />
+          <mxGeometry x="20" y="474" width="200" height="150" as="geometry" />
         </mxCell>
         <mxCell id="xGRrHU0zuUm_UajYIUWW-72" value="&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;void Test(float *p, int len) {//功能代码}&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="xGRrHU0zuUm_UajYIUWW-71">
           <mxGeometry y="30" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xGRrHU0zuUm_UajYIUWW-73" value="&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;int Add(int a, int b) {//功能代码}&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="xGRrHU0zuUm_UajYIUWW-71">
           <mxGeometry y="60" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xGRrHU0zuUm_UajYIUWW-80" value="&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;int GetData(char *p, int i) {//功能代码}}&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="xGRrHU0zuUm_UajYIUWW-71">
+          <mxGeometry y="90" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xGRrHU0zuUm_UajYIUWW-81" value="&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;char getGPS(int&amp;amp; s,int t,int n,int w,char mapname) {//功能代码}}&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="xGRrHU0zuUm_UajYIUWW-71">
+          <mxGeometry y="120" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xGRrHU0zuUm_UajYIUWW-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="xGRrHU0zuUm_UajYIUWW-52" source="xGRrHU0zuUm_UajYIUWW-54" target="xGRrHU0zuUm_UajYIUWW-65">
           <mxGeometry relative="1" as="geometry" />
@@ -275,6 +284,9 @@
             <mxPoint x="520" y="592.5" as="sourcePoint" />
             <mxPoint x="520" y="262.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="xGRrHU0zuUm_UajYIUWW-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="xGRrHU0zuUm_UajYIUWW-52" source="xGRrHU0zuUm_UajYIUWW-59" target="xGRrHU0zuUm_UajYIUWW-71">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
