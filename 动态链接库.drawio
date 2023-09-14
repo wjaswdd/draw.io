@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-14T08:37:00.427Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="64rQ089WsXjRcEV9k_jn" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-14T08:38:00.697Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="sAY9YNKULeGDzdmLPVsg" version="21.6.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1504" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -79,8 +79,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="xGRrHU0zuUm_UajYIUWW-7" value="&lt;h1&gt;targetver.h&lt;br&gt;&lt;/h1&gt;&lt;p&gt;版本信息&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="xGRrHU0zuUm_UajYIUWW-1">
-          <mxGeometry x="590" y="290" width="190" height="120" as="geometry" />
+        <mxCell id="xGRrHU0zuUm_UajYIUWW-7" value="&lt;h1&gt;targetver.h&lt;br&gt;&lt;/h1&gt;&lt;p&gt;版本信息&lt;/p&gt;1、如果要为以前的 Windows 平台生成应用程序，请包括 WinSDKVer.h，并将_WIN32_WINNT 宏设置为要支持的平台，然后再包括 SDKDDKVer.h。" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="xGRrHU0zuUm_UajYIUWW-1">
+          <mxGeometry x="590" y="280" width="190" height="170" as="geometry" />
         </mxCell>
         <mxCell id="xGRrHU0zuUm_UajYIUWW-9" value="header.h引用内容" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="xGRrHU0zuUm_UajYIUWW-1">
           <mxGeometry x="10" y="40" width="200" height="180" as="geometry" />
