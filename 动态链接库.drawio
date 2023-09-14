@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-14T08:11:58.732Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="9lad0dg7Sh5rJ8MQ4f1C" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-14T08:18:07.142Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="PwcjajmLi0naoOqJSmcr" version="21.6.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2839" dy="1038" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2670" dy="890" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -224,6 +224,48 @@
         </mxCell>
         <mxCell id="xGRrHU0zuUm_UajYIUWW-59" value="Task.cpp" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="xGRrHU0zuUm_UajYIUWW-58">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="xGRrHU0zuUm_UajYIUWW-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="xGRrHU0zuUm_UajYIUWW-52" source="xGRrHU0zuUm_UajYIUWW-62" target="xGRrHU0zuUm_UajYIUWW-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xGRrHU0zuUm_UajYIUWW-62" value="&lt;h1&gt;header.h&lt;br&gt;&lt;/h1&gt;&lt;p&gt;封装功能所需引用的头文件&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="xGRrHU0zuUm_UajYIUWW-52">
+          <mxGeometry x="550" y="42.5" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="xGRrHU0zuUm_UajYIUWW-64" value="&lt;h1&gt;Task.cpp&lt;br&gt;&lt;/h1&gt;&lt;div&gt;封装功能具体实现&lt;/div&gt;&lt;div&gt;void Test(float *p, int len) {//功能代码}&lt;/div&gt;&lt;div&gt;int Add(int a, int b) {//功能代码}&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="xGRrHU0zuUm_UajYIUWW-52">
+          <mxGeometry x="540" y="480" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="xGRrHU0zuUm_UajYIUWW-65" value="header.h引用内容" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="xGRrHU0zuUm_UajYIUWW-52">
+          <mxGeometry x="20" y="42.5" width="200" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="xGRrHU0zuUm_UajYIUWW-66" value="&lt;div&gt;#include &amp;lt;stdlib.h&amp;gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;#include &amp;lt;malloc.h&amp;gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;#include &amp;lt;memory.h&amp;gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;#include &amp;lt;tchar.h&amp;gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;#include &amp;lt;iostream&amp;gt;//引用输入输出&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="xGRrHU0zuUm_UajYIUWW-65">
+          <mxGeometry y="30" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xGRrHU0zuUm_UajYIUWW-67" value="using namespace std;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="xGRrHU0zuUm_UajYIUWW-65">
+          <mxGeometry y="110" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xGRrHU0zuUm_UajYIUWW-68" value="extern &quot;C&quot; {//定义函数出口}" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="xGRrHU0zuUm_UajYIUWW-65">
+          <mxGeometry y="140" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xGRrHU0zuUm_UajYIUWW-69" value="_declspec(dllexport) void Test(float *p,int len);" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="xGRrHU0zuUm_UajYIUWW-65">
+          <mxGeometry y="170" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xGRrHU0zuUm_UajYIUWW-70" value="_declspec(dllexport) int Add(int p, int b);" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="xGRrHU0zuUm_UajYIUWW-65">
+          <mxGeometry y="200" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xGRrHU0zuUm_UajYIUWW-75" value="_declspec(dllexport) int GetData(char *p, int i);" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="xGRrHU0zuUm_UajYIUWW-65">
+          <mxGeometry y="230" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xGRrHU0zuUm_UajYIUWW-74" value="_declspec(dllexport) char getGPS(int&amp;amp; s, int t, int n, int w, char mapname);" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="xGRrHU0zuUm_UajYIUWW-65">
+          <mxGeometry y="270" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xGRrHU0zuUm_UajYIUWW-71" value="DLL1.CPP内容" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="xGRrHU0zuUm_UajYIUWW-52">
+          <mxGeometry x="20" y="530" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="xGRrHU0zuUm_UajYIUWW-72" value="&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;void Test(float *p, int len) {//功能代码}&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="xGRrHU0zuUm_UajYIUWW-71">
+          <mxGeometry y="30" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xGRrHU0zuUm_UajYIUWW-73" value="&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;int Add(int a, int b) {//功能代码}&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="xGRrHU0zuUm_UajYIUWW-71">
+          <mxGeometry y="60" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
