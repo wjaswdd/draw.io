@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-14T08:01:14.905Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="xoEHxGmjybXozwvtpRNj" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-14T08:01:48.038Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="Te1g3C2gdNNZBIeU3OxQ" version="21.6.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1808" dy="859" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2500" dy="1466" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -205,6 +205,23 @@
         </mxCell>
         <mxCell id="xGRrHU0zuUm_UajYIUWW-45" value="&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;BOOL APIENTRY DllMain( HMODULE hModule,DWORD&amp;nbsp; ul_reason_for_call,&lt;span style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;LPVOID lpReserved&lt;/span&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;){//DLL报错入口}&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="xGRrHU0zuUm_UajYIUWW-44">
           <mxGeometry y="30" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xGRrHU0zuUm_UajYIUWW-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="xGRrHU0zuUm_UajYIUWW-1" source="zkfFHV4jXpPFQw0GAbJ--8" target="xGRrHU0zuUm_UajYIUWW-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xGRrHU0zuUm_UajYIUWW-48" value="STDAFX.CPP内容" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="xGRrHU0zuUm_UajYIUWW-1">
+          <mxGeometry x="10" y="710" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xGRrHU0zuUm_UajYIUWW-49" value="空" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="xGRrHU0zuUm_UajYIUWW-48">
+          <mxGeometry y="30" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xGRrHU0zuUm_UajYIUWW-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="xGRrHU0zuUm_UajYIUWW-1" source="zkfFHV4jXpPFQw0GAbJ--11" target="xGRrHU0zuUm_UajYIUWW-48">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="671" />
+              <mxPoint x="270" y="740" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
