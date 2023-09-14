@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-14T07:37:17.559Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="VPtohLGCcsiUMI3eVgTz" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-14T07:39:43.909Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="lQ9OVIsBg5dVT12WeNXe" version="21.6.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2174" dy="721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1640" dy="712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -102,23 +102,25 @@
         <mxCell id="xGRrHU0zuUm_UajYIUWW-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="xGRrHU0zuUm_UajYIUWW-1" source="zkfFHV4jXpPFQw0GAbJ--1" target="xGRrHU0zuUm_UajYIUWW-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xGRrHU0zuUm_UajYIUWW-16" value="引用内容" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="xGRrHU0zuUm_UajYIUWW-1">
-          <mxGeometry x="10" y="240" width="200" height="180" as="geometry" />
+        <mxCell id="xGRrHU0zuUm_UajYIUWW-16" value="stdafx.h引用内容" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="xGRrHU0zuUm_UajYIUWW-1">
+          <mxGeometry x="10" y="240" width="200" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="xGRrHU0zuUm_UajYIUWW-17" value="#include &amp;lt;iostream&amp;gt;//引用输入输出" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="xGRrHU0zuUm_UajYIUWW-16">
+        <mxCell id="xGRrHU0zuUm_UajYIUWW-17" value="targetver.h" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="xGRrHU0zuUm_UajYIUWW-16">
           <mxGeometry y="30" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xGRrHU0zuUm_UajYIUWW-18" value="using namespace std;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="xGRrHU0zuUm_UajYIUWW-16">
-          <mxGeometry y="60" width="200" height="30" as="geometry" />
+        <mxCell id="xGRrHU0zuUm_UajYIUWW-18" value="WIN32_LEAN_AND_MEAN&amp;nbsp;// 从 Windows 头文件中排除极少使用的内容" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="xGRrHU0zuUm_UajYIUWW-16">
+          <mxGeometry y="60" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="xGRrHU0zuUm_UajYIUWW-19" value="extern &quot;C&quot; {//定义函数出口}" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="xGRrHU0zuUm_UajYIUWW-16">
-          <mxGeometry y="90" width="200" height="30" as="geometry" />
+        <mxCell id="xGRrHU0zuUm_UajYIUWW-20" value="&amp;lt;windows.h&amp;gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="xGRrHU0zuUm_UajYIUWW-16">
+          <mxGeometry y="110" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xGRrHU0zuUm_UajYIUWW-20" value="_declspec(dllexport) void Test(float *p, int len);" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="xGRrHU0zuUm_UajYIUWW-16">
-          <mxGeometry y="120" width="200" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="xGRrHU0zuUm_UajYIUWW-21" value="_declspec(dllexport) int Add(int p, int b);" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="xGRrHU0zuUm_UajYIUWW-16">
-          <mxGeometry y="150" width="200" height="30" as="geometry" />
+        <mxCell id="xGRrHU0zuUm_UajYIUWW-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="xGRrHU0zuUm_UajYIUWW-1" source="zkfFHV4jXpPFQw0GAbJ--2" target="xGRrHU0zuUm_UajYIUWW-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="260" y="130" />
+              <mxPoint x="260" y="280" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
