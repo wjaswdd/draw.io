@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-16T08:00:11.000Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="BKbZ38xZLXfrX9PoMpAV" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-16T08:16:37.910Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="5jCQVnYKuVlGc6sTu-Ji" version="21.7.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2792" dy="1051" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -525,10 +525,10 @@
         <mxCell id="Phrjp-2YEYrd1809jS44-0" value="生成DLL+调用DLL" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="840" y="320" width="570" height="830" as="geometry" />
         </mxCell>
-        <mxCell id="Phrjp-2YEYrd1809jS44-1" value="&lt;h1&gt;MyNewDLL&lt;/h1&gt;&lt;p&gt;并没有涉及到生成dll和使用dll&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="Phrjp-2YEYrd1809jS44-0">
+        <mxCell id="Phrjp-2YEYrd1809jS44-1" value="&lt;h1&gt;MyNewDLL&lt;/h1&gt;&lt;p&gt;并没有涉及到生成dll和使用dll&lt;/p&gt;&lt;p&gt;20230916修改了函数增加了使用动态链接库部分&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="Phrjp-2YEYrd1809jS44-0">
           <mxGeometry x="50" y="85" width="190" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Phrjp-2YEYrd1809jS44-2" value="&lt;h1&gt;MyFirstDll&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="Phrjp-2YEYrd1809jS44-0">
+        <mxCell id="Phrjp-2YEYrd1809jS44-2" value="&lt;h1&gt;MyFirstDll&lt;/h1&gt;&lt;p&gt;是界面调用动态链接库测试&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="Phrjp-2YEYrd1809jS44-0">
           <mxGeometry x="320" y="85" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Phrjp-2YEYrd1809jS44-3" value="&lt;h1&gt;DLL1&lt;/h1&gt;&lt;p&gt;没有生成动态链接库&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="Phrjp-2YEYrd1809jS44-0">
@@ -536,6 +536,12 @@
         </mxCell>
         <mxCell id="Phrjp-2YEYrd1809jS44-4" value="&lt;h1&gt;DLLCodeRe&lt;/h1&gt;&lt;p&gt;生成了动态链接库&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="Phrjp-2YEYrd1809jS44-0">
           <mxGeometry x="320" y="270" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Phrjp-2YEYrd1809jS44-5" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="Phrjp-2YEYrd1809jS44-0">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="380" as="sourcePoint" />
+            <mxPoint x="250" y="470" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
