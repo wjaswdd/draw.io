@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-15T12:17:38.815Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="U9bXSxNeSIfirZ6nivRK" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-16T07:45:30.058Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="YoJvgDQUKTM9k62fgtfh" version="21.7.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="3601" dy="1484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2792" dy="1051" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -337,7 +337,7 @@
         <mxCell id="xGRrHU0zuUm_UajYIUWW-99" value="header.h引用内容" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="xGRrHU0zuUm_UajYIUWW-83" vertex="1">
           <mxGeometry x="20" y="50" width="200" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="dN6BOo3-9b4EkkRBqwcs-22" value="测试功能代码" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="xGRrHU0zuUm_UajYIUWW-99">
+        <mxCell id="dN6BOo3-9b4EkkRBqwcs-22" value="测试功能代码" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="xGRrHU0zuUm_UajYIUWW-99" vertex="1">
           <mxGeometry y="30" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xGRrHU0zuUm_UajYIUWW-100" value="#include &quot;resource.h&quot;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="xGRrHU0zuUm_UajYIUWW-99" vertex="1">
@@ -431,41 +431,41 @@
         <mxCell id="xGRrHU0zuUm_UajYIUWW-84" value="MyNewCP" style="swimlane;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="29" y="1179" width="770" height="860" as="geometry" />
         </mxCell>
-        <mxCell id="dN6BOo3-9b4EkkRBqwcs-0" value="头文件" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="xGRrHU0zuUm_UajYIUWW-84">
+        <mxCell id="dN6BOo3-9b4EkkRBqwcs-0" value="头文件" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="xGRrHU0zuUm_UajYIUWW-84" vertex="1">
           <mxGeometry x="304" y="180" width="160" height="65" as="geometry">
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dN6BOo3-9b4EkkRBqwcs-1" value="PCH.h" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="dN6BOo3-9b4EkkRBqwcs-0">
+        <mxCell id="dN6BOo3-9b4EkkRBqwcs-1" value="PCH.h" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="dN6BOo3-9b4EkkRBqwcs-0" vertex="1">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="dN6BOo3-9b4EkkRBqwcs-5" value="源文件" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="xGRrHU0zuUm_UajYIUWW-84">
+        <mxCell id="dN6BOo3-9b4EkkRBqwcs-5" value="源文件" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="xGRrHU0zuUm_UajYIUWW-84" vertex="1">
           <mxGeometry x="305" y="464" width="160" height="80" as="geometry">
             <mxRectangle x="130" y="380" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dN6BOo3-9b4EkkRBqwcs-6" value="PCH.cpp" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="dN6BOo3-9b4EkkRBqwcs-5">
+        <mxCell id="dN6BOo3-9b4EkkRBqwcs-6" value="PCH.cpp" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="dN6BOo3-9b4EkkRBqwcs-5" vertex="1">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="dN6BOo3-9b4EkkRBqwcs-7" value="MyNewCP.cpp" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="dN6BOo3-9b4EkkRBqwcs-5">
+        <mxCell id="dN6BOo3-9b4EkkRBqwcs-7" value="MyNewCP.cpp" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="dN6BOo3-9b4EkkRBqwcs-5" vertex="1">
           <mxGeometry y="52" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="dN6BOo3-9b4EkkRBqwcs-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="xGRrHU0zuUm_UajYIUWW-84" source="dN6BOo3-9b4EkkRBqwcs-8" target="dN6BOo3-9b4EkkRBqwcs-1">
+        <mxCell id="dN6BOo3-9b4EkkRBqwcs-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="xGRrHU0zuUm_UajYIUWW-84" source="dN6BOo3-9b4EkkRBqwcs-8" target="dN6BOo3-9b4EkkRBqwcs-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dN6BOo3-9b4EkkRBqwcs-8" value="&lt;h1&gt;header.h&lt;br&gt;&lt;/h1&gt;&lt;p&gt;封装功能所需引用的头文件&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="xGRrHU0zuUm_UajYIUWW-84">
+        <mxCell id="dN6BOo3-9b4EkkRBqwcs-8" value="&lt;h1&gt;header.h&lt;br&gt;&lt;/h1&gt;&lt;p&gt;封装功能所需引用的头文件&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="xGRrHU0zuUm_UajYIUWW-84" vertex="1">
           <mxGeometry x="550" y="90" width="190" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="dN6BOo3-9b4EkkRBqwcs-9" value="PCH.h引用内容" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="xGRrHU0zuUm_UajYIUWW-84">
+        <mxCell id="dN6BOo3-9b4EkkRBqwcs-9" value="PCH.h引用内容" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="xGRrHU0zuUm_UajYIUWW-84" vertex="1">
           <mxGeometry x="40" y="70" width="200" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="dN6BOo3-9b4EkkRBqwcs-10" value="&lt;div&gt;// 入门提示:&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;//&amp;nbsp; &amp;nbsp;1. 使用解决方案资源管理器窗口添加/管理文件&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;//&amp;nbsp; &amp;nbsp;2. 使用团队资源管理器窗口连接到源代码管理&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;//&amp;nbsp; &amp;nbsp;3. 使用输出窗口查看生成输出和其他消息&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;//&amp;nbsp; &amp;nbsp;4. 使用错误列表窗口查看错误&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;//&amp;nbsp; &amp;nbsp;5. 转到“项目”&amp;gt;“添加新项”以创建新的代码文件，或转到“项目”&amp;gt;“添加现有项”以将现有代码文件添加到项目&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;//&amp;nbsp; &amp;nbsp;6. 将来，若要再次打开此项目，请转到“文件”&amp;gt;“打开”&amp;gt;“项目”并选择 .sln 文件&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="dN6BOo3-9b4EkkRBqwcs-9">
+        <mxCell id="dN6BOo3-9b4EkkRBqwcs-10" value="&lt;div&gt;// 入门提示:&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;//&amp;nbsp; &amp;nbsp;1. 使用解决方案资源管理器窗口添加/管理文件&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;//&amp;nbsp; &amp;nbsp;2. 使用团队资源管理器窗口连接到源代码管理&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;//&amp;nbsp; &amp;nbsp;3. 使用输出窗口查看生成输出和其他消息&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;//&amp;nbsp; &amp;nbsp;4. 使用错误列表窗口查看错误&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;//&amp;nbsp; &amp;nbsp;5. 转到“项目”&amp;gt;“添加新项”以创建新的代码文件，或转到“项目”&amp;gt;“添加现有项”以将现有代码文件添加到项目&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;//&amp;nbsp; &amp;nbsp;6. 将来，若要再次打开此项目，请转到“文件”&amp;gt;“打开”&amp;gt;“项目”并选择 .sln 文件&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="dN6BOo3-9b4EkkRBqwcs-9" vertex="1">
           <mxGeometry y="30" width="200" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="dN6BOo3-9b4EkkRBqwcs-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="xGRrHU0zuUm_UajYIUWW-84" source="dN6BOo3-9b4EkkRBqwcs-1" target="dN6BOo3-9b4EkkRBqwcs-10">
+        <mxCell id="dN6BOo3-9b4EkkRBqwcs-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="xGRrHU0zuUm_UajYIUWW-84" source="dN6BOo3-9b4EkkRBqwcs-1" target="dN6BOo3-9b4EkkRBqwcs-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dN6BOo3-9b4EkkRBqwcs-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="xGRrHU0zuUm_UajYIUWW-84" source="dN6BOo3-9b4EkkRBqwcs-13" target="dN6BOo3-9b4EkkRBqwcs-6">
+        <mxCell id="dN6BOo3-9b4EkkRBqwcs-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="xGRrHU0zuUm_UajYIUWW-84" source="dN6BOo3-9b4EkkRBqwcs-13" target="dN6BOo3-9b4EkkRBqwcs-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="500" y="380" />
@@ -473,28 +473,28 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="dN6BOo3-9b4EkkRBqwcs-13" value="&lt;h1&gt;PCH.cpp&lt;br&gt;&lt;/h1&gt;&lt;div&gt;// pch.cpp: 与预编译标头对应的源文件；编译成功所必需的&lt;br&gt;&lt;/div&gt;&lt;div&gt;// 一般情况下，忽略此文件，但如果你使用的是预编译标头，请保留它。&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="xGRrHU0zuUm_UajYIUWW-84">
+        <mxCell id="dN6BOo3-9b4EkkRBqwcs-13" value="&lt;h1&gt;PCH.cpp&lt;br&gt;&lt;/h1&gt;&lt;div&gt;// pch.cpp: 与预编译标头对应的源文件；编译成功所必需的&lt;br&gt;&lt;/div&gt;&lt;div&gt;// 一般情况下，忽略此文件，但如果你使用的是预编译标头，请保留它。&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="xGRrHU0zuUm_UajYIUWW-84" vertex="1">
           <mxGeometry x="527" y="310" width="190" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="dN6BOo3-9b4EkkRBqwcs-15" value="PCH.cpp引用内容" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="xGRrHU0zuUm_UajYIUWW-84">
+        <mxCell id="dN6BOo3-9b4EkkRBqwcs-15" value="PCH.cpp引用内容" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="xGRrHU0zuUm_UajYIUWW-84" vertex="1">
           <mxGeometry x="40" y="369" width="200" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="dN6BOo3-9b4EkkRBqwcs-16" value="&lt;div&gt;// 入门提示:&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;//&amp;nbsp; &amp;nbsp;1. 使用解决方案资源管理器窗口添加/管理文件&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;//&amp;nbsp; &amp;nbsp;2. 使用团队资源管理器窗口连接到源代码管理&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;//&amp;nbsp; &amp;nbsp;3. 使用输出窗口查看生成输出和其他消息&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;//&amp;nbsp; &amp;nbsp;4. 使用错误列表窗口查看错误&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;//&amp;nbsp; &amp;nbsp;5. 转到“项目”&amp;gt;“添加新项”以创建新的代码文件，或转到“项目”&amp;gt;“添加现有项”以将现有代码文件添加到项目&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;//&amp;nbsp; &amp;nbsp;6. 将来，若要再次打开此项目，请转到“文件”&amp;gt;“打开”&amp;gt;“项目”并选择 .sln 文件&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="dN6BOo3-9b4EkkRBqwcs-15">
+        <mxCell id="dN6BOo3-9b4EkkRBqwcs-16" value="&lt;div&gt;// 入门提示:&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;//&amp;nbsp; &amp;nbsp;1. 使用解决方案资源管理器窗口添加/管理文件&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;//&amp;nbsp; &amp;nbsp;2. 使用团队资源管理器窗口连接到源代码管理&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;//&amp;nbsp; &amp;nbsp;3. 使用输出窗口查看生成输出和其他消息&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;//&amp;nbsp; &amp;nbsp;4. 使用错误列表窗口查看错误&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;//&amp;nbsp; &amp;nbsp;5. 转到“项目”&amp;gt;“添加新项”以创建新的代码文件，或转到“项目”&amp;gt;“添加现有项”以将现有代码文件添加到项目&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;//&amp;nbsp; &amp;nbsp;6. 将来，若要再次打开此项目，请转到“文件”&amp;gt;“打开”&amp;gt;“项目”并选择 .sln 文件&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="dN6BOo3-9b4EkkRBqwcs-15" vertex="1">
           <mxGeometry y="30" width="200" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="dN6BOo3-9b4EkkRBqwcs-17" value="MyNewCP.cpp引用内容" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="xGRrHU0zuUm_UajYIUWW-84">
+        <mxCell id="dN6BOo3-9b4EkkRBqwcs-17" value="MyNewCP.cpp引用内容" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="xGRrHU0zuUm_UajYIUWW-84" vertex="1">
           <mxGeometry x="40" y="670" width="200" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="dN6BOo3-9b4EkkRBqwcs-18" value="测试功能代码" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="dN6BOo3-9b4EkkRBqwcs-17">
+        <mxCell id="dN6BOo3-9b4EkkRBqwcs-18" value="测试功能代码" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="dN6BOo3-9b4EkkRBqwcs-17" vertex="1">
           <mxGeometry y="30" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="dN6BOo3-9b4EkkRBqwcs-23" value="&lt;div&gt;#include &quot;pch.h&quot;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;#include &amp;lt;iostream&amp;gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;#include &amp;lt;ctime&amp;gt;&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="dN6BOo3-9b4EkkRBqwcs-17">
+        <mxCell id="dN6BOo3-9b4EkkRBqwcs-23" value="&lt;div&gt;#include &quot;pch.h&quot;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;#include &amp;lt;iostream&amp;gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;#include &amp;lt;ctime&amp;gt;&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="dN6BOo3-9b4EkkRBqwcs-17" vertex="1">
           <mxGeometry y="80" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="dN6BOo3-9b4EkkRBqwcs-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="xGRrHU0zuUm_UajYIUWW-84" source="dN6BOo3-9b4EkkRBqwcs-7" target="dN6BOo3-9b4EkkRBqwcs-18">
+        <mxCell id="dN6BOo3-9b4EkkRBqwcs-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="xGRrHU0zuUm_UajYIUWW-84" source="dN6BOo3-9b4EkkRBqwcs-7" target="dN6BOo3-9b4EkkRBqwcs-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dN6BOo3-9b4EkkRBqwcs-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="xGRrHU0zuUm_UajYIUWW-84" source="dN6BOo3-9b4EkkRBqwcs-20" target="dN6BOo3-9b4EkkRBqwcs-7">
+        <mxCell id="dN6BOo3-9b4EkkRBqwcs-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="xGRrHU0zuUm_UajYIUWW-84" source="dN6BOo3-9b4EkkRBqwcs-20" target="dN6BOo3-9b4EkkRBqwcs-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="500" y="640" />
@@ -502,10 +502,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="dN6BOo3-9b4EkkRBqwcs-20" value="&lt;h1&gt;MyNewCP.cpp&lt;br&gt;&lt;/h1&gt;&lt;div&gt;MyNewCP.cpp : 此文件包含 &quot;main&quot; 函数。程序执行将在此处开始并结束。&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="xGRrHU0zuUm_UajYIUWW-84">
+        <mxCell id="dN6BOo3-9b4EkkRBqwcs-20" value="&lt;h1&gt;MyNewCP.cpp&lt;br&gt;&lt;/h1&gt;&lt;div&gt;MyNewCP.cpp : 此文件包含 &quot;main&quot; 函数。程序执行将在此处开始并结束。&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="xGRrHU0zuUm_UajYIUWW-84" vertex="1">
           <mxGeometry x="527" y="570" width="190" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="dN6BOo3-9b4EkkRBqwcs-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="xGRrHU0zuUm_UajYIUWW-84" source="dN6BOo3-9b4EkkRBqwcs-6" target="dN6BOo3-9b4EkkRBqwcs-16">
+        <mxCell id="dN6BOo3-9b4EkkRBqwcs-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="xGRrHU0zuUm_UajYIUWW-84" source="dN6BOo3-9b4EkkRBqwcs-6" target="dN6BOo3-9b4EkkRBqwcs-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="260" y="503" />
@@ -521,6 +521,12 @@
         </mxCell>
         <mxCell id="xGRrHU0zuUm_UajYIUWW-126" value="&lt;h1&gt;MyNewDlls配置属性&lt;/h1&gt;&lt;p style=&quot;box-sizing: border-box; line-height: inherit; orphans: 4; margin: 0.8em 0px; position: relative; color: rgb(51, 51, 51); font-family: &amp;quot;Open Sans&amp;quot;, &amp;quot;Clear Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, &amp;quot;Segoe UI Emoji&amp;quot;, sans-serif; font-size: 16px;&quot; class=&quot;md-end-block md-p&quot;&gt;项目文件MyNewDlls&lt;span style=&quot;background-color: initial;&quot;&gt;{&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; line-height: inherit; orphans: 4; margin: 0.8em 0px; position: relative; color: rgb(51, 51, 51); font-family: &amp;quot;Open Sans&amp;quot;, &amp;quot;Clear Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, &amp;quot;Segoe UI Emoji&amp;quot;, sans-serif; font-size: 16px;&quot; class=&quot;md-end-block md-p&quot;&gt;配置类型：可执行文件(exe)&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; line-height: inherit; orphans: 4; margin: 0.8em 0px; position: relative; color: rgb(51, 51, 51); font-family: &amp;quot;Open Sans&amp;quot;, &amp;quot;Clear Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, &amp;quot;Segoe UI Emoji&amp;quot;, sans-serif; font-size: 16px;&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span style=&quot;box-sizing: border-box;&quot; class=&quot;md-plain&quot;&gt;C/C++预处理器：&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; line-height: inherit; orphans: 4; margin: 0.8em 0px; position: relative;&quot; class=&quot;md-end-block md-p md-focus&quot;&gt;&lt;font face=&quot;Open Sans, Clear Sans, Helvetica Neue, Helvetica, Arial, Segoe UI Emoji, sans-serif&quot; color=&quot;#333333&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;WIN32&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; line-height: inherit; orphans: 4; margin: 0.8em 0px; position: relative;&quot; class=&quot;md-end-block md-p md-focus&quot;&gt;&lt;font face=&quot;Open Sans, Clear Sans, Helvetica Neue, Helvetica, Arial, Segoe UI Emoji, sans-serif&quot; color=&quot;#333333&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;_DEBUG&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; line-height: inherit; orphans: 4; margin: 0.8em 0px; position: relative;&quot; class=&quot;md-end-block md-p md-focus&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;&lt;font face=&quot;Open Sans, Clear Sans, Helvetica Neue, Helvetica, Arial, Segoe UI Emoji, sans-serif&quot; color=&quot;#333333&quot;&gt;_CONSOLE&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; line-height: inherit; orphans: 4; margin: 0.8em 0px; position: relative;&quot; class=&quot;md-end-block md-p md-focus&quot;&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Open Sans&amp;quot;, &amp;quot;Clear Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, &amp;quot;Segoe UI Emoji&amp;quot;, sans-serif; font-size: 16px; background-color: initial;&quot;&gt;}&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="340" y="10" width="200" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="Phrjp-2YEYrd1809jS44-0" value="生成DLL+调用DLL" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="840" y="320" width="570" height="830" as="geometry" />
+        </mxCell>
+        <mxCell id="Phrjp-2YEYrd1809jS44-1" value="&lt;h1&gt;MyNewDLL&lt;/h1&gt;&lt;p&gt;并没有涉及到生成dll和使用dll&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="Phrjp-2YEYrd1809jS44-0">
+          <mxGeometry x="50" y="85" width="190" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
