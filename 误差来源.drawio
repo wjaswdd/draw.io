@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-05T10:21:27.759Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="7M5Ogi1sz9_0Nrm3fDlJ" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-05T12:04:21.383Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="XOLWT5yJWvVFlFxY5Ek0" version="22.1.16" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="713" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1965" dy="1040" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -186,62 +186,133 @@
         <mxCell id="ux9FGk7YxiCrDKr7o1Dm-66" value="&lt;h1&gt;&lt;font color=&quot;#ff3d1f&quot;&gt;隐藏误差是我提出的，多角度误差补偿的方法是有的&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;font color=&quot;#ff3d1f&quot;&gt;通信时延误差补偿的我也没有在文献中见过，隐藏误差将一些不好量化的误差项当作一个误差项进行补偿，留给未来补偿拓展余地&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1630" y="620" width="510" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="lxcbjtFvWMlM8hvbjrdO-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lxcbjtFvWMlM8hvbjrdO-1" target="lxcbjtFvWMlM8hvbjrdO-2">
+        <mxCell id="lxcbjtFvWMlM8hvbjrdO-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lxcbjtFvWMlM8hvbjrdO-1" target="lxcbjtFvWMlM8hvbjrdO-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lxcbjtFvWMlM8hvbjrdO-1" value="第一章&lt;br&gt;绪论" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lxcbjtFvWMlM8hvbjrdO-1" value="第一章&lt;br&gt;绪论" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="140" y="1240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lxcbjtFvWMlM8hvbjrdO-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lxcbjtFvWMlM8hvbjrdO-2" target="lxcbjtFvWMlM8hvbjrdO-3">
+        <mxCell id="lxcbjtFvWMlM8hvbjrdO-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lxcbjtFvWMlM8hvbjrdO-2" target="lxcbjtFvWMlM8hvbjrdO-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lxcbjtFvWMlM8hvbjrdO-2" value="第二章&lt;br&gt;&lt;font style=&quot;background-color: initial;&quot; face=&quot;宋体&quot;&gt;精密激光标刻设备&lt;/font&gt;&lt;span style=&quot;background-color: initial; font-family: 宋体; font-size: 10.5pt;&quot;&gt;的&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: Calibri; font-size: 10.5pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;运动特点分析&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lxcbjtFvWMlM8hvbjrdO-2" value="第二章&lt;br&gt;&lt;font style=&quot;background-color: initial;&quot; face=&quot;宋体&quot;&gt;精密激光标刻设备&lt;/font&gt;&lt;span style=&quot;background-color: initial; font-family: 宋体; font-size: 10.5pt;&quot;&gt;的&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: Calibri; font-size: 10.5pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;运动特点分析&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="140" y="1360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lxcbjtFvWMlM8hvbjrdO-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lxcbjtFvWMlM8hvbjrdO-3" target="lxcbjtFvWMlM8hvbjrdO-4">
+        <mxCell id="lxcbjtFvWMlM8hvbjrdO-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lxcbjtFvWMlM8hvbjrdO-3" target="lxcbjtFvWMlM8hvbjrdO-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lxcbjtFvWMlM8hvbjrdO-3" value="第三章&lt;br&gt;&lt;span style=&quot;font-family: 宋体; background-color: initial;&quot;&gt;运动位置补偿技术研究&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lxcbjtFvWMlM8hvbjrdO-3" value="第三章&lt;br&gt;&lt;span style=&quot;font-family: 宋体; background-color: initial;&quot;&gt;运动位置补偿技术研究&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="140" y="1480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lxcbjtFvWMlM8hvbjrdO-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lxcbjtFvWMlM8hvbjrdO-4" target="lxcbjtFvWMlM8hvbjrdO-6">
+        <mxCell id="lxcbjtFvWMlM8hvbjrdO-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lxcbjtFvWMlM8hvbjrdO-4" target="lxcbjtFvWMlM8hvbjrdO-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lxcbjtFvWMlM8hvbjrdO-4" value="第四章&lt;br&gt;&lt;span style=&quot;font-family: 宋体; background-color: initial;&quot;&gt;实验与结果分析&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lxcbjtFvWMlM8hvbjrdO-4" value="第四章&lt;br&gt;&lt;span style=&quot;font-family: 宋体; background-color: initial;&quot;&gt;实验与结果分析&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="140" y="1600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lxcbjtFvWMlM8hvbjrdO-5" value="1.介绍研究背景和意义&lt;br&gt;2.回顾国内外研究现状及发展趋势&lt;br&gt;3.概述研究目标及研究内容&lt;br&gt;4.介绍论文结构" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="lxcbjtFvWMlM8hvbjrdO-5" value="1.介绍研究背景和意义&lt;br&gt;2.回顾国内外研究现状及发展趋势&lt;br&gt;3.概述研究目标及研究内容&lt;br&gt;4.介绍论文结构" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="320" y="1240" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lxcbjtFvWMlM8hvbjrdO-6" value="结论与展望" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lxcbjtFvWMlM8hvbjrdO-6" value="结论与展望" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="140" y="1723.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lxcbjtFvWMlM8hvbjrdO-7" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+        <mxCell id="lxcbjtFvWMlM8hvbjrdO-7" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="110" y="1330" as="sourcePoint" />
             <mxPoint x="560" y="1330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lxcbjtFvWMlM8hvbjrdO-9" value="1.描述设备运动控制系统&lt;br&gt;2.分析设备中运动误差原因&lt;br&gt;3.概述采用的标定误差方法&lt;br&gt;4.分析和评估现有的补偿方法" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="lxcbjtFvWMlM8hvbjrdO-9" value="1.描述设备运动控制系统&lt;br&gt;2.分析设备中运动误差原因&lt;br&gt;3.概述采用的标定误差方法&lt;br&gt;4.分析和评估现有的补偿方法" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="310" y="1360" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lxcbjtFvWMlM8hvbjrdO-14" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+        <mxCell id="lxcbjtFvWMlM8hvbjrdO-14" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="100" y="1450" as="sourcePoint" />
             <mxPoint x="550" y="1450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lxcbjtFvWMlM8hvbjrdO-15" value="1.研究运动误差建模方法&lt;br&gt;2.研究运动误差补偿算法&lt;br&gt;3.设计并实现补偿控制系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="lxcbjtFvWMlM8hvbjrdO-15" value="1.研究运动误差建模方法&lt;br&gt;2.研究运动误差补偿算法&lt;br&gt;3.设计并实现补偿控制系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="300" y="1480" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lxcbjtFvWMlM8hvbjrdO-16" value="1.介绍实验系统设计&lt;br&gt;2.实验结果对比与评估&lt;br&gt;3.分析及讨论实验数据" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="lxcbjtFvWMlM8hvbjrdO-16" value="1.介绍实验系统设计&lt;br&gt;2.实验结果对比与评估&lt;br&gt;3.分析及讨论实验数据" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="300" y="1600" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lxcbjtFvWMlM8hvbjrdO-17" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+        <mxCell id="lxcbjtFvWMlM8hvbjrdO-17" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="100" y="1570" as="sourcePoint" />
             <mxPoint x="550" y="1570" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="N_bDEIIRH4Gd33UH70QZ-1" value="总体结构组成与功能" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="1080" width="2026" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="N_bDEIIRH4Gd33UH70QZ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="N_bDEIIRH4Gd33UH70QZ-1" source="N_bDEIIRH4Gd33UH70QZ-12" target="N_bDEIIRH4Gd33UH70QZ-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="406" y="250" />
+              <mxPoint x="96" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N_bDEIIRH4Gd33UH70QZ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="N_bDEIIRH4Gd33UH70QZ-1" source="N_bDEIIRH4Gd33UH70QZ-12" target="N_bDEIIRH4Gd33UH70QZ-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="406" y="250" />
+              <mxPoint x="256" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N_bDEIIRH4Gd33UH70QZ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="N_bDEIIRH4Gd33UH70QZ-1" source="N_bDEIIRH4Gd33UH70QZ-12" target="N_bDEIIRH4Gd33UH70QZ-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N_bDEIIRH4Gd33UH70QZ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="N_bDEIIRH4Gd33UH70QZ-1" source="N_bDEIIRH4Gd33UH70QZ-12" target="N_bDEIIRH4Gd33UH70QZ-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="406" y="250" />
+              <mxPoint x="566" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N_bDEIIRH4Gd33UH70QZ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="N_bDEIIRH4Gd33UH70QZ-1" source="N_bDEIIRH4Gd33UH70QZ-12" target="N_bDEIIRH4Gd33UH70QZ-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="406" y="250" />
+              <mxPoint x="716" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N_bDEIIRH4Gd33UH70QZ-12" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;硬件系统&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="N_bDEIIRH4Gd33UH70QZ-1">
+          <mxGeometry x="346" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N_bDEIIRH4Gd33UH70QZ-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="N_bDEIIRH4Gd33UH70QZ-1" source="N_bDEIIRH4Gd33UH70QZ-22" target="N_bDEIIRH4Gd33UH70QZ-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N_bDEIIRH4Gd33UH70QZ-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="N_bDEIIRH4Gd33UH70QZ-1" source="N_bDEIIRH4Gd33UH70QZ-22" target="N_bDEIIRH4Gd33UH70QZ-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N_bDEIIRH4Gd33UH70QZ-22" value="软件系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="N_bDEIIRH4Gd33UH70QZ-1">
+          <mxGeometry x="1060" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N_bDEIIRH4Gd33UH70QZ-23" value="通信时延误差" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="N_bDEIIRH4Gd33UH70QZ-1">
+          <mxGeometry x="36" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="N_bDEIIRH4Gd33UH70QZ-24" value="机械加工精度" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="N_bDEIIRH4Gd33UH70QZ-1">
+          <mxGeometry x="196" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="N_bDEIIRH4Gd33UH70QZ-27" value="传动间隙误差" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="N_bDEIIRH4Gd33UH70QZ-1">
+          <mxGeometry x="346" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="N_bDEIIRH4Gd33UH70QZ-28" value="几何误差" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="N_bDEIIRH4Gd33UH70QZ-1">
+          <mxGeometry x="506" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="N_bDEIIRH4Gd33UH70QZ-29" value="外界干扰" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="N_bDEIIRH4Gd33UH70QZ-1">
+          <mxGeometry x="1000" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="N_bDEIIRH4Gd33UH70QZ-30" value="隐藏误差" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="N_bDEIIRH4Gd33UH70QZ-1">
+          <mxGeometry x="1150" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="N_bDEIIRH4Gd33UH70QZ-31" value="质量误差" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="N_bDEIIRH4Gd33UH70QZ-1">
+          <mxGeometry x="656" y="320" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
