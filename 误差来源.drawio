@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-05T12:35:54.025Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Z_cFgBAFyD8AaVCIMYtv" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-05T12:36:33.081Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="6105n4Goz4BV6k9ahQf7" version="22.1.16" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1965" dy="1040" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -244,7 +244,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="N_bDEIIRH4Gd33UH70QZ-1" value="总体结构组成与功能" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" vertex="1" parent="1">
-          <mxGeometry x="720" y="1080" width="1410" height="500" as="geometry" />
+          <mxGeometry x="720" y="1080" width="1480" height="500" as="geometry" />
         </mxCell>
         <mxCell id="N_bDEIIRH4Gd33UH70QZ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="N_bDEIIRH4Gd33UH70QZ-1" source="N_bDEIIRH4Gd33UH70QZ-12" target="N_bDEIIRH4Gd33UH70QZ-23">
           <mxGeometry relative="1" as="geometry">
@@ -308,6 +308,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="N_bDEIIRH4Gd33UH70QZ-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="N_bDEIIRH4Gd33UH70QZ-1" source="N_bDEIIRH4Gd33UH70QZ-22" target="N_bDEIIRH4Gd33UH70QZ-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1120" y="250" />
+              <mxPoint x="1380" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="N_bDEIIRH4Gd33UH70QZ-22" value="测控系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="N_bDEIIRH4Gd33UH70QZ-1">
           <mxGeometry x="1060" y="160" width="120" height="60" as="geometry" />
         </mxCell>
@@ -327,13 +335,16 @@
           <mxGeometry x="1000" y="320" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="N_bDEIIRH4Gd33UH70QZ-30" value="伺服驱动控制器" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="N_bDEIIRH4Gd33UH70QZ-1">
-          <mxGeometry x="1150" y="320" width="120" height="80" as="geometry" />
+          <mxGeometry x="1160" y="320" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="N_bDEIIRH4Gd33UH70QZ-35" value="上位机软件" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="N_bDEIIRH4Gd33UH70QZ-1">
           <mxGeometry x="840" y="320" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="N_bDEIIRH4Gd33UH70QZ-37" value="……" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="N_bDEIIRH4Gd33UH70QZ-1">
           <mxGeometry x="660" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="N_bDEIIRH4Gd33UH70QZ-39" value="……" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="N_bDEIIRH4Gd33UH70QZ-1">
+          <mxGeometry x="1320" y="320" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
