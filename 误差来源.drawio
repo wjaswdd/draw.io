@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2023-06-24T13:34:11.457Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="7eb3vgvrHSLJl2Ibp2w6" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-05T09:07:38.087Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="w9ELyoL3lmNLnzOwbFsn" version="22.1.16" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="2074" dy="1068" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="590" dy="466" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="dNxyNK7c78bLwvsdeMH5-11" value="误差来源" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" parent="1" vertex="1">
           <mxGeometry x="34" y="50" width="2026" height="490" as="geometry" />
         </mxCell>
-        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="ux9FGk7YxiCrDKr7o1Dm-8" target="ux9FGk7YxiCrDKr7o1Dm-9">
+        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="dNxyNK7c78bLwvsdeMH5-11" source="ux9FGk7YxiCrDKr7o1Dm-8" target="ux9FGk7YxiCrDKr7o1Dm-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1226" y="130" />
@@ -15,7 +15,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="ux9FGk7YxiCrDKr7o1Dm-8" target="ux9FGk7YxiCrDKr7o1Dm-10">
+        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="dNxyNK7c78bLwvsdeMH5-11" source="ux9FGk7YxiCrDKr7o1Dm-8" target="ux9FGk7YxiCrDKr7o1Dm-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1226" y="130" />
@@ -23,7 +23,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="ux9FGk7YxiCrDKr7o1Dm-8" target="ux9FGk7YxiCrDKr7o1Dm-11">
+        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="dNxyNK7c78bLwvsdeMH5-11" source="ux9FGk7YxiCrDKr7o1Dm-8" target="ux9FGk7YxiCrDKr7o1Dm-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1226" y="130" />
@@ -31,7 +31,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="ux9FGk7YxiCrDKr7o1Dm-8" target="ux9FGk7YxiCrDKr7o1Dm-12">
+        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="dNxyNK7c78bLwvsdeMH5-11" source="ux9FGk7YxiCrDKr7o1Dm-8" target="ux9FGk7YxiCrDKr7o1Dm-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1226" y="130" />
@@ -39,10 +39,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-8" value="标定平台误差来源" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-8" value="标定平台误差来源" style="rounded=1;whiteSpace=wrap;html=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
           <mxGeometry x="1166" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="ux9FGk7YxiCrDKr7o1Dm-9" target="ux9FGk7YxiCrDKr7o1Dm-13">
+        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="dNxyNK7c78bLwvsdeMH5-11" source="ux9FGk7YxiCrDKr7o1Dm-9" target="ux9FGk7YxiCrDKr7o1Dm-13" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="406" y="250" />
@@ -50,7 +50,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="ux9FGk7YxiCrDKr7o1Dm-9" target="ux9FGk7YxiCrDKr7o1Dm-14">
+        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="dNxyNK7c78bLwvsdeMH5-11" source="ux9FGk7YxiCrDKr7o1Dm-9" target="ux9FGk7YxiCrDKr7o1Dm-14" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="406" y="250" />
@@ -58,10 +58,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="ux9FGk7YxiCrDKr7o1Dm-9" target="ux9FGk7YxiCrDKr7o1Dm-18">
+        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="dNxyNK7c78bLwvsdeMH5-11" source="ux9FGk7YxiCrDKr7o1Dm-9" target="ux9FGk7YxiCrDKr7o1Dm-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="ux9FGk7YxiCrDKr7o1Dm-9" target="ux9FGk7YxiCrDKr7o1Dm-19">
+        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="dNxyNK7c78bLwvsdeMH5-11" source="ux9FGk7YxiCrDKr7o1Dm-9" target="ux9FGk7YxiCrDKr7o1Dm-19" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="406" y="250" />
@@ -69,7 +69,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="ux9FGk7YxiCrDKr7o1Dm-9" target="ux9FGk7YxiCrDKr7o1Dm-37">
+        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="dNxyNK7c78bLwvsdeMH5-11" source="ux9FGk7YxiCrDKr7o1Dm-9" target="ux9FGk7YxiCrDKr7o1Dm-37" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="406" y="250" />
@@ -77,10 +77,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-9" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;静态误差&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-9" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;静态误差&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
           <mxGeometry x="346" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="ux9FGk7YxiCrDKr7o1Dm-10" target="ux9FGk7YxiCrDKr7o1Dm-38">
+        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="dNxyNK7c78bLwvsdeMH5-11" source="ux9FGk7YxiCrDKr7o1Dm-10" target="ux9FGk7YxiCrDKr7o1Dm-38" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1066" y="250" />
@@ -88,10 +88,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="ux9FGk7YxiCrDKr7o1Dm-10" target="ux9FGk7YxiCrDKr7o1Dm-39">
+        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="dNxyNK7c78bLwvsdeMH5-11" source="ux9FGk7YxiCrDKr7o1Dm-10" target="ux9FGk7YxiCrDKr7o1Dm-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="ux9FGk7YxiCrDKr7o1Dm-10" target="ux9FGk7YxiCrDKr7o1Dm-40">
+        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="dNxyNK7c78bLwvsdeMH5-11" source="ux9FGk7YxiCrDKr7o1Dm-10" target="ux9FGk7YxiCrDKr7o1Dm-40" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1066" y="250" />
@@ -99,92 +99,104 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-10" value="动态误差" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-10" value="动态误差" style="rounded=1;whiteSpace=wrap;html=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
           <mxGeometry x="1006" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="ux9FGk7YxiCrDKr7o1Dm-11" target="ux9FGk7YxiCrDKr7o1Dm-15">
+        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="dNxyNK7c78bLwvsdeMH5-11" source="ux9FGk7YxiCrDKr7o1Dm-11" target="ux9FGk7YxiCrDKr7o1Dm-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="ux9FGk7YxiCrDKr7o1Dm-11" target="ux9FGk7YxiCrDKr7o1Dm-16">
+        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="dNxyNK7c78bLwvsdeMH5-11" source="ux9FGk7YxiCrDKr7o1Dm-11" target="ux9FGk7YxiCrDKr7o1Dm-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-11" value="热误差" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-11" value="热误差" style="rounded=1;whiteSpace=wrap;html=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
           <mxGeometry x="1416" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="ux9FGk7YxiCrDKr7o1Dm-12" target="ux9FGk7YxiCrDKr7o1Dm-21">
+        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="dNxyNK7c78bLwvsdeMH5-11" source="ux9FGk7YxiCrDKr7o1Dm-12" target="ux9FGk7YxiCrDKr7o1Dm-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="ux9FGk7YxiCrDKr7o1Dm-12" target="ux9FGk7YxiCrDKr7o1Dm-35">
+        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="dNxyNK7c78bLwvsdeMH5-11" source="ux9FGk7YxiCrDKr7o1Dm-12" target="ux9FGk7YxiCrDKr7o1Dm-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-12" value="其他误差" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-12" value="其他误差" style="rounded=1;whiteSpace=wrap;html=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
           <mxGeometry x="1726" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-13" value="通信时延误差" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-13" value="通信时延误差" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
           <mxGeometry x="36" y="320" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-14" value="机械加工精度" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-14" value="机械加工精度" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
           <mxGeometry x="196" y="320" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-15" value="外界环境" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-15" value="外界环境" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
           <mxGeometry x="1336" y="320" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-16" value="设备易发热件" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-16" value="设备易发热件" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
           <mxGeometry x="1496" y="320" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-18" value="传动间隙误差" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-18" value="传动间隙误差" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
           <mxGeometry x="346" y="320" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-19" value="几何误差" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-19" value="几何误差" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
           <mxGeometry x="506" y="320" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-21" value="外界干扰" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-21" value="外界干扰" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
           <mxGeometry x="1666" y="320" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-35" value="隐藏误差" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-35" value="隐藏误差" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
           <mxGeometry x="1816" y="320" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-37" value="质量误差" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-37" value="质量误差" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
           <mxGeometry x="656" y="320" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-38" value="振动误差" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-38" value="振动误差" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
           <mxGeometry x="836" y="320" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-39" value="弹性变形误差" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-39" value="弹性变形误差" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
           <mxGeometry x="1006" y="320" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-40" value="伺服驱动误差" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-40" value="伺服驱动误差" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
           <mxGeometry x="1174" y="320" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-1" value="&lt;h1&gt;误差来源-实际上是重复定位误差补偿&lt;/h1&gt;&lt;div&gt;1、静态误差&lt;/div&gt;&lt;div&gt;2、动态误差&lt;/div&gt;&lt;div&gt;3、热误差&lt;/div&gt;&lt;div&gt;4、其他误差&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-1" value="&lt;h1&gt;误差来源-实际上是重复定位误差补偿&lt;/h1&gt;&lt;div&gt;1、静态误差&lt;/div&gt;&lt;div&gt;2、动态误差&lt;/div&gt;&lt;div&gt;3、热误差&lt;/div&gt;&lt;div&gt;4、其他误差&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="560" y="600" width="270" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-17" value="&lt;h1&gt;热误差&lt;/h1&gt;&lt;div&gt;热误差的影响因素有所处环境和所受本体&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;外部温度场：外界环境温度（数值）、车间建筑结构、照明灯、太阳光&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;内部温度场：润滑系统、冷却系统、传动系统、运动轴的转速、加速度、材料及属性等本体影响温度因素的集合&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-17" value="&lt;h1&gt;热误差&lt;/h1&gt;&lt;div&gt;热误差的影响因素有所处环境和所受本体&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;外部温度场：外界环境温度（数值）、车间建筑结构、照明灯、太阳光&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;内部温度场：润滑系统、冷却系统、传动系统、运动轴的转速、加速度、材料及属性等本体影响温度因素的集合&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="920" y="760" width="310" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-20" value="&lt;h1&gt;静态误差&lt;/h1&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;几何误差：由机台结构；零部件制造安装引起的；装配误差引起的直线度误差；角度偏差（俯仰、偏航、摇晃）；直角度；&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;通信时延误差：（永得利）控制器到标刻设备的时延；控制器之间的时延；&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;机械精度误差：丝杆，减速器，&lt;span style=&quot;background-color: initial;&quot;&gt;电机等器件都存在机械加工精度误差&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;传动间隙误差：丝杆传动机构中丝&lt;span style=&quot;background-color: initial;&quot;&gt;杠和丝杆螺母之间肯定存在一定的间隙，&lt;/span&gt;螺母还要等间隙消除以后才能带动工作台运动&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;质量误差：运动平台静态时，由&lt;span style=&quot;background-color: initial;&quot;&gt;于其机构设计不当，导致整体质量向一侧偏向，使得运动平台不同位姿下的变形不同产生的误差。&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-20" value="&lt;h1&gt;静态误差&lt;/h1&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;几何误差：由机台结构；零部件制造安装引起的；装配误差引起的直线度误差；角度偏差（俯仰、偏航、摇晃）；直角度；&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;通信时延误差：（永得利）控制器到标刻设备的时延；控制器之间的时延；&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;机械精度误差：丝杆，减速器，&lt;span style=&quot;background-color: initial;&quot;&gt;电机等器件都存在机械加工精度误差&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;传动间隙误差：丝杆传动机构中丝&lt;span style=&quot;background-color: initial;&quot;&gt;杠和丝杆螺母之间肯定存在一定的间隙，&lt;/span&gt;螺母还要等间隙消除以后才能带动工作台运动&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;质量误差：运动平台静态时，由&lt;span style=&quot;background-color: initial;&quot;&gt;于其机构设计不当，导致整体质量向一侧偏向，使得运动平台不同位姿下的变形不同产生的误差。&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="90" y="760" width="360" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-36" value="&lt;h1&gt;其他误差&lt;/h1&gt;&lt;div&gt;外界干扰&lt;/div&gt;&lt;div&gt;隐藏误差：&lt;/div&gt;（南京航空航天大学）&lt;span style=&quot;background-color: initial;&quot;&gt;预紧力；装配精度；零&lt;/span&gt;件磨损（对重复定位精度影响大）&lt;br&gt;（天津大学）工作台支撑距离；滚珠丝杆作为支撑轴承其刚度；光栅尺安装位置；外部负载；丝杆挠度变化；工作台应变；滑块应变/应力；关键点温度；导轨基面直线度/垂直度；&lt;br&gt;(上海铼纳克) 机械刚性；运动部件惯量；温度；摩擦系统；润滑条件等物理因素影响同时也受到控制系统运动控制律；伺服系统响应速度等算法因素的影响；惯性因素在相同的加工条件下具有极大的相似性&lt;br&gt;（南京高传）丝杆在中断移动时，因丝杆挠度和热变形导致轴向振幅增大，尾部支撑零件刚度下降以及精度偏移，严重降低运动平台的传动精度和响应性" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-36" value="&lt;h1&gt;其他误差&lt;/h1&gt;&lt;div&gt;外界干扰&lt;/div&gt;&lt;div&gt;隐藏误差：&lt;/div&gt;（南京航空航天大学）&lt;span style=&quot;background-color: initial;&quot;&gt;预紧力；装配精度；零&lt;/span&gt;件磨损（对重复定位精度影响大）&lt;br&gt;（天津大学）工作台支撑距离；滚珠丝杆作为支撑轴承其刚度；光栅尺安装位置；外部负载；丝杆挠度变化；工作台应变；滑块应变/应力；关键点温度；导轨基面直线度/垂直度；&lt;br&gt;(上海铼纳克) 机械刚性；运动部件惯量；温度；摩擦系统；润滑条件等物理因素影响同时也受到控制系统运动控制律；伺服系统响应速度等算法因素的影响；惯性因素在相同的加工条件下具有极大的相似性&lt;br&gt;（南京高传）丝杆在中断移动时，因丝杆挠度和热变形导致轴向振幅增大，尾部支撑零件刚度下降以及精度偏移，严重降低运动平台的传动精度和响应性" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1320" y="760" width="440" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-42" value="&lt;h1&gt;动态误差&lt;/h1&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;弹性变形误差：变形误差是运动平台在负载下，由于外力或过大的惯性&lt;span style=&quot;background-color: initial;&quot;&gt;力是产生的变形&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;振动误差：&lt;/span&gt;振动误差由运动平台的频率决定，&lt;span style=&quot;background-color: initial;&quot;&gt;需要建立动态刚度模型并补偿到控制器中&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;伺服驱动误差：指伺服驱动器驱动能力不足导致电机失步引起的位移误差&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;主轴回转误差（×）：主轴旋转加工时主轴旋转中心线相对于理论的距离&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-42" value="&lt;h1&gt;动态误差&lt;/h1&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;弹性变形误差：变形误差是运动平台在负载下，由于外力或过大的惯性&lt;span style=&quot;background-color: initial;&quot;&gt;力是产生的变形&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;振动误差：&lt;/span&gt;振动误差由运动平台的频率决定，&lt;span style=&quot;background-color: initial;&quot;&gt;需要建立动态刚度模型并补偿到控制器中&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;伺服驱动误差：指伺服驱动器驱动能力不足导致电机失步引起的位移误差&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;主轴回转误差（×）：主轴旋转加工时主轴旋转中心线相对于理论的距离&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="520" y="760" width="290" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-44" value="&lt;h1&gt;误差定义&lt;br&gt;&lt;/h1&gt;&lt;div&gt;误差就是系统希望控制轴所达到的位置，但是由于各种原因现在反馈位置与期望位置有差值，这个差值就是距离&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-44" value="&lt;h1&gt;误差定义&lt;br&gt;&lt;/h1&gt;&lt;div&gt;误差就是系统希望控制轴所达到的位置，但是由于各种原因现在反馈位置与期望位置有差值，这个差值就是距离&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="310" y="610" width="190" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-63" value="&lt;h1&gt;补偿切入点&lt;/h1&gt;&lt;div&gt;几何误差&lt;/div&gt;&lt;div&gt;传动反向间隙误差&lt;/div&gt;&lt;div&gt;&amp;nbsp;通信时延误差&lt;/div&gt;&lt;div&gt;隐藏误差&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-63" value="&lt;h1&gt;补偿切入点&lt;/h1&gt;&lt;div&gt;几何误差&lt;/div&gt;&lt;div&gt;传动反向间隙误差&lt;/div&gt;&lt;div&gt;&amp;nbsp;通信时延误差&lt;/div&gt;&lt;div&gt;隐藏误差&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1430" y="595" width="190" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-65" value="&lt;br&gt;推出" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ux9FGk7YxiCrDKr7o1Dm-64" target="ux9FGk7YxiCrDKr7o1Dm-63">
+        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-65" value="&lt;br&gt;推出" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ux9FGk7YxiCrDKr7o1Dm-64" target="ux9FGk7YxiCrDKr7o1Dm-63" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-64" value="&lt;h1&gt;在运动过程中对运动位置精度影响最大的因素&lt;/h1&gt;&lt;p&gt;1、机械系统的几何误差；2、标刻设备的通信时延误差；&lt;/p&gt;&lt;p&gt;3、传动机构的累计误差；4、控制系统的运动控制律；&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-64" value="&lt;h1&gt;在运动过程中对运动位置精度影响最大的因素&lt;/h1&gt;&lt;p&gt;1、机械系统的几何误差；2、标刻设备的通信时延误差；&lt;/p&gt;&lt;p&gt;3、传动机构的累计误差；4、控制系统的运动控制律；&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="950" y="580" width="320" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-66" value="&lt;h1&gt;&lt;font color=&quot;#ff3d1f&quot;&gt;隐藏误差是我提出的，多角度误差补偿的方法是有的&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;font color=&quot;#ff3d1f&quot;&gt;通信时延误差补偿的我也没有在文献中见过，隐藏误差将一些不好量化的误差项当作一个误差项进行补偿，留给未来补偿拓展余地&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ux9FGk7YxiCrDKr7o1Dm-66" value="&lt;h1&gt;&lt;font color=&quot;#ff3d1f&quot;&gt;隐藏误差是我提出的，多角度误差补偿的方法是有的&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;font color=&quot;#ff3d1f&quot;&gt;通信时延误差补偿的我也没有在文献中见过，隐藏误差将一些不好量化的误差项当作一个误差项进行补偿，留给未来补偿拓展余地&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1630" y="620" width="510" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="lxcbjtFvWMlM8hvbjrdO-1" value="第一章&lt;br&gt;绪论" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="1240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lxcbjtFvWMlM8hvbjrdO-2" value="第二章&lt;br&gt;&lt;font style=&quot;background-color: initial;&quot; face=&quot;宋体&quot;&gt;精密激光标刻设备&lt;/font&gt;&lt;span style=&quot;background-color: initial; font-family: 宋体; font-size: 10.5pt;&quot;&gt;的&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: Calibri; font-size: 10.5pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;运动特点分析&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="1370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lxcbjtFvWMlM8hvbjrdO-3" value="第三章&lt;br&gt;&lt;span style=&quot;font-family: 宋体; background-color: initial;&quot;&gt;运动位置补偿技术研究&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="1490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lxcbjtFvWMlM8hvbjrdO-4" value="第四章&lt;br&gt;&lt;span style=&quot;font-family: 宋体; background-color: initial;&quot;&gt;实验与结果分析&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="1610" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
