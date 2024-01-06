@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-05T12:57:08.633Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="kyQhgBaU5-16HXZEHK1O" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-06T09:05:50.726Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="dvJmcveKokL6TizaBymS" version="22.1.16" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="719" dy="735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1626" dy="861" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -328,7 +328,7 @@
         <mxCell id="N_bDEIIRH4Gd33UH70QZ-27" value="位置传感器" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="N_bDEIIRH4Gd33UH70QZ-1">
           <mxGeometry x="340" y="320" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="N_bDEIIRH4Gd33UH70QZ-28" value="激光器" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="N_bDEIIRH4Gd33UH70QZ-1">
+        <mxCell id="N_bDEIIRH4Gd33UH70QZ-28" value="激光模组" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="N_bDEIIRH4Gd33UH70QZ-1">
           <mxGeometry x="500" y="320" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="N_bDEIIRH4Gd33UH70QZ-29" value="相机系统" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="N_bDEIIRH4Gd33UH70QZ-1">
