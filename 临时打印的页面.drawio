@@ -1,51 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2024-01-08T05:35:19.692Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="0N2_2iW2hrmUvClmNnpG" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-19T07:25:07.222Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="x3S5WIHUybfgPhD2YQ3B" version="23.0.2" type="github">
   <diagram name="第 1 页" id="X_WzhRcTmZeRYNDWzMod">
-    <mxGraphModel dx="-1571" dy="735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1232" dy="1133" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="tjbKjY3mX2AO3dNQOf3K-173" value="几何误差模型流程" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2590" y="550" width="570" height="770" as="geometry" />
-        </mxCell>
-        <mxCell id="tjbKjY3mX2AO3dNQOf3K-174" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="tjbKjY3mX2AO3dNQOf3K-173" source="tjbKjY3mX2AO3dNQOf3K-175" target="tjbKjY3mX2AO3dNQOf3K-177">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="tjbKjY3mX2AO3dNQOf3K-175" value="多体系统理论" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="tjbKjY3mX2AO3dNQOf3K-173">
-          <mxGeometry x="225" y="60" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="tjbKjY3mX2AO3dNQOf3K-176" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="tjbKjY3mX2AO3dNQOf3K-173" source="tjbKjY3mX2AO3dNQOf3K-177" target="tjbKjY3mX2AO3dNQOf3K-179">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="tjbKjY3mX2AO3dNQOf3K-177" value="加工机械抽象为多体系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="tjbKjY3mX2AO3dNQOf3K-173">
-          <mxGeometry x="225" y="165" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="tjbKjY3mX2AO3dNQOf3K-178" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="tjbKjY3mX2AO3dNQOf3K-173" source="tjbKjY3mX2AO3dNQOf3K-179" target="tjbKjY3mX2AO3dNQOf3K-181">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="tjbKjY3mX2AO3dNQOf3K-179" value="构建拓扑图和低序列阵列" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="tjbKjY3mX2AO3dNQOf3K-173">
-          <mxGeometry x="225" y="260" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="tjbKjY3mX2AO3dNQOf3K-180" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="tjbKjY3mX2AO3dNQOf3K-173" source="tjbKjY3mX2AO3dNQOf3K-181" target="tjbKjY3mX2AO3dNQOf3K-183">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="tjbKjY3mX2AO3dNQOf3K-181" value="描述位姿" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="tjbKjY3mX2AO3dNQOf3K-173">
-          <mxGeometry x="225" y="360" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="tjbKjY3mX2AO3dNQOf3K-182" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="tjbKjY3mX2AO3dNQOf3K-173" source="tjbKjY3mX2AO3dNQOf3K-183" target="tjbKjY3mX2AO3dNQOf3K-185">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="tjbKjY3mX2AO3dNQOf3K-183" value="误差运动学分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="tjbKjY3mX2AO3dNQOf3K-173">
-          <mxGeometry x="225" y="460" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="tjbKjY3mX2AO3dNQOf3K-184" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="tjbKjY3mX2AO3dNQOf3K-173" source="tjbKjY3mX2AO3dNQOf3K-185" target="tjbKjY3mX2AO3dNQOf3K-186">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="tjbKjY3mX2AO3dNQOf3K-185" value="误差模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="tjbKjY3mX2AO3dNQOf3K-173">
-          <mxGeometry x="225" y="559" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="tjbKjY3mX2AO3dNQOf3K-186" value="标定误差" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="tjbKjY3mX2AO3dNQOf3K-173">
-          <mxGeometry x="225" y="660" width="120" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
