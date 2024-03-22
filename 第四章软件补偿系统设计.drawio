@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-22T06:52:36.862Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="8fhO0_uZcdek3IufcLhF" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-22T07:05:55.232Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="WQgdF1U5Ra15JPBvUs6h" version="24.0.7" type="github">
   <diagram name="第 1 页" id="Q9_2YxxPVGNRcekVHFD_">
-    <mxGraphModel dx="775" dy="712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="642" dy="590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -375,7 +375,7 @@
         <mxCell id="sGjy5x4v7XA6GF0PEwLN-62" value="调整隐藏误差Eh+e" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="sGjy5x4v7XA6GF0PEwLN-58">
           <mxGeometry x="190" y="84.5" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sGjy5x4v7XA6GF0PEwLN-63" value="指定位置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="sGjy5x4v7XA6GF0PEwLN-58">
+        <mxCell id="sGjy5x4v7XA6GF0PEwLN-63" value="运动机构" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="sGjy5x4v7XA6GF0PEwLN-58">
           <mxGeometry x="310" y="84.5" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sGjy5x4v7XA6GF0PEwLN-64" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="sGjy5x4v7XA6GF0PEwLN-58">
@@ -557,7 +557,7 @@
         <mxCell id="sGjy5x4v7XA6GF0PEwLN-166" value="补偿信号C&lt;sub&gt;online&lt;/sub&gt;(t)=K*E(t)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="sGjy5x4v7XA6GF0PEwLN-76">
           <mxGeometry x="170" y="69" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sGjy5x4v7XA6GF0PEwLN-167" value="指定位置X(t)+K*E(t)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="sGjy5x4v7XA6GF0PEwLN-76">
+        <mxCell id="sGjy5x4v7XA6GF0PEwLN-167" value="运动机构" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="sGjy5x4v7XA6GF0PEwLN-76">
           <mxGeometry x="310" y="69" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sGjy5x4v7XA6GF0PEwLN-168" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="sGjy5x4v7XA6GF0PEwLN-76" target="sGjy5x4v7XA6GF0PEwLN-166">
@@ -658,7 +658,7 @@
         <mxCell id="sGjy5x4v7XA6GF0PEwLN-42" value="补偿信号C&lt;sub&gt;offline&lt;/sub&gt;(t)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="sGjy5x4v7XA6GF0PEwLN-77">
           <mxGeometry x="120" y="94" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sGjy5x4v7XA6GF0PEwLN-43" value="指定位置X(t)+C&lt;sub&gt;offline&lt;/sub&gt;(t)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="sGjy5x4v7XA6GF0PEwLN-77">
+        <mxCell id="sGjy5x4v7XA6GF0PEwLN-43" value="运动机构" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="sGjy5x4v7XA6GF0PEwLN-77">
           <mxGeometry x="370" y="94" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sGjy5x4v7XA6GF0PEwLN-44" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="sGjy5x4v7XA6GF0PEwLN-77" target="sGjy5x4v7XA6GF0PEwLN-43">
@@ -710,6 +710,9 @@
         <mxCell id="sGjy5x4v7XA6GF0PEwLN-181" value="预先离线补偿法" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1840" y="835" width="610" height="250" as="geometry" />
         </mxCell>
+        <mxCell id="sGjy5x4v7XA6GF0PEwLN-203" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="sGjy5x4v7XA6GF0PEwLN-181" source="sGjy5x4v7XA6GF0PEwLN-182" target="sGjy5x4v7XA6GF0PEwLN-202">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="sGjy5x4v7XA6GF0PEwLN-182" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="sGjy5x4v7XA6GF0PEwLN-181">
           <mxGeometry x="240" y="94" width="41" height="41" as="geometry" />
         </mxCell>
@@ -730,24 +733,18 @@
         <mxCell id="sGjy5x4v7XA6GF0PEwLN-186" value="补偿信号C&lt;sub&gt;offline&lt;/sub&gt;(t)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="sGjy5x4v7XA6GF0PEwLN-181">
           <mxGeometry x="120" y="94" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sGjy5x4v7XA6GF0PEwLN-187" value="指定位置X(t)+C&lt;sub&gt;offline&lt;/sub&gt;(t)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="sGjy5x4v7XA6GF0PEwLN-181">
-          <mxGeometry x="370" y="94" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="sGjy5x4v7XA6GF0PEwLN-188" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="sGjy5x4v7XA6GF0PEwLN-181" target="sGjy5x4v7XA6GF0PEwLN-187">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="281" y="113.65999999999997" as="sourcePoint" />
-            <mxPoint x="321" y="113.65999999999997" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="sGjy5x4v7XA6GF0PEwLN-187" value="指定位置X(t)+C&lt;sub&gt;offline&lt;/sub&gt;(t)+K*E(t)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="sGjy5x4v7XA6GF0PEwLN-181">
+          <mxGeometry x="450" y="94" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sGjy5x4v7XA6GF0PEwLN-189" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="sGjy5x4v7XA6GF0PEwLN-181" source="sGjy5x4v7XA6GF0PEwLN-187">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="520" y="114.15999999999997" as="sourcePoint" />
-            <mxPoint x="560" y="114.15999999999997" as="targetPoint" />
+            <mxPoint x="560" y="113.92" as="sourcePoint" />
+            <mxPoint x="600" y="113.75999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sGjy5x4v7XA6GF0PEwLN-190" value="Y2(t)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sGjy5x4v7XA6GF0PEwLN-189">
+        <mxCell id="sGjy5x4v7XA6GF0PEwLN-190" value="Y(t)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sGjy5x4v7XA6GF0PEwLN-189">
           <mxGeometry x="0.4323" relative="1" as="geometry">
-            <mxPoint x="-9" y="-20" as="offset" />
+            <mxPoint x="-9" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sGjy5x4v7XA6GF0PEwLN-191" value="反馈输入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="sGjy5x4v7XA6GF0PEwLN-181">
@@ -755,10 +752,10 @@
         </mxCell>
         <mxCell id="sGjy5x4v7XA6GF0PEwLN-192" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="sGjy5x4v7XA6GF0PEwLN-181" target="sGjy5x4v7XA6GF0PEwLN-191">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="540" y="115" as="sourcePoint" />
+            <mxPoint x="580" y="115" as="sourcePoint" />
             <mxPoint x="520" y="205" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="540" y="175" />
+              <mxPoint x="580" y="175" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -807,6 +804,12 @@
         </mxCell>
         <mxCell id="sGjy5x4v7XA6GF0PEwLN-201" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;-&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="sGjy5x4v7XA6GF0PEwLN-181">
           <mxGeometry x="260" y="115" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sGjy5x4v7XA6GF0PEwLN-204" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="sGjy5x4v7XA6GF0PEwLN-181" source="sGjy5x4v7XA6GF0PEwLN-202" target="sGjy5x4v7XA6GF0PEwLN-187">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sGjy5x4v7XA6GF0PEwLN-202" value="补偿信号C&lt;sub&gt;online&lt;/sub&gt;(t)=K*E(t)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="sGjy5x4v7XA6GF0PEwLN-181">
+          <mxGeometry x="300" y="95" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
