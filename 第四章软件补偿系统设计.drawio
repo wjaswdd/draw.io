@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-22T08:16:46.994Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="pp-o8i6T8QfssqvTO9hY" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-22T12:55:01.692Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="uNRVS6-Rcen5ALehDZZU" version="24.0.7" type="github">
   <diagram name="第 1 页" id="Q9_2YxxPVGNRcekVHFD_">
-    <mxGraphModel dx="642" dy="590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="793" dy="590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -629,11 +629,14 @@
         <mxCell id="sGjy5x4v7XA6GF0PEwLN-204" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="sGjy5x4v7XA6GF0PEwLN-181" source="sGjy5x4v7XA6GF0PEwLN-202" target="sGjy5x4v7XA6GF0PEwLN-187">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sGjy5x4v7XA6GF0PEwLN-202" value="补偿信号C&lt;sub&gt;online&lt;/sub&gt;(t)=-K*E(t)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="sGjy5x4v7XA6GF0PEwLN-181">
+        <mxCell id="sGjy5x4v7XA6GF0PEwLN-202" value="补偿信号C&lt;sub&gt;online&lt;/sub&gt;(t)=K" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="sGjy5x4v7XA6GF0PEwLN-181">
           <mxGeometry x="300" y="95" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sGjy5x4v7XA6GF0PEwLN-262" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;+&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="sGjy5x4v7XA6GF0PEwLN-181">
           <mxGeometry x="210" y="115" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sGjy5x4v7XA6GF0PEwLN-263" value="&lt;span style=&quot;text-wrap: wrap;&quot;&gt;E(t)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="sGjy5x4v7XA6GF0PEwLN-181">
+          <mxGeometry x="260" y="75" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sGjy5x4v7XA6GF0PEwLN-235" value="运动机构" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2240" y="367" width="80" height="40" as="geometry" />
