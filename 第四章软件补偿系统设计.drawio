@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-23T13:08:40.213Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="y1TCy_u5xsDo0KRNVI8-" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-23T13:27:39.037Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="ydI6jWZURl2EpzbzPDez" version="24.0.7" type="github">
   <diagram name="第 1 页" id="Q9_2YxxPVGNRcekVHFD_">
     <mxGraphModel dx="923" dy="861" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1574,7 +1574,7 @@
             <mxPoint x="790.0000000000002" y="3810" as="targetPoint" />
             <Array as="points">
               <mxPoint x="363" y="3770" />
-              <mxPoint x="870" y="3770" />
+              <mxPoint x="910" y="3770" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1650,7 +1650,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="507" y="3900" />
-              <mxPoint x="436" y="3900" />
+              <mxPoint x="463" y="3900" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1658,13 +1658,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T-NW5hV9_BWBRP23L-nD-202" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T-NW5hV9_BWBRP23L-nD-174" target="T-NW5hV9_BWBRP23L-nD-198">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="T-NW5hV9_BWBRP23L-nD-203" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T-NW5hV9_BWBRP23L-nD-174" target="T-NW5hV9_BWBRP23L-nD-199">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="507" y="3900" />
-              <mxPoint x="572" y="3900" />
+              <mxPoint x="553" y="3900" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1699,8 +1696,8 @@
         <mxCell id="T-NW5hV9_BWBRP23L-nD-216" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T-NW5hV9_BWBRP23L-nD-177" target="T-NW5hV9_BWBRP23L-nD-205">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="884" y="3900" />
-              <mxPoint x="822" y="3900" />
+              <mxPoint x="840.5" y="3900" />
+              <mxPoint x="778.5" y="3900" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1713,13 +1710,21 @@
         <mxCell id="T-NW5hV9_BWBRP23L-nD-219" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T-NW5hV9_BWBRP23L-nD-177" target="T-NW5hV9_BWBRP23L-nD-215">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="884" y="3900" />
-              <mxPoint x="943" y="3900" />
+              <mxPoint x="911.5" y="3900" />
+              <mxPoint x="991.5" y="3900" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T-NW5hV9_BWBRP23L-nD-223" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T-NW5hV9_BWBRP23L-nD-177" target="T-NW5hV9_BWBRP23L-nD-222">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="911.5" y="3900" />
+              <mxPoint x="823.5" y="3900" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="T-NW5hV9_BWBRP23L-nD-177" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 16px;&quot;&gt;参数设置&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="853.5" y="3810" width="60" height="60" as="geometry" />
+          <mxGeometry x="881" y="3810" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="T-NW5hV9_BWBRP23L-nD-178" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;mso-ascii-font-family:&#39;Times New Roman&#39;;&lt;br/&gt;mso-hansi-font-family:&#39;Times New Roman&#39;;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:12.0000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;修改&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 16px; background-color: initial;&quot;&gt;账号及&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 12pt; background-color: initial;&quot;&gt;密码&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="14" y="3930" width="26" height="190" as="geometry" />
@@ -1742,44 +1747,44 @@
         <mxCell id="T-NW5hV9_BWBRP23L-nD-191" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;mso-ascii-font-family:&#39;Times New Roman&#39;;&lt;br/&gt;mso-hansi-font-family:&#39;Times New Roman&#39;;mso-bidi-font-family:&#39;Times New Roman&#39;;mso-bidi-font-weight:bold;&lt;br/&gt;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;信息校验区域&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="322" y="3930" width="26" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="T-NW5hV9_BWBRP23L-nD-196" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 16px;&quot;&gt;确定参数&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="423" y="3930" width="26" height="190" as="geometry" />
+        <mxCell id="T-NW5hV9_BWBRP23L-nD-196" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;新建模板&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="450" y="3930" width="26" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="T-NW5hV9_BWBRP23L-nD-197" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 16px;&quot;&gt;应用参数&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="467" y="3930" width="26" height="190" as="geometry" />
+        <mxCell id="T-NW5hV9_BWBRP23L-nD-197" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 16px;&quot;&gt;编辑模板&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="494" y="3930" width="26" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="T-NW5hV9_BWBRP23L-nD-198" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 16px;&quot;&gt;恢复默认&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="513" y="3930" width="26" height="190" as="geometry" />
-        </mxCell>
-        <mxCell id="T-NW5hV9_BWBRP23L-nD-199" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 16px;&quot;&gt;加载参数&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="559" y="3930" width="26" height="190" as="geometry" />
+        <mxCell id="T-NW5hV9_BWBRP23L-nD-198" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 16px;&quot;&gt;加载模板&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="540" y="3930" width="26" height="190" as="geometry" />
         </mxCell>
         <mxCell id="T-NW5hV9_BWBRP23L-nD-204" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 16px;&quot;&gt;定位孔位置记录&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="633" y="3930" width="26" height="190" as="geometry" />
         </mxCell>
         <mxCell id="T-NW5hV9_BWBRP23L-nD-205" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 16px;&quot;&gt;相机标定&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="808.5" y="3930" width="26" height="190" as="geometry" />
+          <mxGeometry x="856.5" y="3930" width="26" height="190" as="geometry" />
         </mxCell>
         <mxCell id="T-NW5hV9_BWBRP23L-nD-207" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;连续运动及点位运动&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="671.5" y="3930" width="26" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="T-NW5hV9_BWBRP23L-nD-208" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;连续运动及点位运动&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="T-NW5hV9_BWBRP23L-nD-208" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 16px;&quot;&gt;移动调速&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="706" y="3930" width="26" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="T-NW5hV9_BWBRP23L-nD-209" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;移动调速&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="T-NW5hV9_BWBRP23L-nD-209" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;自动功能&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="741" y="3930" width="26" height="190" as="geometry" />
         </mxCell>
         <mxCell id="T-NW5hV9_BWBRP23L-nD-213" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 16px;&quot;&gt;速度限制&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="850" y="3930" width="26" height="190" as="geometry" />
+          <mxGeometry x="898" y="3930" width="26" height="190" as="geometry" />
         </mxCell>
         <mxCell id="T-NW5hV9_BWBRP23L-nD-214" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 16px;&quot;&gt;机台限位&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="890" y="3930" width="26" height="190" as="geometry" />
+          <mxGeometry x="938" y="3930" width="26" height="190" as="geometry" />
         </mxCell>
         <mxCell id="T-NW5hV9_BWBRP23L-nD-215" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 16px;&quot;&gt;相机及通信设置&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="930" y="3930" width="26" height="190" as="geometry" />
+          <mxGeometry x="978" y="3930" width="26" height="190" as="geometry" />
         </mxCell>
         <mxCell id="T-NW5hV9_BWBRP23L-nD-220" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 16px;&quot;&gt;系统信息&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="358" y="3930" width="26" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="T-NW5hV9_BWBRP23L-nD-222" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 16px;&quot;&gt;补偿参数设置&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="810" y="3930" width="26" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
