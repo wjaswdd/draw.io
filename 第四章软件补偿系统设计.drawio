@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-07T13:42:25.131Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="jRW0US51ey6ikUz2qjZH" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-07T14:50:02.676Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="vesHX2WAidWFCr6RJdUL" version="24.3.1" type="github">
   <diagram name="第 1 页" id="Q9_2YxxPVGNRcekVHFD_">
-    <mxGraphModel dx="759" dy="1105" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="642" dy="997" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2736,6 +2736,72 @@
         </mxCell>
         <mxCell id="82e0AZLTjdzOUh-UcgFC-157" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="4383" y="282" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="82e0AZLTjdzOUh-UcgFC-163" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;fontFamily=宋体;fontSize=16;" edge="1" parent="1" source="82e0AZLTjdzOUh-UcgFC-159" target="82e0AZLTjdzOUh-UcgFC-162">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="82e0AZLTjdzOUh-UcgFC-159" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="4164" y="772" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="82e0AZLTjdzOUh-UcgFC-165" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;fontFamily=宋体;fontSize=16;" edge="1" parent="1" source="82e0AZLTjdzOUh-UcgFC-162" target="82e0AZLTjdzOUh-UcgFC-164">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="82e0AZLTjdzOUh-UcgFC-162" value="&lt;p style=&quot;font-size: 16px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;确定齐次坐标变换矩阵&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="4164" y="878" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="82e0AZLTjdzOUh-UcgFC-167" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;fontFamily=宋体;fontSize=16;" edge="1" parent="1" source="82e0AZLTjdzOUh-UcgFC-164" target="82e0AZLTjdzOUh-UcgFC-166">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="82e0AZLTjdzOUh-UcgFC-164" value="&lt;p style=&quot;font-size: 16px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;运动到&lt;/span&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;定位孔&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontStyle=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="4164" y="984" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="82e0AZLTjdzOUh-UcgFC-169" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;fontFamily=宋体;fontSize=16;" edge="1" parent="1" source="82e0AZLTjdzOUh-UcgFC-166" target="82e0AZLTjdzOUh-UcgFC-168">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="82e0AZLTjdzOUh-UcgFC-166" value="&lt;p style=&quot;font-size: 16px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;测定旋转偏移与平移偏移&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontStyle=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="4164" y="1090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="82e0AZLTjdzOUh-UcgFC-171" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;fontFamily=宋体;fontSize=16;" edge="1" parent="1" source="82e0AZLTjdzOUh-UcgFC-168" target="82e0AZLTjdzOUh-UcgFC-170">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="82e0AZLTjdzOUh-UcgFC-168" value="&lt;p style=&quot;font-size: 16px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;标刻预设位置变换&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontStyle=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="4164" y="1205" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="82e0AZLTjdzOUh-UcgFC-170" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="4164" y="1305" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="82e0AZLTjdzOUh-UcgFC-173" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;fontFamily=宋体;fontSize=16;" edge="1" parent="1" source="82e0AZLTjdzOUh-UcgFC-174" target="82e0AZLTjdzOUh-UcgFC-176">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="82e0AZLTjdzOUh-UcgFC-174" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="4449" y="773" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="82e0AZLTjdzOUh-UcgFC-175" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;fontFamily=宋体;fontSize=16;" edge="1" parent="1" source="82e0AZLTjdzOUh-UcgFC-176" target="82e0AZLTjdzOUh-UcgFC-178">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="82e0AZLTjdzOUh-UcgFC-176" value="&lt;p style=&quot;&quot; class=&quot;MsoNormal&quot;&gt;系统响应&lt;span style=&quot;background-color: initial;&quot;&gt;时&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;延定义&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="4449" y="879" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="82e0AZLTjdzOUh-UcgFC-177" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;fontFamily=宋体;fontSize=16;" edge="1" parent="1" source="82e0AZLTjdzOUh-UcgFC-178" target="82e0AZLTjdzOUh-UcgFC-180">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="82e0AZLTjdzOUh-UcgFC-178" value="测量方法" style="whiteSpace=wrap;html=1;rounded=0;fontStyle=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="4449" y="985" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="82e0AZLTjdzOUh-UcgFC-179" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;fontFamily=宋体;fontSize=16;" edge="1" parent="1" source="82e0AZLTjdzOUh-UcgFC-180" target="82e0AZLTjdzOUh-UcgFC-182">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="82e0AZLTjdzOUh-UcgFC-180" value="系统响应时延误差计算" style="whiteSpace=wrap;html=1;rounded=0;fontStyle=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="4449" y="1091" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="82e0AZLTjdzOUh-UcgFC-181" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;fontFamily=宋体;fontSize=16;" edge="1" parent="1" source="82e0AZLTjdzOUh-UcgFC-182" target="82e0AZLTjdzOUh-UcgFC-183">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="82e0AZLTjdzOUh-UcgFC-182" value="系统响应时延误差补偿" style="whiteSpace=wrap;html=1;rounded=0;fontStyle=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="4449" y="1206" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="82e0AZLTjdzOUh-UcgFC-183" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="4449" y="1306" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
