@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-08T04:12:59.799Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="PzgVaLLZc5DuydINnPPx" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-08T05:23:00.639Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="7YVR_mQuNBOl5bmaFJBG" version="24.3.1" type="github">
   <diagram name="第 1 页" id="OOSJCIqJ-EwVnwM63ZJ6">
-    <mxGraphModel dx="1217" dy="847" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1617" dy="791" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1172,6 +1172,50 @@
         </mxCell>
         <mxCell id="HeXBj9O0EwojoMSHhWPc-69" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-245" y="2150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HeXBj9O0EwojoMSHhWPc-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontFamily=宋体;fontStyle=1" edge="1" parent="1" source="HeXBj9O0EwojoMSHhWPc-72" target="HeXBj9O0EwojoMSHhWPc-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HeXBj9O0EwojoMSHhWPc-72" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-432" y="1400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HeXBj9O0EwojoMSHhWPc-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HeXBj9O0EwojoMSHhWPc-74" target="HeXBj9O0EwojoMSHhWPc-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HeXBj9O0EwojoMSHhWPc-74" value="系统响应时延误差、反向间隙误差补偿" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-432" y="1511" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HeXBj9O0EwojoMSHhWPc-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontFamily=宋体;fontStyle=1" edge="1" parent="1" source="HeXBj9O0EwojoMSHhWPc-81" target="HeXBj9O0EwojoMSHhWPc-77">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-372" y="1721" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HeXBj9O0EwojoMSHhWPc-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HeXBj9O0EwojoMSHhWPc-77" target="HeXBj9O0EwojoMSHhWPc-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HeXBj9O0EwojoMSHhWPc-77" value="其他系统误差补偿策略" style="whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-432" y="1709" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HeXBj9O0EwojoMSHhWPc-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontFamily=宋体;fontStyle=1" edge="1" parent="1" source="HeXBj9O0EwojoMSHhWPc-84" target="HeXBj9O0EwojoMSHhWPc-85">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-369" y="2036" as="targetPoint" />
+            <mxPoint x="-369" y="1976" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HeXBj9O0EwojoMSHhWPc-81" value="几何误差补偿" style="whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;rounded=0;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="-432" y="1612" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HeXBj9O0EwojoMSHhWPc-84" value="负反馈调节其他系统误差" style="whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;rounded=0;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="-432" y="1917" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HeXBj9O0EwojoMSHhWPc-85" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-432" y="2043.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HeXBj9O0EwojoMSHhWPc-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HeXBj9O0EwojoMSHhWPc-86" target="HeXBj9O0EwojoMSHhWPc-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HeXBj9O0EwojoMSHhWPc-86" value="开始标刻" style="whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-432" y="1804" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
