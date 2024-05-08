@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T09:25:18.888Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="R0g92V7TH4XjLpSJxeMv" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-08T04:12:59.799Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="PzgVaLLZc5DuydINnPPx" version="24.3.1" type="github">
   <diagram name="第 1 页" id="OOSJCIqJ-EwVnwM63ZJ6">
-    <mxGraphModel dx="586" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1217" dy="847" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -964,6 +964,214 @@
         </mxCell>
         <mxCell id="Xjq-Euk7-c84LHBLY0ZQ-358" value="(b)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="540" y="1265" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HeXBj9O0EwojoMSHhWPc-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontFamily=宋体;fontStyle=1" edge="1" parent="1" source="HeXBj9O0EwojoMSHhWPc-1" target="HeXBj9O0EwojoMSHhWPc-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HeXBj9O0EwojoMSHhWPc-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="50" y="1400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HeXBj9O0EwojoMSHhWPc-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontFamily=宋体;fontStyle=1" edge="1" parent="1" source="HeXBj9O0EwojoMSHhWPc-2" target="HeXBj9O0EwojoMSHhWPc-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HeXBj9O0EwojoMSHhWPc-2" value="发送要料信号" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="50" y="1511" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HeXBj9O0EwojoMSHhWPc-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontFamily=宋体;fontStyle=1" edge="1" parent="1" source="HeXBj9O0EwojoMSHhWPc-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="1591" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="210" y="1681" />
+              <mxPoint x="210" y="1591" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HeXBj9O0EwojoMSHhWPc-7" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontFamily=宋体;fontStyle=1" vertex="1" connectable="0" parent="HeXBj9O0EwojoMSHhWPc-6">
+          <mxGeometry x="-0.1298" y="-10" relative="1" as="geometry">
+            <mxPoint x="14" y="-16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HeXBj9O0EwojoMSHhWPc-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontFamily=宋体;fontStyle=1" edge="1" parent="1" source="HeXBj9O0EwojoMSHhWPc-4" target="HeXBj9O0EwojoMSHhWPc-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HeXBj9O0EwojoMSHhWPc-14" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontFamily=宋体;fontStyle=1" vertex="1" connectable="0" parent="HeXBj9O0EwojoMSHhWPc-9">
+          <mxGeometry x="-0.0424" y="-4" relative="1" as="geometry">
+            <mxPoint x="-26" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HeXBj9O0EwojoMSHhWPc-4" value="来料？（进料光电触发）" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="70" y="1641" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HeXBj9O0EwojoMSHhWPc-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontFamily=宋体;fontStyle=1" edge="1" parent="1" source="HeXBj9O0EwojoMSHhWPc-8" target="HeXBj9O0EwojoMSHhWPc-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HeXBj9O0EwojoMSHhWPc-8" value="进料；（上料气缸收回、传送带转动，到料气缸伸出）" style="whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="50" y="1750" width="120" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="HeXBj9O0EwojoMSHhWPc-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontFamily=宋体;fontStyle=1" edge="1" parent="1" source="HeXBj9O0EwojoMSHhWPc-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="1850" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="220" y="1941" />
+              <mxPoint x="220" y="1850" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HeXBj9O0EwojoMSHhWPc-13" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontFamily=宋体;fontStyle=1" vertex="1" connectable="0" parent="HeXBj9O0EwojoMSHhWPc-12">
+          <mxGeometry x="-0.2278" y="3" relative="1" as="geometry">
+            <mxPoint x="25" y="-17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HeXBj9O0EwojoMSHhWPc-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontFamily=宋体;fontStyle=1" edge="1" parent="1" source="HeXBj9O0EwojoMSHhWPc-10" target="HeXBj9O0EwojoMSHhWPc-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HeXBj9O0EwojoMSHhWPc-10" value="到料？（到料光电触发）" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="70" y="1901" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HeXBj9O0EwojoMSHhWPc-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontFamily=宋体;fontStyle=1" edge="1" parent="1" source="HeXBj9O0EwojoMSHhWPc-15" target="HeXBj9O0EwojoMSHhWPc-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HeXBj9O0EwojoMSHhWPc-15" value="传送带停止" style="whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;rounded=0;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="2020" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HeXBj9O0EwojoMSHhWPc-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontFamily=宋体;fontStyle=1" edge="1" parent="1" source="HeXBj9O0EwojoMSHhWPc-17" target="HeXBj9O0EwojoMSHhWPc-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="310" y="2170" />
+              <mxPoint x="310" y="1541" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HeXBj9O0EwojoMSHhWPc-17" value="夹紧阀动作" style="whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;rounded=0;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="2140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HeXBj9O0EwojoMSHhWPc-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontFamily=宋体;fontStyle=1" edge="1" parent="1" source="HeXBj9O0EwojoMSHhWPc-20" target="HeXBj9O0EwojoMSHhWPc-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HeXBj9O0EwojoMSHhWPc-20" value="工件定位" style="whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;rounded=0;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1511" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HeXBj9O0EwojoMSHhWPc-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontFamily=宋体;fontStyle=1" edge="1" parent="1" source="HeXBj9O0EwojoMSHhWPc-22" target="HeXBj9O0EwojoMSHhWPc-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HeXBj9O0EwojoMSHhWPc-22" value="回待机点；进行标刻点位误差补偿" style="whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;rounded=0;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HeXBj9O0EwojoMSHhWPc-24" value="开始标刻图案" style="whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;rounded=0;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HeXBj9O0EwojoMSHhWPc-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontFamily=宋体;fontStyle=1" edge="1" parent="1" source="HeXBj9O0EwojoMSHhWPc-24" target="HeXBj9O0EwojoMSHhWPc-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="1891" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HeXBj9O0EwojoMSHhWPc-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontFamily=宋体;fontStyle=1" edge="1" parent="1" source="HeXBj9O0EwojoMSHhWPc-28" target="HeXBj9O0EwojoMSHhWPc-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HeXBj9O0EwojoMSHhWPc-28" value="出料；（到料气缸收回，传送带转动）" style="whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;rounded=0;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HeXBj9O0EwojoMSHhWPc-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontFamily=宋体;fontStyle=1" edge="1" parent="1" source="HeXBj9O0EwojoMSHhWPc-30" target="HeXBj9O0EwojoMSHhWPc-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="2010" />
+              <mxPoint x="420" y="2010" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HeXBj9O0EwojoMSHhWPc-30" value="反馈标刻结果" style="whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;rounded=0;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HeXBj9O0EwojoMSHhWPc-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontFamily=宋体;fontStyle=1" edge="1" parent="1" source="HeXBj9O0EwojoMSHhWPc-34" target="HeXBj9O0EwojoMSHhWPc-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="2188" />
+              <mxPoint x="650" y="2188" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HeXBj9O0EwojoMSHhWPc-40" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontFamily=宋体;fontStyle=1" vertex="1" connectable="0" parent="HeXBj9O0EwojoMSHhWPc-37">
+          <mxGeometry x="-0.7223" y="-1" relative="1" as="geometry">
+            <mxPoint x="8" y="-31" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HeXBj9O0EwojoMSHhWPc-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontFamily=宋体;fontStyle=1" edge="1" parent="1" source="HeXBj9O0EwojoMSHhWPc-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="2030" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="490" y="2100" />
+              <mxPoint x="490" y="2030" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HeXBj9O0EwojoMSHhWPc-42" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontFamily=宋体;fontStyle=1" vertex="1" connectable="0" parent="HeXBj9O0EwojoMSHhWPc-41">
+          <mxGeometry x="-0.0278" y="-2" relative="1" as="geometry">
+            <mxPoint x="15" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HeXBj9O0EwojoMSHhWPc-34" value="完全出料；（出料光电触发，并且在一段时间后为非触发状态）" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;rounded=0;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="2060" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HeXBj9O0EwojoMSHhWPc-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontFamily=宋体;fontStyle=1" edge="1" parent="1" source="HeXBj9O0EwojoMSHhWPc-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="1480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HeXBj9O0EwojoMSHhWPc-36" value="上料气缸伸出" style="whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;rounded=0;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="1450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HeXBj9O0EwojoMSHhWPc-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontFamily=宋体;fontStyle=1" edge="1" parent="1" source="HeXBj9O0EwojoMSHhWPc-44" target="HeXBj9O0EwojoMSHhWPc-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HeXBj9O0EwojoMSHhWPc-44" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-245" y="1405" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HeXBj9O0EwojoMSHhWPc-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HeXBj9O0EwojoMSHhWPc-46" target="HeXBj9O0EwojoMSHhWPc-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HeXBj9O0EwojoMSHhWPc-46" value="自动标定" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-245" y="1516" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HeXBj9O0EwojoMSHhWPc-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontFamily=宋体;fontStyle=1" edge="1" parent="1" source="HeXBj9O0EwojoMSHhWPc-61" target="HeXBj9O0EwojoMSHhWPc-53">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-185" y="1726" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HeXBj9O0EwojoMSHhWPc-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HeXBj9O0EwojoMSHhWPc-53" target="HeXBj9O0EwojoMSHhWPc-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HeXBj9O0EwojoMSHhWPc-53" value="调用拍照，识别定位孔一偏移" style="whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-245" y="1714" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HeXBj9O0EwojoMSHhWPc-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontFamily=宋体;fontStyle=1" edge="1" parent="1" source="HeXBj9O0EwojoMSHhWPc-66" target="HeXBj9O0EwojoMSHhWPc-59">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-185" y="1986" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HeXBj9O0EwojoMSHhWPc-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontFamily=宋体;fontStyle=1" edge="1" parent="1" source="HeXBj9O0EwojoMSHhWPc-59" target="HeXBj9O0EwojoMSHhWPc-69">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-185" y="2145" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HeXBj9O0EwojoMSHhWPc-59" value="计算出像素点间距并保存" style="whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;rounded=0;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="-245" y="2025" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HeXBj9O0EwojoMSHhWPc-61" value="运动到定位孔一" style="whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;rounded=0;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="-245" y="1617" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HeXBj9O0EwojoMSHhWPc-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontFamily=宋体;fontStyle=1" edge="1" parent="1" source="HeXBj9O0EwojoMSHhWPc-67" target="HeXBj9O0EwojoMSHhWPc-66">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-182" y="2017" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HeXBj9O0EwojoMSHhWPc-66" value="调用拍照，识别定位孔一偏移" style="whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-245" y="1912" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HeXBj9O0EwojoMSHhWPc-67" value="运动，默认横向移动2mm" style="whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;rounded=0;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="-245" y="1815" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HeXBj9O0EwojoMSHhWPc-69" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-245" y="2150" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
