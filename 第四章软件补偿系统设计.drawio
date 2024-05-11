@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-11T07:35:17.119Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="atAfHYOIpUeAVh-lXx-p" version="24.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-11T07:57:53.389Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="oHGa07yAztQ05CJFBnVM" version="24.4.0" type="github">
   <diagram name="第 1 页" id="Q9_2YxxPVGNRcekVHFD_">
-    <mxGraphModel dx="1098" dy="965" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1734" dy="1293" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2984,12 +2984,12 @@
           <mxGeometry x="249" y="132" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="INX3WXJyC6kHjgshVb8W-60" value="预先离线补偿法" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4257" y="2343" width="610" height="250" as="geometry" />
+          <mxGeometry x="4324" y="2343" width="503" height="250" as="geometry" />
         </mxCell>
         <mxCell id="INX3WXJyC6kHjgshVb8W-62" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;fontStyle=1;fontFamily=宋体;" edge="1" parent="INX3WXJyC6kHjgshVb8W-60" target="INX3WXJyC6kHjgshVb8W-65">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="56" y="114" as="sourcePoint" />
-            <mxPoint x="120" y="114.16" as="targetPoint" />
+            <mxPoint x="68" y="138" as="sourcePoint" />
+            <mxPoint x="132" y="138.16" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="INX3WXJyC6kHjgshVb8W-63" value="X(t)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontStyle=1;fontFamily=宋体;" vertex="1" connectable="0" parent="INX3WXJyC6kHjgshVb8W-62">
@@ -2999,19 +2999,19 @@
         </mxCell>
         <mxCell id="INX3WXJyC6kHjgshVb8W-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontStyle=1;fontFamily=宋体;" edge="1" parent="INX3WXJyC6kHjgshVb8W-60" source="INX3WXJyC6kHjgshVb8W-65" target="INX3WXJyC6kHjgshVb8W-66">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="240.00002710028912" y="114.5333333333333" as="targetPoint" />
+            <mxPoint x="252.00002710028912" y="138.5333333333333" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="INX3WXJyC6kHjgshVb8W-65" value="离线补偿信号C&lt;sub style=&quot;font-size: 16px;&quot;&gt;offline&lt;/sub&gt;(t)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;fontFamily=宋体;" vertex="1" parent="INX3WXJyC6kHjgshVb8W-60">
-          <mxGeometry x="129.5" y="94" width="103" height="40" as="geometry" />
+          <mxGeometry x="141.5" y="118" width="103" height="40" as="geometry" />
         </mxCell>
         <mxCell id="INX3WXJyC6kHjgshVb8W-66" value="运动机构" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;fontFamily=宋体;" vertex="1" parent="INX3WXJyC6kHjgshVb8W-60">
-          <mxGeometry x="370" y="94" width="80" height="40" as="geometry" />
+          <mxGeometry x="299" y="118" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="INX3WXJyC6kHjgshVb8W-68" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;fontStyle=1;fontFamily=宋体;" edge="1" parent="INX3WXJyC6kHjgshVb8W-60" source="INX3WXJyC6kHjgshVb8W-66">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="520" y="114.15999999999997" as="sourcePoint" />
-            <mxPoint x="560" y="114.15999999999997" as="targetPoint" />
+            <mxPoint x="532" y="138.15999999999997" as="sourcePoint" />
+            <mxPoint x="454" y="138" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="INX3WXJyC6kHjgshVb8W-69" value="Y2(t)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontStyle=1;fontFamily=宋体;" vertex="1" connectable="0" parent="INX3WXJyC6kHjgshVb8W-68">
@@ -3023,7 +3023,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="INX3WXJyC6kHjgshVb8W-75" value="离线误差模型" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;fontFamily=宋体;" vertex="1" parent="INX3WXJyC6kHjgshVb8W-60">
-          <mxGeometry x="136" y="35" width="90" height="40" as="geometry" />
+          <mxGeometry x="148" y="59" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="INX3WXJyC6kHjgshVb8W-82" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;fontStyle=1;fontFamily=宋体;" edge="1" parent="1" target="INX3WXJyC6kHjgshVb8W-78">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -3064,6 +3064,181 @@
               <mxPoint x="4458" y="2288" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="INX3WXJyC6kHjgshVb8W-103" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;mso-ascii-font-family:&#39;Times New Roman&#39;;&lt;br/&gt;mso-hansi-font-family:&#39;Times New Roman&#39;;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:12.0000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;混合补偿法&lt;/span&gt;&lt;/p&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4284" y="2648" width="610" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="INX3WXJyC6kHjgshVb8W-104" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontStyle=1;fontFamily=宋体;" edge="1" parent="INX3WXJyC6kHjgshVb8W-103" source="INX3WXJyC6kHjgshVb8W-109" target="INX3WXJyC6kHjgshVb8W-125">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280.9999639197258" y="114.53846153846098" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="INX3WXJyC6kHjgshVb8W-106" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;fontStyle=1;fontFamily=宋体;" edge="1" parent="INX3WXJyC6kHjgshVb8W-103" target="INX3WXJyC6kHjgshVb8W-109">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="114.16" as="sourcePoint" />
+            <mxPoint x="120" y="114.16" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="INX3WXJyC6kHjgshVb8W-107" value="X(t)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontStyle=1;fontFamily=宋体;" vertex="1" connectable="0" parent="INX3WXJyC6kHjgshVb8W-106">
+          <mxGeometry x="-0.3608" y="-2" relative="1" as="geometry">
+            <mxPoint x="-18" y="-22" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="INX3WXJyC6kHjgshVb8W-109" value="离线补偿信号C&lt;sub style=&quot;font-size: 16px;&quot;&gt;offline&lt;/sub&gt;(t)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;fontFamily=宋体;" vertex="1" parent="INX3WXJyC6kHjgshVb8W-103">
+          <mxGeometry x="110" y="94" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="INX3WXJyC6kHjgshVb8W-110" value="运动机构" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;fontFamily=宋体;" vertex="1" parent="INX3WXJyC6kHjgshVb8W-103">
+          <mxGeometry x="447" y="94" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="INX3WXJyC6kHjgshVb8W-111" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;fontStyle=1;fontFamily=宋体;" edge="1" parent="INX3WXJyC6kHjgshVb8W-103" source="INX3WXJyC6kHjgshVb8W-110">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="567" y="113.70516129032318" as="sourcePoint" />
+            <mxPoint x="600" y="113.61999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="INX3WXJyC6kHjgshVb8W-112" value="Y(t)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontStyle=1;fontFamily=宋体;" vertex="1" connectable="0" parent="INX3WXJyC6kHjgshVb8W-111">
+          <mxGeometry x="0.4323" relative="1" as="geometry">
+            <mxPoint x="-2" y="-28" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="INX3WXJyC6kHjgshVb8W-113" value="反馈输入" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;fontFamily=宋体;" vertex="1" parent="INX3WXJyC6kHjgshVb8W-103">
+          <mxGeometry x="370" y="155" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="INX3WXJyC6kHjgshVb8W-114" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;fontStyle=1;fontFamily=宋体;" edge="1" parent="INX3WXJyC6kHjgshVb8W-103" target="INX3WXJyC6kHjgshVb8W-113">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="115" as="sourcePoint" />
+            <mxPoint x="520" y="205" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="175" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="INX3WXJyC6kHjgshVb8W-115" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=16;fontStyle=1;fontFamily=宋体;" edge="1" parent="INX3WXJyC6kHjgshVb8W-103" source="INX3WXJyC6kHjgshVb8W-113">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="169" as="sourcePoint" />
+            <mxPoint x="261" y="116" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="261" y="175" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="INX3WXJyC6kHjgshVb8W-121" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontStyle=1;fontFamily=宋体;" edge="1" parent="INX3WXJyC6kHjgshVb8W-103" source="INX3WXJyC6kHjgshVb8W-122" target="INX3WXJyC6kHjgshVb8W-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="INX3WXJyC6kHjgshVb8W-122" value="离线误差模型" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;fontFamily=宋体;" vertex="1" parent="INX3WXJyC6kHjgshVb8W-103">
+          <mxGeometry x="120" y="34" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="INX3WXJyC6kHjgshVb8W-124" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontStyle=1;fontFamily=宋体;" edge="1" parent="INX3WXJyC6kHjgshVb8W-103" source="INX3WXJyC6kHjgshVb8W-125" target="INX3WXJyC6kHjgshVb8W-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="INX3WXJyC6kHjgshVb8W-125" value="在线补偿信号C&lt;sub style=&quot;font-size: 16px;&quot;&gt;online&lt;/sub&gt;(t)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;fontFamily=宋体;" vertex="1" parent="INX3WXJyC6kHjgshVb8W-103">
+          <mxGeometry x="282" y="94" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="INX3WXJyC6kHjgshVb8W-128" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;mso-ascii-font-family:&#39;Times New Roman&#39;;&lt;br/&gt;mso-hansi-font-family:&#39;Times New Roman&#39;;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:12.0000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;混合补偿法&lt;/span&gt;&lt;/p&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4091" y="2963" width="1123" height="620" as="geometry" />
+        </mxCell>
+        <mxCell id="INX3WXJyC6kHjgshVb8W-131" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;fontStyle=1;fontFamily=宋体;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="INX3WXJyC6kHjgshVb8W-128" target="INX3WXJyC6kHjgshVb8W-134">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="309.3299999999999" as="sourcePoint" />
+            <mxPoint x="280" y="309.3299999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="INX3WXJyC6kHjgshVb8W-132" value="X(t)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontStyle=1;fontFamily=宋体;" vertex="1" connectable="0" parent="INX3WXJyC6kHjgshVb8W-131">
+          <mxGeometry x="-0.3608" y="-2" relative="1" as="geometry">
+            <mxPoint x="-2" y="-18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="INX3WXJyC6kHjgshVb8W-133" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontStyle=1;fontFamily=宋体;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="INX3WXJyC6kHjgshVb8W-128" source="INX3WXJyC6kHjgshVb8W-134" target="INX3WXJyC6kHjgshVb8W-161">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="596.0000168907582" y="309.4736842105267" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="INX3WXJyC6kHjgshVb8W-134" value="补偿信号C&lt;sub style=&quot;font-size: 16px;&quot;&gt;offline&lt;/sub&gt;(t)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;fontFamily=宋体;" vertex="1" parent="INX3WXJyC6kHjgshVb8W-128">
+          <mxGeometry x="469" y="289" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="INX3WXJyC6kHjgshVb8W-135" value="运动机构" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;fontFamily=宋体;" vertex="1" parent="INX3WXJyC6kHjgshVb8W-128">
+          <mxGeometry x="860" y="289.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="INX3WXJyC6kHjgshVb8W-136" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;fontStyle=1;fontFamily=宋体;" edge="1" parent="INX3WXJyC6kHjgshVb8W-128" source="INX3WXJyC6kHjgshVb8W-135">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1020" y="305.0799999999999" as="sourcePoint" />
+            <mxPoint x="1050" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="INX3WXJyC6kHjgshVb8W-137" value="Y(t)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontStyle=1;fontFamily=宋体;" vertex="1" connectable="0" parent="INX3WXJyC6kHjgshVb8W-136">
+          <mxGeometry x="0.4323" relative="1" as="geometry">
+            <mxPoint x="2" y="-20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="INX3WXJyC6kHjgshVb8W-138" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSize=16;fontStyle=1" edge="1" parent="INX3WXJyC6kHjgshVb8W-128" source="INX3WXJyC6kHjgshVb8W-139" target="INX3WXJyC6kHjgshVb8W-157">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="INX3WXJyC6kHjgshVb8W-139" value="反馈输入" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;fontFamily=宋体;" vertex="1" parent="INX3WXJyC6kHjgshVb8W-128">
+          <mxGeometry x="890" y="351" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="INX3WXJyC6kHjgshVb8W-140" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;fontStyle=1;fontFamily=宋体;" edge="1" parent="INX3WXJyC6kHjgshVb8W-128" target="INX3WXJyC6kHjgshVb8W-139">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1020" y="310" as="sourcePoint" />
+            <mxPoint x="910" y="401" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1020" y="371" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="INX3WXJyC6kHjgshVb8W-141" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;fontStyle=1;fontFamily=宋体;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="INX3WXJyC6kHjgshVb8W-128" source="INX3WXJyC6kHjgshVb8W-157">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="600" as="sourcePoint" />
+            <mxPoint x="617" y="313" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="617" y="371" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="INX3WXJyC6kHjgshVb8W-147" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontStyle=1;fontFamily=宋体;" edge="1" parent="INX3WXJyC6kHjgshVb8W-128" source="INX3WXJyC6kHjgshVb8W-148" target="INX3WXJyC6kHjgshVb8W-134">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="INX3WXJyC6kHjgshVb8W-148" value="离线误差模型" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;fontFamily=宋体;" vertex="1" parent="INX3WXJyC6kHjgshVb8W-128">
+          <mxGeometry x="479" y="200" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="INX3WXJyC6kHjgshVb8W-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="INX3WXJyC6kHjgshVb8W-128" source="INX3WXJyC6kHjgshVb8W-153" target="INX3WXJyC6kHjgshVb8W-148">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="695" y="168" />
+              <mxPoint x="524" y="168" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="INX3WXJyC6kHjgshVb8W-153" value="测量的工件链几何误差误差" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;fontFamily=宋体;" vertex="1" parent="INX3WXJyC6kHjgshVb8W-128">
+          <mxGeometry x="630" y="105" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="INX3WXJyC6kHjgshVb8W-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="INX3WXJyC6kHjgshVb8W-128" source="INX3WXJyC6kHjgshVb8W-155" target="INX3WXJyC6kHjgshVb8W-148">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="INX3WXJyC6kHjgshVb8W-155" value="传动反向间隙补偿" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;fontFamily=宋体;" vertex="1" parent="INX3WXJyC6kHjgshVb8W-128">
+          <mxGeometry x="450" y="105" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="INX3WXJyC6kHjgshVb8W-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=宋体;fontSize=16;fontStyle=1" edge="1" parent="INX3WXJyC6kHjgshVb8W-128" source="INX3WXJyC6kHjgshVb8W-153" target="INX3WXJyC6kHjgshVb8W-153">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="INX3WXJyC6kHjgshVb8W-157" value="其他系统误差" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;fontFamily=宋体;" vertex="1" parent="INX3WXJyC6kHjgshVb8W-128">
+          <mxGeometry x="700" y="351" width="111" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="INX3WXJyC6kHjgshVb8W-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="INX3WXJyC6kHjgshVb8W-128" source="INX3WXJyC6kHjgshVb8W-159" target="INX3WXJyC6kHjgshVb8W-148">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="345" y="168" />
+              <mxPoint x="524" y="168" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="INX3WXJyC6kHjgshVb8W-159" value="系统响应时延误差" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;fontFamily=宋体;" vertex="1" parent="INX3WXJyC6kHjgshVb8W-128">
+          <mxGeometry x="280" y="105" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="INX3WXJyC6kHjgshVb8W-160" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="INX3WXJyC6kHjgshVb8W-128" source="INX3WXJyC6kHjgshVb8W-161" target="INX3WXJyC6kHjgshVb8W-135">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="INX3WXJyC6kHjgshVb8W-161" value="补偿信号C&lt;sub style=&quot;font-size: 16px;&quot;&gt;online&lt;/sub&gt;(t)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;fontFamily=宋体;" vertex="1" parent="INX3WXJyC6kHjgshVb8W-128">
+          <mxGeometry x="678" y="289" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
