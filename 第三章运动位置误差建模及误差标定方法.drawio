@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-11T03:07:09.984Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="7l-MI-y85Fs36NCZM_Uv" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-11T03:10:52.268Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="2ucHNtcc6UYvjYWQaNRr" version="24.3.1" type="github">
   <diagram name="第 1 页" id="OOSJCIqJ-EwVnwM63ZJ6">
-    <mxGraphModel dx="1826" dy="726" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2447" dy="848" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1226,7 +1226,7 @@
         <mxCell id="0_q3e9SDdNch36i6N9iW-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontFamily=宋体;fontStyle=1" edge="1" parent="1" source="0_q3e9SDdNch36i6N9iW-4" target="0_q3e9SDdNch36i6N9iW-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0_q3e9SDdNch36i6N9iW-4" value="&lt;p style=&quot;font-size: 16px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;在线检测和采集工件位置偏差&lt;/span&gt;&lt;span style=&quot;color: rgb(25, 27, 31); font-size: 16px; text-align: start; background-color: initial;&quot;&gt;δ(g)、实验法测量其他系统误差&lt;/span&gt;&lt;span style=&quot;color: rgb(25, 27, 31); font-size: 16px; text-align: start; background-color: initial;&quot;&gt;δ(h)&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="0_q3e9SDdNch36i6N9iW-4" value="&lt;p style=&quot;font-size: 16px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;在线检测和采集工件位置偏差&lt;/span&gt;&lt;span style=&quot;color: rgb(25, 27, 31); font-size: 16px; text-align: start; background-color: initial;&quot;&gt;δ(g)、实验法计算其他系统误差&lt;/span&gt;&lt;span style=&quot;color: rgb(25, 27, 31); font-size: 16px; text-align: start; background-color: initial;&quot;&gt;δ(h)&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-488" y="191" width="120" height="104" as="geometry" />
         </mxCell>
         <mxCell id="0_q3e9SDdNch36i6N9iW-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontFamily=宋体;fontStyle=1" edge="1" parent="1" source="0_q3e9SDdNch36i6N9iW-9" target="0_q3e9SDdNch36i6N9iW-7">
