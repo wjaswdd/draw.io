@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-16T11:10:40.825Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="A2Wiu8a50t4Xo7J6sY3-" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-25T15:42:55.137Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="LrSgdljGpOaYeyiwoYpA" version="24.4.8" type="github">
   <diagram name="第 1 页" id="Wj_qWsWuq65p6FTtyxBT">
-    <mxGraphModel dx="2358" dy="79" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1626" dy="-308" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -61,7 +61,7 @@
             <mxPoint x="600" y="1932" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZKDhSou7eGmhhmMNhwQq-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1xTat9Xmn45gP-cjI3Hc-18" target="ZKDhSou7eGmhhmMNhwQq-1">
+        <mxCell id="ZKDhSou7eGmhhmMNhwQq-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1xTat9Xmn45gP-cjI3Hc-18" target="ZKDhSou7eGmhhmMNhwQq-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1xTat9Xmn45gP-cjI3Hc-18" value="第四章&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;设备运动定位的软件补偿方法及补偿算法设计&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;fontFamily=宋体;" parent="1" vertex="1">
@@ -76,7 +76,7 @@
         <mxCell id="1xTat9Xmn45gP-cjI3Hc-20" value="1.分析和评估现有的补偿方法&lt;br style=&quot;font-size: 16px;&quot;&gt;2.研究运动误差补偿算法&lt;br style=&quot;border-color: var(--border-color); font-size: 16px;&quot;&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;fontStyle=1;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="355" y="1692.5" width="220" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="Rq6HQAsDEJMm4nxhbrKe-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Rq6HQAsDEJMm4nxhbrKe-6" target="Rq6HQAsDEJMm4nxhbrKe-10" edge="1">
+        <mxCell id="Rq6HQAsDEJMm4nxhbrKe-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;" parent="1" source="Rq6HQAsDEJMm4nxhbrKe-6" target="Rq6HQAsDEJMm4nxhbrKe-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="280" y="3770" />
@@ -84,7 +84,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Rq6HQAsDEJMm4nxhbrKe-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Rq6HQAsDEJMm4nxhbrKe-6" target="Rq6HQAsDEJMm4nxhbrKe-20" edge="1">
+        <mxCell id="Rq6HQAsDEJMm4nxhbrKe-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;" parent="1" source="Rq6HQAsDEJMm4nxhbrKe-6" target="Rq6HQAsDEJMm4nxhbrKe-20" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="379" y="3810" as="targetPoint" />
             <Array as="points">
@@ -93,10 +93,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Rq6HQAsDEJMm4nxhbrKe-6" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;总体结构&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Rq6HQAsDEJMm4nxhbrKe-6" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;总体结构&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="294" y="3650" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Rq6HQAsDEJMm4nxhbrKe-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Rq6HQAsDEJMm4nxhbrKe-10" target="Rq6HQAsDEJMm4nxhbrKe-30" edge="1">
+        <mxCell id="Rq6HQAsDEJMm4nxhbrKe-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;" parent="1" source="Rq6HQAsDEJMm4nxhbrKe-10" target="Rq6HQAsDEJMm4nxhbrKe-30" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="147" y="3900" />
@@ -104,7 +104,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Rq6HQAsDEJMm4nxhbrKe-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Rq6HQAsDEJMm4nxhbrKe-10" target="Rq6HQAsDEJMm4nxhbrKe-31" edge="1">
+        <mxCell id="Rq6HQAsDEJMm4nxhbrKe-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;" parent="1" source="Rq6HQAsDEJMm4nxhbrKe-10" target="Rq6HQAsDEJMm4nxhbrKe-31" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="147" y="3900" />
@@ -112,7 +112,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Rq6HQAsDEJMm4nxhbrKe-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Rq6HQAsDEJMm4nxhbrKe-10" target="Rq6HQAsDEJMm4nxhbrKe-32" edge="1">
+        <mxCell id="Rq6HQAsDEJMm4nxhbrKe-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;" parent="1" source="Rq6HQAsDEJMm4nxhbrKe-10" target="Rq6HQAsDEJMm4nxhbrKe-32" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="147" y="3880" />
@@ -120,7 +120,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Rq6HQAsDEJMm4nxhbrKe-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Rq6HQAsDEJMm4nxhbrKe-10" target="Rq6HQAsDEJMm4nxhbrKe-48" edge="1">
+        <mxCell id="Rq6HQAsDEJMm4nxhbrKe-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;" parent="1" source="Rq6HQAsDEJMm4nxhbrKe-10" target="Rq6HQAsDEJMm4nxhbrKe-48" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="147" y="3900" />
@@ -128,7 +128,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Rq6HQAsDEJMm4nxhbrKe-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Rq6HQAsDEJMm4nxhbrKe-10" target="Rq6HQAsDEJMm4nxhbrKe-50" edge="1">
+        <mxCell id="Rq6HQAsDEJMm4nxhbrKe-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;" parent="1" source="Rq6HQAsDEJMm4nxhbrKe-10" target="Rq6HQAsDEJMm4nxhbrKe-50" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="147" y="3900" />
@@ -136,10 +136,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Rq6HQAsDEJMm4nxhbrKe-10" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;mso-ascii-font-family:&#39;Times New Roman&#39;;&lt;br/&gt;mso-hansi-font-family:&#39;Times New Roman&#39;;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:12.0000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;硬件系统&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Rq6HQAsDEJMm4nxhbrKe-10" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;硬件系统&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="117" y="3810" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Rq6HQAsDEJMm4nxhbrKe-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Rq6HQAsDEJMm4nxhbrKe-20" target="Rq6HQAsDEJMm4nxhbrKe-37" edge="1">
+        <mxCell id="Rq6HQAsDEJMm4nxhbrKe-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;" parent="1" source="Rq6HQAsDEJMm4nxhbrKe-20" target="Rq6HQAsDEJMm4nxhbrKe-37" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="536" y="3900" />
@@ -147,10 +147,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Rq6HQAsDEJMm4nxhbrKe-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Rq6HQAsDEJMm4nxhbrKe-20" target="Rq6HQAsDEJMm4nxhbrKe-38" edge="1">
+        <mxCell id="Rq6HQAsDEJMm4nxhbrKe-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;" parent="1" source="Rq6HQAsDEJMm4nxhbrKe-20" target="Rq6HQAsDEJMm4nxhbrKe-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Rq6HQAsDEJMm4nxhbrKe-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Rq6HQAsDEJMm4nxhbrKe-20" target="Rq6HQAsDEJMm4nxhbrKe-39" edge="1">
+        <mxCell id="Rq6HQAsDEJMm4nxhbrKe-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;" parent="1" source="Rq6HQAsDEJMm4nxhbrKe-20" target="Rq6HQAsDEJMm4nxhbrKe-39" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="536" y="3900" />
@@ -158,7 +158,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Rq6HQAsDEJMm4nxhbrKe-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Rq6HQAsDEJMm4nxhbrKe-20" target="Rq6HQAsDEJMm4nxhbrKe-51" edge="1">
+        <mxCell id="Rq6HQAsDEJMm4nxhbrKe-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;" parent="1" source="Rq6HQAsDEJMm4nxhbrKe-20" target="Rq6HQAsDEJMm4nxhbrKe-51" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="536" y="3900" />
@@ -166,49 +166,49 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Rq6HQAsDEJMm4nxhbrKe-20" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 16px;&quot;&gt;测控系统&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Rq6HQAsDEJMm4nxhbrKe-20" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;测控系统&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="506" y="3810" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Rq6HQAsDEJMm4nxhbrKe-30" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 16px;&quot;&gt;机械系统&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Rq6HQAsDEJMm4nxhbrKe-30" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;机械系统&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="14" y="3930" width="26" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="Rq6HQAsDEJMm4nxhbrKe-31" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 16px;&quot;&gt;传动机构&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" parent="1" vertex="1">
+        <mxCell id="Rq6HQAsDEJMm4nxhbrKe-31" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;传动机构&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="74" y="3930" width="26" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="Rq6HQAsDEJMm4nxhbrKe-32" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 16px;&quot;&gt;位置传感器&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" parent="1" vertex="1">
+        <mxCell id="Rq6HQAsDEJMm4nxhbrKe-32" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;位置传感器&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="134" y="3930" width="26" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="Rq6HQAsDEJMm4nxhbrKe-37" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;上位机软件&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" parent="1" vertex="1">
+        <mxCell id="Rq6HQAsDEJMm4nxhbrKe-37" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;上位机软件&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="452" y="3930" width="26" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="Rq6HQAsDEJMm4nxhbrKe-38" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 16px;&quot;&gt;相机系统&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" parent="1" vertex="1">
+        <mxCell id="Rq6HQAsDEJMm4nxhbrKe-38" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;相机系统&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="494" y="3930" width="26" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="Rq6HQAsDEJMm4nxhbrKe-39" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;电机驱动控制器&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" parent="1" vertex="1">
+        <mxCell id="Rq6HQAsDEJMm4nxhbrKe-39" value="&lt;font&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;电机驱动控制器&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="540" y="3930" width="26" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="Rq6HQAsDEJMm4nxhbrKe-48" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 16px;&quot;&gt;激光模组&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" parent="1" vertex="1">
+        <mxCell id="Rq6HQAsDEJMm4nxhbrKe-48" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;激光模组&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="190" y="3930" width="26" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="Rq6HQAsDEJMm4nxhbrKe-50" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;……&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" parent="1" vertex="1">
+        <mxCell id="Rq6HQAsDEJMm4nxhbrKe-50" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;……&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="240" y="3930" width="26" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="Rq6HQAsDEJMm4nxhbrKe-51" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;……&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" parent="1" vertex="1">
+        <mxCell id="Rq6HQAsDEJMm4nxhbrKe-51" value="&lt;font&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;……&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="590" y="3930" width="26" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="ZKDhSou7eGmhhmMNhwQq-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZKDhSou7eGmhhmMNhwQq-1" target="1xTat9Xmn45gP-cjI3Hc-8">
+        <mxCell id="ZKDhSou7eGmhhmMNhwQq-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZKDhSou7eGmhhmMNhwQq-1" target="1xTat9Xmn45gP-cjI3Hc-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZKDhSou7eGmhhmMNhwQq-1" value="第五章&lt;br style=&quot;font-size: 16px;&quot;&gt;补偿技术及激光标刻运动控制系统设计" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="ZKDhSou7eGmhhmMNhwQq-1" value="第五章&lt;br style=&quot;font-size: 16px;&quot;&gt;补偿技术及激光标刻运动控制系统设计" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="170" y="1820" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ZKDhSou7eGmhhmMNhwQq-2" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontSize=16;fontStyle=1;fontFamily=宋体;" edge="1" parent="1">
+        <mxCell id="ZKDhSou7eGmhhmMNhwQq-2" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontSize=16;fontStyle=1;fontFamily=宋体;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="140" y="1800" as="sourcePoint" />
             <mxPoint x="590" y="1800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZKDhSou7eGmhhmMNhwQq-3" value="1.阐述补偿技术在运动控制系统的位置及配置流程&lt;br style=&quot;font-size: 16px;&quot;&gt;2.标定补偿技术的参数&lt;br style=&quot;border-color: var(--border-color); font-size: 16px;&quot;&gt;3.设计并实现激光标刻软件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;fontStyle=1;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="ZKDhSou7eGmhhmMNhwQq-3" value="1.阐述补偿技术在运动控制系统的位置及配置流程&lt;br style=&quot;font-size: 16px;&quot;&gt;2.标定补偿技术的参数&lt;br style=&quot;border-color: var(--border-color); font-size: 16px;&quot;&gt;3.设计并实现激光标刻软件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;fontStyle=1;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="345" y="1812.5" width="220" height="95" as="geometry" />
         </mxCell>
       </root>
