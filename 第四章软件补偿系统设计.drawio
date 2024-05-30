@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-29T14:54:39.452Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="050dOqBFjdPiZ-b39msN" version="24.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-30T14:11:53.540Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="A6zBWeBg-qKstNpppn7e" version="24.4.9" type="github">
   <diagram name="第 1 页" id="Q9_2YxxPVGNRcekVHFD_">
-    <mxGraphModel dx="7640" dy="3573" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3645" dy="1772" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2114,7 +2114,7 @@
         <mxCell id="Ikidw1mnouGlt81PWhxG-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontStyle=1;fontFamily=宋体;" parent="1" source="Ikidw1mnouGlt81PWhxG-14" target="Ikidw1mnouGlt81PWhxG-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ikidw1mnouGlt81PWhxG-14" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;误差标定&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;fontFamily=宋体;" parent="1" vertex="1">
+        <mxCell id="Ikidw1mnouGlt81PWhxG-14" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;测量误差&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="3313.5" y="1629" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ikidw1mnouGlt81PWhxG-15" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;误差补偿&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;fontFamily=宋体;" parent="1" vertex="1">
