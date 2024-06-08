@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-08T08:17:02.502Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="NzbJedrtnHdwne5_2w_G" version="24.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-08T10:51:30.104Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="A44uvIWRwPY8eKRvOnBM" version="24.5.1" type="github">
   <diagram name="第 1 页" id="OOSJCIqJ-EwVnwM63ZJ6">
-    <mxGraphModel dx="2826" dy="1261" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3974" dy="1868" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1216,96 +1216,96 @@
         <mxCell id="HeXBj9O0EwojoMSHhWPc-86" value="开始标刻" style="whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-432" y="1804" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0_q3e9SDdNch36i6N9iW-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontFamily=宋体;fontStyle=1" parent="1" source="0_q3e9SDdNch36i6N9iW-2" target="0_q3e9SDdNch36i6N9iW-4" edge="1">
+        <mxCell id="0_q3e9SDdNch36i6N9iW-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=22;fontFamily=宋体;fontStyle=1" parent="1" source="0_q3e9SDdNch36i6N9iW-2" target="0_q3e9SDdNch36i6N9iW-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0_q3e9SDdNch36i6N9iW-2" value="&lt;font face=&quot;宋体&quot;&gt;开始&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="0_q3e9SDdNch36i6N9iW-2" value="&lt;font style=&quot;font-size: 22px;&quot; face=&quot;宋体&quot;&gt;开始&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontFamily=宋体;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-547" y="106" width="231" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0_q3e9SDdNch36i6N9iW-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontFamily=宋体;fontStyle=1" parent="1" source="0_q3e9SDdNch36i6N9iW-4" target="0_q3e9SDdNch36i6N9iW-15" edge="1">
+        <mxCell id="0_q3e9SDdNch36i6N9iW-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=22;fontFamily=宋体;fontStyle=1" parent="1" source="0_q3e9SDdNch36i6N9iW-4" target="0_q3e9SDdNch36i6N9iW-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0_q3e9SDdNch36i6N9iW-4" value="&lt;p style=&quot;font-size: 16px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;在线检测和采集工件位置偏差&lt;/span&gt;&lt;span style=&quot;color: rgb(25, 27, 31); font-size: 16px; text-align: start; background-color: initial;&quot;&gt;、实验法计算其他系统误差&lt;/span&gt;&lt;span style=&quot;color: rgb(25, 27, 31); font-size: 16px; text-align: start; background-color: initial;&quot;&gt;δ(h)&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-548" y="206" width="233" height="84" as="geometry" />
+        <mxCell id="0_q3e9SDdNch36i6N9iW-4" value="&lt;p style=&quot;font-size: 22px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot; face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 22px; background-color: initial;&quot;&gt;在线检测和采集工件位置偏差&lt;/span&gt;&lt;span style=&quot;color: rgb(25, 27, 31); font-size: 22px; text-align: start; background-color: initial;&quot;&gt;、实验法计算其他系统误差&lt;/span&gt;&lt;span style=&quot;color: rgb(25, 27, 31); font-size: 22px; text-align: start; background-color: initial;&quot;&gt;δ(h)&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;fontFamily=宋体;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-548" y="190" width="233" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="0_q3e9SDdNch36i6N9iW-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontFamily=宋体;fontStyle=1" parent="1" source="0_q3e9SDdNch36i6N9iW-9" target="0_q3e9SDdNch36i6N9iW-7" edge="1">
+        <mxCell id="0_q3e9SDdNch36i6N9iW-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=22;fontFamily=宋体;fontStyle=1" parent="1" source="0_q3e9SDdNch36i6N9iW-9" target="0_q3e9SDdNch36i6N9iW-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-428" y="557" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0_q3e9SDdNch36i6N9iW-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontStyle=1;fontSize=16;" parent="1" source="0_q3e9SDdNch36i6N9iW-7" target="0_q3e9SDdNch36i6N9iW-13" edge="1">
+        <mxCell id="0_q3e9SDdNch36i6N9iW-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontStyle=1;fontSize=22;" parent="1" source="0_q3e9SDdNch36i6N9iW-7" target="0_q3e9SDdNch36i6N9iW-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0_q3e9SDdNch36i6N9iW-7" value="&lt;p style=&quot;&quot; class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;宋体&quot;&gt;&lt;span style=&quot;&quot;&gt;运动机构的输入脉冲值&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;X(t)+&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;C&lt;/span&gt;&lt;sub style=&quot;background-color: initial;&quot;&gt;online&lt;/sub&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(t)&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;rounded=0;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="0_q3e9SDdNch36i6N9iW-7" value="&lt;p style=&quot;font-size: 22px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot; face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;运动机构的输入脉冲值&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 22px;&quot;&gt;X(t)+&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 22px;&quot;&gt;C&lt;/span&gt;&lt;sub style=&quot;background-color: initial; font-size: 22px;&quot;&gt;online&lt;/sub&gt;&lt;span style=&quot;background-color: initial; font-size: 22px;&quot;&gt;(t)&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=22;fontFamily=宋体;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-553" y="529" width="241" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0_q3e9SDdNch36i6N9iW-9" value="&lt;p style=&quot;font-size: 16px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;根据&lt;/span&gt;工件位置偏差&lt;span style=&quot;color: rgb(25, 27, 31); font-size: 16px; text-align: start; background-color: initial;&quot;&gt;及&lt;/span&gt;&lt;span style=&quot;color: rgb(25, 27, 31); font-size: 16px; text-align: start; background-color: initial;&quot;&gt;δ(h)生成&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;在线&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;补偿脉冲值C&lt;sub style=&quot;font-size: 16px;&quot;&gt;online&lt;/sub&gt;(t)&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;rounded=0;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="-550" y="417" width="235" height="76" as="geometry" />
+        <mxCell id="0_q3e9SDdNch36i6N9iW-9" value="&lt;p style=&quot;font-size: 22px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot; face=&quot;宋体&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 22px;&quot;&gt;根据&lt;/span&gt;工件位置偏差&lt;span style=&quot;color: rgb(25, 27, 31); font-size: 22px; text-align: start; background-color: initial;&quot;&gt;及&lt;/span&gt;&lt;span style=&quot;color: rgb(25, 27, 31); font-size: 22px; text-align: start; background-color: initial;&quot;&gt;δ(h)生成&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 22px;&quot;&gt;在线&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 22px;&quot;&gt;补偿脉冲值C&lt;sub style=&quot;font-size: 22px;&quot;&gt;online&lt;/sub&gt;(t)&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=22;fontFamily=宋体;rounded=0;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="-550" y="417" width="235" height="89" as="geometry" />
         </mxCell>
-        <mxCell id="0_q3e9SDdNch36i6N9iW-11" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="0_q3e9SDdNch36i6N9iW-11" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontFamily=宋体;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-557" y="827" width="251" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0_q3e9SDdNch36i6N9iW-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSize=16;fontStyle=1" parent="1" source="0_q3e9SDdNch36i6N9iW-13" target="0_q3e9SDdNch36i6N9iW-34" edge="1">
+        <mxCell id="0_q3e9SDdNch36i6N9iW-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSize=22;fontStyle=1" parent="1" source="0_q3e9SDdNch36i6N9iW-13" target="0_q3e9SDdNch36i6N9iW-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0_q3e9SDdNch36i6N9iW-13" value="&lt;p style=&quot;font-size: 16px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;运动机构的反馈点位脉冲值&lt;/span&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;为&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;Y1(t)&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;rounded=0;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="0_q3e9SDdNch36i6N9iW-13" value="&lt;p style=&quot;font-size: 22px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot; face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;运动机构的反馈点位脉冲值&lt;/span&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;为&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 22px;&quot;&gt;Y1(t)&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=22;fontFamily=宋体;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-555.5" y="632" width="246" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0_q3e9SDdNch36i6N9iW-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontFamily=宋体;fontStyle=1" parent="1" source="0_q3e9SDdNch36i6N9iW-15" target="0_q3e9SDdNch36i6N9iW-9" edge="1">
+        <mxCell id="0_q3e9SDdNch36i6N9iW-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=22;fontFamily=宋体;fontStyle=1" parent="1" source="0_q3e9SDdNch36i6N9iW-15" target="0_q3e9SDdNch36i6N9iW-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0_q3e9SDdNch36i6N9iW-15" value="&lt;p style=&quot;font-size: 16px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;输入运&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;动机构的&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;期望&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;点位脉冲值X(t)&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="0_q3e9SDdNch36i6N9iW-15" value="&lt;p style=&quot;font-size: 22px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot; face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;输入运&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 22px; background-color: initial;&quot;&gt;动机构的&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 22px;&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;期望&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 22px;&quot;&gt;点位脉冲值X(t)&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;fontFamily=宋体;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-549" y="332" width="235" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0_q3e9SDdNch36i6N9iW-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontFamily=宋体;fontStyle=1" parent="1" source="0_q3e9SDdNch36i6N9iW-33" target="0_q3e9SDdNch36i6N9iW-20" edge="1">
+        <mxCell id="0_q3e9SDdNch36i6N9iW-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=28;fontFamily=宋体;fontStyle=1" parent="1" source="0_q3e9SDdNch36i6N9iW-33" target="0_q3e9SDdNch36i6N9iW-20" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-145" y="164" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Fk9XOgmXVz9yIR5wlAPY-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSize=16;fontStyle=1" parent="1" source="0_q3e9SDdNch36i6N9iW-20" target="0_q3e9SDdNch36i6N9iW-25" edge="1">
+        <mxCell id="Fk9XOgmXVz9yIR5wlAPY-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSize=28;fontStyle=1" parent="1" source="0_q3e9SDdNch36i6N9iW-20" target="0_q3e9SDdNch36i6N9iW-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0_q3e9SDdNch36i6N9iW-20" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;建立误差模型H(t)&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-253" y="192" width="229" height="54" as="geometry" />
+        <mxCell id="0_q3e9SDdNch36i6N9iW-20" value="&lt;p style=&quot;font-size: 28px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 28px;&quot;&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;建立误差模型H(t)&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fontFamily=宋体;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-253" y="192" width="264" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="0_q3e9SDdNch36i6N9iW-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontStyle=1;fontSize=16;" parent="1" source="0_q3e9SDdNch36i6N9iW-23" target="0_q3e9SDdNch36i6N9iW-29" edge="1">
+        <mxCell id="0_q3e9SDdNch36i6N9iW-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontStyle=1;fontSize=28;" parent="1" source="0_q3e9SDdNch36i6N9iW-23" target="0_q3e9SDdNch36i6N9iW-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0_q3e9SDdNch36i6N9iW-23" value="&lt;p style=&quot;font-size: 16px;&quot; class=&quot;MsoNormal&quot;&gt;运动机构的输入脉冲值&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;X(t)+&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;C&lt;/span&gt;&lt;sub style=&quot;background-color: initial; font-size: 16px;&quot;&gt;offline&lt;/sub&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;(t)&lt;/span&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;rounded=0;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-255.5" y="529" width="236" height="69" as="geometry" />
+        <mxCell id="0_q3e9SDdNch36i6N9iW-23" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 28px;&quot;&gt;运动机构的输入脉冲值&lt;span style=&quot;background-color: initial; font-size: 28px;&quot;&gt;X(t)+&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 28px;&quot;&gt;C&lt;/span&gt;&lt;sub style=&quot;background-color: initial; font-size: 28px;&quot;&gt;offline&lt;/sub&gt;&lt;span style=&quot;background-color: initial; font-size: 28px;&quot;&gt;(t)&lt;/span&gt;&lt;br style=&quot;font-size: 28px;&quot;&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=28;fontFamily=宋体;rounded=0;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-257.5" y="564" width="271.5" height="98" as="geometry" />
         </mxCell>
-        <mxCell id="0_q3e9SDdNch36i6N9iW-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontFamily=宋体;fontStyle=1" parent="1" source="0_q3e9SDdNch36i6N9iW-29" target="0_q3e9SDdNch36i6N9iW-27" edge="1">
+        <mxCell id="0_q3e9SDdNch36i6N9iW-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=28;fontFamily=宋体;fontStyle=1" parent="1" source="0_q3e9SDdNch36i6N9iW-29" target="0_q3e9SDdNch36i6N9iW-27" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-142" y="793" as="targetPoint" />
-            <mxPoint x="-145" y="722" as="sourcePoint" />
+            <mxPoint x="-143" y="843" as="targetPoint" />
+            <mxPoint x="-146" y="772" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Fk9XOgmXVz9yIR5wlAPY-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSize=16;fontStyle=1" parent="1" source="0_q3e9SDdNch36i6N9iW-25" target="0_q3e9SDdNch36i6N9iW-31" edge="1">
+        <mxCell id="Fk9XOgmXVz9yIR5wlAPY-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSize=28;fontStyle=1" parent="1" source="0_q3e9SDdNch36i6N9iW-25" target="0_q3e9SDdNch36i6N9iW-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0_q3e9SDdNch36i6N9iW-25" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 16px;&quot;&gt;输入运&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;动机构的&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;期望&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;点位脉冲值X(t)&lt;/span&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;rounded=0;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="-254" y="270" width="231" height="60" as="geometry" />
+        <mxCell id="0_q3e9SDdNch36i6N9iW-25" value="&lt;p style=&quot;font-size: 28px;&quot; class=&quot;MsoNormal&quot;&gt;输入运&lt;span style=&quot;background-color: initial; font-size: 28px;&quot;&gt;动机构的&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 28px;&quot;&gt;期望&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 28px;&quot;&gt;点位脉冲值X(t)&lt;/span&gt;&lt;br style=&quot;font-size: 28px;&quot;&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=28;fontFamily=宋体;rounded=0;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="-254" y="270" width="266" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0_q3e9SDdNch36i6N9iW-27" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-258" y="732" width="241" height="60" as="geometry" />
+        <mxCell id="0_q3e9SDdNch36i6N9iW-27" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fontSize=28;fontFamily=宋体;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-259" y="782" width="278" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0_q3e9SDdNch36i6N9iW-29" value="&lt;p style=&quot;font-size: 16px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;运动机构的反馈脉冲值&lt;/span&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;为&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;Y2(t)&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;rounded=0;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-257" y="631" width="239" height="60" as="geometry" />
+        <mxCell id="0_q3e9SDdNch36i6N9iW-29" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 28px;&quot;&gt;&lt;span style=&quot;font-size: 28px;&quot;&gt;运动机构的反馈脉冲值&lt;/span&gt;&lt;span style=&quot;font-size: 28px;&quot;&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;为&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 28px;&quot;&gt;Y2(t)&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=28;fontFamily=宋体;rounded=0;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-258" y="686" width="274" height="71" as="geometry" />
         </mxCell>
-        <mxCell id="Fk9XOgmXVz9yIR5wlAPY-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSize=16;fontStyle=1" parent="1" source="0_q3e9SDdNch36i6N9iW-31" target="0_q3e9SDdNch36i6N9iW-23" edge="1">
+        <mxCell id="Fk9XOgmXVz9yIR5wlAPY-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSize=28;fontStyle=1" parent="1" source="0_q3e9SDdNch36i6N9iW-31" target="0_q3e9SDdNch36i6N9iW-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0_q3e9SDdNch36i6N9iW-31" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;根据代入的反向间隙误差&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(25, 27, 31); text-align: start; background-color: initial; font-size: 16px;&quot;&gt;δ(p)及系统响应时延误差&lt;/span&gt;&lt;span style=&quot;color: rgb(25, 27, 31); text-align: start; background-color: initial; font-size: 16px;&quot;&gt;δ(t)&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;，离线生成补偿脉冲值&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;C&lt;/span&gt;&lt;sub style=&quot;background-color: initial; font-size: 16px;&quot;&gt;offline&lt;/sub&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;(t)&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-255.5" y="368" width="234" height="126" as="geometry" />
+        <mxCell id="0_q3e9SDdNch36i6N9iW-31" value="&lt;p style=&quot;font-size: 28px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 28px;&quot;&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;根据代入的反向间隙误差&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(25, 27, 31); text-align: start; background-color: initial; font-size: 28px;&quot;&gt;δ(p)及系统响应时延误差&lt;/span&gt;&lt;span style=&quot;color: rgb(25, 27, 31); text-align: start; background-color: initial; font-size: 28px;&quot;&gt;δ(t)&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 28px;&quot;&gt;，离线生成补偿脉冲值&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 28px;&quot;&gt;C&lt;/span&gt;&lt;sub style=&quot;background-color: initial; font-size: 28px;&quot;&gt;offline&lt;/sub&gt;&lt;span style=&quot;background-color: initial; font-size: 28px;&quot;&gt;(t)&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;fontFamily=宋体;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-255.5" y="355" width="269.5" height="189" as="geometry" />
         </mxCell>
-        <mxCell id="0_q3e9SDdNch36i6N9iW-33" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-252" y="104" width="226" height="60" as="geometry" />
+        <mxCell id="0_q3e9SDdNch36i6N9iW-33" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fontSize=28;fontFamily=宋体;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-252" y="104" width="264" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0_q3e9SDdNch36i6N9iW-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSize=16;fontStyle=1" parent="1" source="0_q3e9SDdNch36i6N9iW-34" target="0_q3e9SDdNch36i6N9iW-11" edge="1">
+        <mxCell id="0_q3e9SDdNch36i6N9iW-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSize=22;fontStyle=1" parent="1" source="0_q3e9SDdNch36i6N9iW-34" target="0_q3e9SDdNch36i6N9iW-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0_q3e9SDdNch36i6N9iW-34" value="&lt;p style=&quot;font-size: 16px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;记录运动机构反馈脉冲值，用以计算&lt;span style=&quot;background-color: initial; color: rgb(25, 27, 31); text-align: start; font-size: 16px;&quot;&gt;其他系统误差&lt;/span&gt;&lt;span style=&quot;background-color: initial; color: rgb(25, 27, 31); text-align: start; font-size: 16px;&quot;&gt;δ(h)&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;rounded=0;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-560" y="726" width="255" height="66" as="geometry" />
+        <mxCell id="0_q3e9SDdNch36i6N9iW-34" value="&lt;p style=&quot;font-size: 22px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot; face=&quot;宋体&quot;&gt;记录运动机构反馈脉冲值，用以计算&lt;span style=&quot;background-color: initial; color: rgb(25, 27, 31); text-align: start; font-size: 22px;&quot;&gt;其他系统误差&lt;/span&gt;&lt;span style=&quot;background-color: initial; color: rgb(25, 27, 31); text-align: start; font-size: 22px;&quot;&gt;δ(h)&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=22;fontFamily=宋体;rounded=0;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-560" y="713" width="255" height="79" as="geometry" />
         </mxCell>
         <mxCell id="Fk9XOgmXVz9yIR5wlAPY-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Fk9XOgmXVz9yIR5wlAPY-2" target="Fk9XOgmXVz9yIR5wlAPY-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
