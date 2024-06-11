@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-11T03:27:41.915Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="vQ7Ac002QLZ6WonJ1f2q" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-11T03:30:18.021Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="CKIqSHDu3x_emo-DfMrh" version="24.5.2" type="github">
   <diagram name="第 1 页" id="Q9_2YxxPVGNRcekVHFD_">
-    <mxGraphModel dx="4317" dy="1798" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5195" dy="2255" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3575,7 +3575,7 @@
         <mxCell id="IcziCH6lKP05e_4Ys_3l-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontStyle=1;fontSize=19;" parent="1" source="IcziCH6lKP05e_4Ys_3l-25" target="IcziCH6lKP05e_4Ys_3l-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IcziCH6lKP05e_4Ys_3l-25" value="其他系统误差补偿策略" style="whiteSpace=wrap;html=1;fontSize=19;fontFamily=宋体;rounded=0;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="IcziCH6lKP05e_4Ys_3l-25" value="其他系统误差补偿" style="whiteSpace=wrap;html=1;fontSize=19;fontFamily=宋体;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-632" y="4850" width="232" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IcziCH6lKP05e_4Ys_3l-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=19;fontFamily=宋体;fontStyle=1" parent="1" source="IcziCH6lKP05e_4Ys_3l-29" target="IcziCH6lKP05e_4Ys_3l-28" edge="1">
