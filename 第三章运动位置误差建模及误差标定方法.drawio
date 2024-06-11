@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-11T03:41:42.541Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="GZoginAzpi9vH_cqv7an" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-11T08:20:03.607Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="tHEDPVgzsw3RCleS5rW3" version="24.5.2" type="github">
   <diagram name="第 1 页" id="OOSJCIqJ-EwVnwM63ZJ6">
-    <mxGraphModel dx="4554" dy="2146" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3175" dy="1453" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1377,6 +1377,90 @@
         </mxCell>
         <mxCell id="Fk9XOgmXVz9yIR5wlAPY-18" value="&lt;p style=&quot;font-size: 16px;&quot; class=&quot;MsoNormal&quot;&gt;运动机构的输入脉冲值&lt;span style=&quot;background-color: initial;&quot;&gt;X(t)+&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;C&lt;/span&gt;&lt;sub style=&quot;background-color: initial; font-size: 16px;&quot;&gt;offline&lt;/sub&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(t)&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-721" y="493" width="120" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="D1bp-VSZ7NP2I4cc5hu5-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;fontStyle=1;fontFamily=宋体;" edge="1" parent="1" source="D1bp-VSZ7NP2I4cc5hu5-2" target="D1bp-VSZ7NP2I4cc5hu5-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D1bp-VSZ7NP2I4cc5hu5-2" value="多体系统理论" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="1702" y="610" width="206" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D1bp-VSZ7NP2I4cc5hu5-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;fontStyle=1;fontFamily=宋体;" edge="1" parent="1" source="D1bp-VSZ7NP2I4cc5hu5-4" target="D1bp-VSZ7NP2I4cc5hu5-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D1bp-VSZ7NP2I4cc5hu5-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="1702" y="715" width="206" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D1bp-VSZ7NP2I4cc5hu5-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;fontStyle=1;fontFamily=宋体;" edge="1" parent="1" source="D1bp-VSZ7NP2I4cc5hu5-6" target="D1bp-VSZ7NP2I4cc5hu5-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D1bp-VSZ7NP2I4cc5hu5-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="1702" y="810" width="205" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D1bp-VSZ7NP2I4cc5hu5-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;fontStyle=1;fontFamily=宋体;" edge="1" parent="1" source="D1bp-VSZ7NP2I4cc5hu5-8" target="D1bp-VSZ7NP2I4cc5hu5-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D1bp-VSZ7NP2I4cc5hu5-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="1702" y="910" width="204" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D1bp-VSZ7NP2I4cc5hu5-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;fontStyle=1;fontFamily=宋体;" edge="1" parent="1" source="D1bp-VSZ7NP2I4cc5hu5-10" target="D1bp-VSZ7NP2I4cc5hu5-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D1bp-VSZ7NP2I4cc5hu5-10" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="1702" y="1010" width="204" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D1bp-VSZ7NP2I4cc5hu5-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;fontStyle=1;fontFamily=宋体;" edge="1" parent="1" source="D1bp-VSZ7NP2I4cc5hu5-12" target="D1bp-VSZ7NP2I4cc5hu5-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D1bp-VSZ7NP2I4cc5hu5-12" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="1702" y="1109" width="204" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D1bp-VSZ7NP2I4cc5hu5-13" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="1702" y="1210" width="204" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D1bp-VSZ7NP2I4cc5hu5-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontStyle=1;fontSize=26;" edge="1" parent="1" source="D1bp-VSZ7NP2I4cc5hu5-14" target="D1bp-VSZ7NP2I4cc5hu5-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D1bp-VSZ7NP2I4cc5hu5-14" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fontSize=26;fontStyle=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="2023" y="515" width="206" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D1bp-VSZ7NP2I4cc5hu5-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontStyle=1;fontSize=26;" edge="1" parent="1" source="D1bp-VSZ7NP2I4cc5hu5-15" target="D1bp-VSZ7NP2I4cc5hu5-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D1bp-VSZ7NP2I4cc5hu5-15" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;加工机械抽象为多体系统&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontStyle=1;fontSize=26;" vertex="1" parent="1">
+          <mxGeometry x="2023" y="601" width="206" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="D1bp-VSZ7NP2I4cc5hu5-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontStyle=1;fontSize=26;" edge="1" parent="1" source="D1bp-VSZ7NP2I4cc5hu5-16" target="D1bp-VSZ7NP2I4cc5hu5-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D1bp-VSZ7NP2I4cc5hu5-16" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;构建拓扑图和低序列阵列&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontStyle=1;fontSize=26;" vertex="1" parent="1">
+          <mxGeometry x="2023" y="700" width="206" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="D1bp-VSZ7NP2I4cc5hu5-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontStyle=1;fontSize=26;" edge="1" parent="1" source="D1bp-VSZ7NP2I4cc5hu5-17" target="D1bp-VSZ7NP2I4cc5hu5-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D1bp-VSZ7NP2I4cc5hu5-17" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;描述位姿&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontStyle=1;fontSize=26;" vertex="1" parent="1">
+          <mxGeometry x="2023" y="816" width="206" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D1bp-VSZ7NP2I4cc5hu5-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontStyle=1;fontSize=26;" edge="1" parent="1" source="D1bp-VSZ7NP2I4cc5hu5-18" target="D1bp-VSZ7NP2I4cc5hu5-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D1bp-VSZ7NP2I4cc5hu5-18" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;误差运动学分析&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontStyle=1;fontSize=26;" vertex="1" parent="1">
+          <mxGeometry x="2023" y="909" width="206" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="D1bp-VSZ7NP2I4cc5hu5-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontStyle=1;fontSize=26;" edge="1" parent="1" source="D1bp-VSZ7NP2I4cc5hu5-19" target="D1bp-VSZ7NP2I4cc5hu5-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D1bp-VSZ7NP2I4cc5hu5-19" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;误差模型&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontStyle=1;fontSize=26;" vertex="1" parent="1">
+          <mxGeometry x="2023" y="1014" width="206" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D1bp-VSZ7NP2I4cc5hu5-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontStyle=1;fontSize=26;" edge="1" parent="1" source="D1bp-VSZ7NP2I4cc5hu5-20" target="D1bp-VSZ7NP2I4cc5hu5-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D1bp-VSZ7NP2I4cc5hu5-20" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;测量误差&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontStyle=1;fontSize=26;" vertex="1" parent="1">
+          <mxGeometry x="2023" y="1109" width="206" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="D1bp-VSZ7NP2I4cc5hu5-21" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fontSize=26;fontStyle=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="2023" y="1205" width="206" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
